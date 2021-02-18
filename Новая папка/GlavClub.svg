@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="map-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1024" height="768" viewBox="0 0 10240 7680" xml:space="preserve">
+	<metadata>
+		<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+		<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c014 79.151739, 2013/04/03-12:12:15">
+			<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				<rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/" xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/" xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#" xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">
+					<xmpTPg:MaxPageSize rdf:parseType="Resource">
+						<stDim:w>10240.000397</stDim:w>
+						<stDim:h>7680.000000</stDim:h>
+						<stDim:unit>Points</stDim:unit>
+					</xmpTPg:MaxPageSize>
+					<xmpTPg:NPages>1</xmpTPg:NPages>
+					<xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+					<xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+					<xmpTPg:Fonts>
+						<rdf:Bag>
+							<rdf:li rdf:parseType="Resource">
+								<stFnt:fontName>DINPro</stFnt:fontName>
+								<stFnt:fontFamily>DIN Pro</stFnt:fontFamily>
+								<stFnt:fontFace>Regular</stFnt:fontFace>
+								<stFnt:fontType>TrueType</stFnt:fontType>
+								<stFnt:versionString>Version 7.504; 2005; Build 1021</stFnt:versionString>
+								<stFnt:composite>False</stFnt:composite>
+								<stFnt:fontFileName>DINPro.ttf</stFnt:fontFileName>
+							</rdf:li>
+						</rdf:Bag>
+					</xmpTPg:Fonts>
+					<xmpTPg:PlateNames>
+						<rdf:Seq>
+							<rdf:li>Cyan</rdf:li>
+							<rdf:li>Magenta</rdf:li>
+							<rdf:li>Yellow</rdf:li>
+							<rdf:li>Black</rdf:li>
+						</rdf:Seq>
+					</xmpTPg:PlateNames>
+					<xmpTPg:SwatchGroups>
+						<rdf:Seq>
+							<rdf:li rdf:parseType="Resource">
+								<xmpG:groupName>Default Swatch Group</xmpG:groupName>
+								<xmpG:groupType>0</xmpG:groupType>
+							</rdf:li>
+						</rdf:Seq>
+					</xmpTPg:SwatchGroups>
+					<dc:format>image/svg+xml</dc:format>
+				</rdf:Description>
+			</rdf:RDF>
+		</x:xmpmeta>
+		<?xpacket end="w"?>
+	</metadata>
+	<g id="background">
+		<path name="Танцпол" tc-sector="5daef31a1078b484aa8177df" id="5daef31a1078b484aa8177df" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M3344.284,4174.465c-22,0-40-18-40-40v-2485.72
+			c0-22,18-40.039,40-40.086l3510.716-7.55c22-0.047,40,17.914,40,39.914v1829.875c0,22-15.581,49.014-34.623,60.031
+			l-1077.729,623.506c-19.042,11.017-52.623,20.031-74.623,20.031H3344.284z"/>
+		<path name="VIP Party Lounge" tc-sector="5daef31a1078b484aa8177d9" id="5daef31a1078b484aa8177d9" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M4288.041,4236.394c-22,0.043-40,18.079-40,40.079
+			v590.762c0,22,18,40,40,40h2164.306c22,0,40-18,40-40v-381.961c0-22,15.687-48.827,34.86-59.616l275.216-154.863
+			c19.173-10.789,52.86-19.616,74.86-19.616h447.804c22,0,40-18,40-40V1641.157c0-22-18-40-40-40h-331.089c-22,0-40,18-40,40
+			v1863.769c0,22-15.581,49.014-34.623,60.031l-1120.892,648.477c-19.043,11.017-52.623,20.066-74.623,20.11L4288.041,4236.394z"/>
+		<path name="VIP 4" tc-sector="5daef31a1078b484aa8177dd" id="5daef31a1078b484aa8177dd" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M3104.719,6095.33c22-0.111,40-18.203,40-40.203
+			v-445.382c0-22-18-40-40-40h-907.924c-22,0-52.728-12.728-68.284-28.284l-141.19-141.19
+			c-15.556-15.557-28.284-46.285-28.284-68.285V1153.5c0-22-18-40-40-40h-349.522c-22,0-40,18-40,40v4534.954
+			c0,22,12.728,52.728,28.284,68.284l316.4,316.4c15.556,15.557,46.284,28.193,68.284,28.082L3104.719,6095.33z"/>
+		<path name="VIP входной" tc-sector="5daef31a1078b484aa8177e0" id="5daef31a1078b484aa8177e0" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M8425.65,1722.049c0-22-18-40-40-40H8055.4
+			c-22,0-40,18-40,40v2475.959c0,22,18,40,40,40h330.25c22,0,40-18,40-40V1722.049z"/>
+		<path name="VIP входной" tc-sector="5daef31a1078b484aa8177e0" id="5daef31a1078b484aa8177e0" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M2549.611,1722.049c0-22-18-40-40-40h-319.99
+			c-22,0-40,18-40,40v2474.423c0,22,18,40,40,40h319.99c22,0,40-18,40-40V1722.049z"/>
+		<path name="Ложа VIP 2" tc-sector="5daef31a1078b484aa8177d5" id="5daef31a1078b484aa8177d5" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M7720.5,5343.863c0,22-18,40-40,40h-971.827
+			c-22,0-40-18-40-40v-396.629c0-22,18-40,40-40H7680.5c22,0,40,18,40,40V5343.863z"/>
+		<path name="VIP 1" tc-sector="5daef31a1078b484aa8177d4" id="5daef31a1078b484aa8177d4" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M6526.77,5821.993c0-22-18-40-40-40H4201.593
+			c-22,0-40,18-40,40v810.194c0,22,18,40,40,40H6486.77c22,0,40-18,40-40V5821.993z"/>
+		<path name="Ложа VIP 3" tc-sector="5daef31a1078b484aa8177d6" id="5daef31a1078b484aa8177d6" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M2149.622,4947.234c0-22,18-40,40-40H3996.5
+			c22,0,40,18,40,40v390.421c0,22-18,40-40,40H2325.789c-22,0-52.728-12.728-68.284-28.284l-79.598-79.598
+			c-15.556-15.556-28.284-46.284-28.284-68.284V4947.234z"/>
+		<path name="VIP 3" tc-sector="5daef31a1078b484aa8177db" id="5daef31a1078b484aa8177db" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M3103.5,4441.933c-22,0-40-18-40-40V1212.045
+			c0-22-18-40-40-40h-370c-22,0-58,0-80,0h-383.879c-22,0-40,18-40,40v361.657c0,22,18,40,40,40H2573.5c22,0,40,18,40,40v2608.71
+			c0,22-18,40-40,40h-383.879c-22,0-40,18-40,40v465.822c0,22,18,40,40,40H2573.5c22,0,58,0,80,0h1350.156c22,0,40-18,40-40
+			v-326.302c0-22-18-40-40-40H3103.5z"/>
+		<path name="VIP 2" tc-sector="5daef31a1078b484aa8177d7" id="5daef31a1078b484aa8177d7" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M8385.65,1618.5c22,0,40-18,40-40v-383.613
+			c0-22-18-40-40-40h-391.047c-22,0-58,0-80,0h-323.888c-22,0-40,18-40,40v3207.045c0,22-18,40-40,40h-614.364
+			c-22,0-55.739,8.734-74.975,19.41l-117.728,65.336c-19.236,10.676-34.975,37.41-34.975,59.41v222.146c0,22,18,40,40,40h1205.93
+			c22,0,58,0,80,0h391.047c22,0,40-18,40-40v-465.822c0-22-18-40-40-40h-391.047c-22,0-40-18-40-40V1658.5c0-22,18-40,40-40H8385.65
+			z"/>
+		<path name="Super VIP" tc-sector="5daef31a1078b484aa8177d3" id="5daef31a1078b484aa8177d3" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M6566.77,5113.224c-22,0-58,0-80,0H4201.593
+			c-22,0-53.359,0-69.688,0s-29.688,18-29.688,40v184.432c0,22,13.359,40,29.688,40s29.688,18,29.688,40V5680.5c0,22,18,40,40,40
+			H6486.77c22,0,40-18,40-40v-262.845c0-22,18-40,40-40h3.73c22,0,40-18,40-40v-184.432c0-22-18-40-40-40H6566.77z"/>
+		<g id="details">
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M4102.619,6695.458c0.021,22,18.039,40,40.039,40
+				h2404.377c22,0,40-18,40-40V5482.863c0-22,18-40,40-40h1112.466c22,0,40-18,40-40v-455.628c0-22,18-40,40-40h618.194
+				c22,0,40-18,40-40V1135.887c0-22-18-40-40-40h-905.98c-22,0-40,18-40,40v3207.046c0,22-18,40-40,40h-570.638
+				c-22,0-55.739,8.734-74.975,19.41l-161.454,89.603c-19.236,10.676-34.975,37.41-34.975,59.41v462.869c0,22-18,40-40,40H4142.657
+				c-22,0-40-18-40-40v-591.291c0-22-18-40-40-40h-899.943c-22,0-40-18-40-40V1153.044c0-22-18-40-40-40h-952.093c-22,0-40,18-40,40
+				v4072.884c0,22,12.728,52.728,28.284,68.284l114.159,114.159c15.556,15.556,46.284,28.284,68.284,28.284h1760.044
+				c22,0,40.018,18,40.039,40L4102.619,6695.458z"/>
+			<text transform="matrix(1 0 0 1 4923.584 2860.3235)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="88">Танцпол</text>
+			<path fill="#F5F5F5" d="M7365.088,1135.887c0-22-18-40-40-40H3337.182c-22,0-40,18-40,40v341.514c0,22,18,40,40,40h3987.906
+			c22,0,40-18,40-40V1135.887z"/>
+			<text transform="matrix(1 0 0 1 5205.2095 1348.5342)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="88">Сцена</text>
+			<text transform="matrix(0.8647 -0.5023 0.5023 0.8647 6248.7275 4172.5991)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="88">VIP Party Lounge</text>
+			<text transform="matrix(1 0 0 1 7002.9609 1709.4962)" enable-background="new">
+				<tspan x="0" y="0" fill="#8A8A8A" font-family="'DINPro'" font-size="45.8457">Ограниченный</tspan>
+				<tspan x="94.578" y="55.015" fill="#8A8A8A" font-family="'DINPro'" font-size="45.8457">обзор</tspan>
+			</text>
+			<text transform="matrix(1 0 0 1 1584.0442 1234.7776)" enable-background="new">
+				<tspan x="0" y="0" fill="#8A8A8A" font-family="'DINPro'" font-size="45.8457">Ограниченный</tspan>
+				<tspan x="94.578" y="55.015" fill="#8A8A8A" font-family="'DINPro'" font-size="45.8457">обзор</tspan>
+			</text>
+			<text transform="matrix(1 0 0 1 2343.0234 6004.2373)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="88">VIP 4</text>
+			<text transform="matrix(4.489659e-011 -1 1 4.489659e-011 8251.9229 3142.9316)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="88">VIP входной</text>
+			<text transform="matrix(4.489659e-011 -1 1 4.489659e-011 2380.0142 3142.9316)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="88">VIP входной</text>
+			<text transform="matrix(1 0 0 1 6992.4038 5271.8613)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="88">Ложа VIP 2</text>
+			<text transform="matrix(1 0 0 1 5241.9072 6569.6406)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="88">VIP 1</text>
+			<text transform="matrix(1 0 0 1 3085.8901 5253.8613)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="88">Ложа VIP 3</text>
+			<text transform="matrix(1 0 0 1 2412.6011 4633.4302)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="88">VIP 3</text>
+			<text transform="matrix(1 0 0 1 2686.6809 1331.1906)" enable-background="new">
+				<tspan x="0" y="0" fill="#8A8A8A" font-family="'DINPro'" font-size="45.8457">Ограниченный</tspan>
+				<tspan x="94.578" y="55.015" fill="#8A8A8A" font-family="'DINPro'" font-size="45.8457">обзор</tspan>
+			</text>
+			<text transform="matrix(1 0 0 1 7961.7852 4633.4302)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="88">VIP 2</text>
+			<text transform="matrix(1 0 0 1 7595.8643 1331.1906)" enable-background="new">
+				<tspan x="0" y="0" fill="#8A8A8A" font-family="'DINPro'" font-size="45.8457">Ограниченный</tspan>
+				<tspan x="94.578" y="55.015" fill="#8A8A8A" font-family="'DINPro'" font-size="45.8457">обзор</tspan>
+			</text>
+			<text transform="matrix(1 0 0 1 5184.0415 5296.8608)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="88">SuperVIP</text><path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M7095.736,1887.351c0,0-18.132,19.265-40.5,19.265
+		s-40.5-19.265-40.5-19.265s18.132-19.265,40.5-19.265S7095.736,1887.351,7095.736,1887.351z"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="7055.236" cy="1887.351" r="19.265"/>
+			<line fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" x1="7029.143" y1="1913.166" x2="7081.184" y2="1861.126"/>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M7095.736,2003.755c0,0-18.132,19.265-40.5,19.265
+		s-40.5-19.265-40.5-19.265s18.132-19.265,40.5-19.265S7095.736,2003.755,7095.736,2003.755z"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="7055.236" cy="2003.755" r="19.265"/>
+			<line fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" x1="7029.143" y1="2029.57" x2="7081.184" y2="1977.53"/>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M7095.736,2120.159c0,0-18.132,19.265-40.5,19.265
+		s-40.5-19.265-40.5-19.265s18.132-19.264,40.5-19.264S7095.736,2120.159,7095.736,2120.159z"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="7055.236" cy="2120.159" r="19.265"/>
+			<line fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" x1="7029.143" y1="2145.974" x2="7081.184" y2="2093.933"/>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M7095.736,2236.563c0,0-18.132,19.265-40.5,19.265
+		s-40.5-19.265-40.5-19.265s18.132-19.264,40.5-19.264S7095.736,2236.563,7095.736,2236.563z"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="7055.236" cy="2236.563" r="19.265"/>
+			<line fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" x1="7029.143" y1="2262.378" x2="7081.184" y2="2210.337"/>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M7677,1517.606c0,0-18.132,19.265-40.5,19.265
+		s-40.5-19.265-40.5-19.265s18.132-19.265,40.5-19.265S7677,1517.606,7677,1517.606z"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="7636.5" cy="1517.606" r="19.265"/>
+			<line fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" x1="7610.408" y1="1543.421" x2="7662.448" y2="1491.38"/>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M7677,1644.01c0,0-18.132,19.265-40.5,19.265
+		s-40.5-19.265-40.5-19.265s18.132-19.265,40.5-19.265S7677,1644.01,7677,1644.01z"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="7636.5" cy="1644.01" r="19.265"/>
+			<line fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" x1="7610.408" y1="1669.826" x2="7662.448" y2="1617.785"/>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M7677,1770.415c0,0-18.132,19.265-40.5,19.265
+		s-40.5-19.265-40.5-19.265s18.132-19.265,40.5-19.265S7677,1770.415,7677,1770.415z"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="7636.5" cy="1770.415" r="19.265"/>
+			<line fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" x1="7610.408" y1="1796.23" x2="7662.448" y2="1744.19"/>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M7677,1896.82c0,0-18.132,19.265-40.5,19.265
+		s-40.5-19.265-40.5-19.265s18.132-19.265,40.5-19.265S7677,1896.82,7677,1896.82z"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="7636.5" cy="1896.82" r="19.265"/>
+			<line fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" x1="7610.408" y1="1922.635" x2="7662.448" y2="1870.595"/>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M7677,2023.225c0,0-18.132,19.265-40.5,19.265
+		s-40.5-19.265-40.5-19.265s18.132-19.265,40.5-19.265S7677,2023.225,7677,2023.225z"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="7636.5" cy="2023.225" r="19.265"/>
+			<line fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" x1="7610.408" y1="2049.04" x2="7662.448" y2="1996.999"/>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M2996.875,1517.679c0,0-18.132,19.265-40.5,19.265
+		c-22.367,0-40.5-19.265-40.5-19.265s18.133-19.265,40.5-19.265C2978.742,1498.415,2996.875,1517.679,2996.875,1517.679z"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="2956.375" cy="1517.679" r="19.265"/>
+			<line fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" x1="2930.282" y1="1543.494" x2="2982.323" y2="1491.454"/>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M2996.875,1638.705c0,0-18.132,19.265-40.5,19.265
+		c-22.367,0-40.5-19.265-40.5-19.265s18.133-19.265,40.5-19.265C2978.742,1619.441,2996.875,1638.705,2996.875,1638.705z"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="2956.375" cy="1638.705" r="19.265"/>
+			<line fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" x1="2930.282" y1="1664.52" x2="2982.323" y2="1612.48"/>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M2996.875,1759.731c0,0-18.132,19.265-40.5,19.265
+		c-22.367,0-40.5-19.265-40.5-19.265s18.133-19.265,40.5-19.265C2978.742,1740.467,2996.875,1759.731,2996.875,1759.731z"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="2956.375" cy="1759.731" r="19.265"/>
+			<line fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" x1="2930.282" y1="1785.546" x2="2982.323" y2="1733.506"/>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M2996.875,1880.757c0,0-18.132,19.265-40.5,19.265
+		c-22.367,0-40.5-19.265-40.5-19.265s18.133-19.265,40.5-19.265C2978.742,1861.493,2996.875,1880.757,2996.875,1880.757z"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="2956.375" cy="1880.757" r="19.265"/>
+			<line fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" x1="2930.282" y1="1906.572" x2="2982.323" y2="1854.532"/>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M2996.875,2001.783c0,0-18.132,19.265-40.5,19.265
+		c-22.367,0-40.5-19.265-40.5-19.265s18.133-19.265,40.5-19.265C2978.742,1982.519,2996.875,2001.783,2996.875,2001.783z"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="2956.375" cy="2001.783" r="19.265"/>
+			<line fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" x1="2930.282" y1="2027.598" x2="2982.323" y2="1975.558"/>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M1885.229,1416.123c0,0-18.132,19.265-40.5,19.265
+		c-22.367,0-40.5-19.265-40.5-19.265s18.133-19.265,40.5-19.265C1867.097,1396.858,1885.229,1416.123,1885.229,1416.123z"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="1844.729" cy="1416.123" r="19.265"/>
+			<line fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" x1="1818.637" y1="1441.938" x2="1870.677" y2="1389.897"/>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M1885.229,1537.149c0,0-18.132,19.265-40.5,19.265
+		c-22.367,0-40.5-19.265-40.5-19.265s18.133-19.265,40.5-19.265C1867.097,1517.884,1885.229,1537.149,1885.229,1537.149z"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="1844.729" cy="1537.149" r="19.265"/>
+			<line fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" x1="1818.637" y1="1562.964" x2="1870.677" y2="1510.923"/>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M1885.229,1645.624c0,0-18.132,19.265-40.5,19.265
+		c-22.367,0-40.5-19.265-40.5-19.265s18.133-19.265,40.5-19.265C1867.097,1626.359,1885.229,1645.624,1885.229,1645.624z"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="1844.729" cy="1645.624" r="19.265"/>
+			<line fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" x1="1818.637" y1="1671.439" x2="1870.677" y2="1619.399"/>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M1885.229,1754.099c0,0-18.132,19.265-40.5,19.265
+		c-22.367,0-40.5-19.265-40.5-19.265s18.133-19.265,40.5-19.265C1867.097,1734.835,1885.229,1754.099,1885.229,1754.099z"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="1844.729" cy="1754.099" r="19.265"/>
+			<line fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" x1="1818.637" y1="1779.914" x2="1870.677" y2="1727.874"/>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M1885.229,1862.574c0,0-18.132,19.265-40.5,19.265
+		c-22.367,0-40.5-19.265-40.5-19.265s18.133-19.265,40.5-19.265C1867.097,1843.31,1885.229,1862.574,1885.229,1862.574z"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="1844.729" cy="1862.574" r="19.265"/>
+			<line fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" x1="1818.637" y1="1888.389" x2="1870.677" y2="1836.349"/>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M1885.229,1971.05c0,0-18.132,19.265-40.5,19.265
+		c-22.367,0-40.5-19.265-40.5-19.265s18.133-19.265,40.5-19.265C1867.097,1951.785,1885.229,1971.05,1885.229,1971.05z"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="1844.729" cy="1971.05" r="19.265"/>
+			<line fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" x1="1818.637" y1="1996.865" x2="1870.677" y2="1944.824"/>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M1885.229,2079.525c0,0-18.132,19.264-40.5,19.264
+		c-22.367,0-40.5-19.264-40.5-19.264s18.133-19.265,40.5-19.265C1867.097,2060.26,1885.229,2079.525,1885.229,2079.525z"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="1844.729" cy="2079.525" r="19.265"/>
+			<line fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" x1="1818.637" y1="2105.34" x2="1870.677" y2="2053.3"/>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M1885.229,2188c0,0-18.132,19.265-40.5,19.265
+		c-22.367,0-40.5-19.265-40.5-19.265s18.133-19.265,40.5-19.265C1867.097,2168.735,1885.229,2188,1885.229,2188z"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="1844.729" cy="2188" r="19.265"/>
+			<line fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" x1="1818.637" y1="2213.815" x2="1870.677" y2="2161.775"/>
+		</g>
+	</g>
+	<g id="labels">
+		<text dataSectorId="5daef31a1078b484aa8177df">Танцпол</text>
+		<text dataSectorId="5daef31a1078b484aa8177d9">VIP Party Lounge</text>
+		<text dataSectorId="5daef31a1078b484aa8177da">VIP Party Lounge ограниченная видимость</text>
+		<text dataSectorId="5daef31a1078b484aa8177dd">VIP 4</text>
+		<text dataSectorId="5daef31a1078b484aa8177de">VIP 4 ограниченная видимость</text>
+		<text dataSectorId="5daef31a1078b484aa8177e0">VIP входной</text>
+		<text dataSectorId="5daef31a1078b484aa8177d5">Ложа VIP 2</text>
+		<text dataSectorId="5daef31a1078b484aa8177d4">VIP 1</text>
+		<text dataSectorId="5daef31a1078b484aa8177d6">Ложа VIP 3</text>
+		<text dataSectorId="5daef31a1078b484aa8177db">VIP 3</text>
+		<text dataSectorId="5daef31a1078b484aa8177dc">VIP 3 ограниченная видимость</text>
+		<text dataSectorId="5daef31a1078b484aa8177d7">VIP 2</text>
+		<text dataSectorId="5daef31a1078b484aa8177d8">VIP 2 ограниченная видимость</text>
+		<text dataSectorId="5daef31a1078b484aa8177d3">Super VIP</text>
+	</g>
+	<g id="seats">
+        <g dataSectorId="5daef31a1078b484aa8177df" dataComponent="svg__sector" dataElId="1">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="5097.559" cy="2960.029" r="34.422" dataComponent="svg__seat" dataName="5daef31a1078b484aa8177df"/>
+			</g>
+		</g>
+		<g dataSectorId="5daef31a1078b484aa8177d9" dataComponent="svg__sector" dataElId="2">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6397.051" cy="4236.473" r="34.422" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="6492.347" cy="4182.423" r="34.422" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="6587.035" cy="4128.392" r="34.422" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="6681.113" cy="4074.379" r="34.422" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="6776.41" cy="4020.33" r="34.422" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="6871.707" cy="3966.28" r="34.422" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="6967.003" cy="3912.231" r="34.422" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="7062.3" cy="3858.181" r="34.422" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="7157.596" cy="3804.132" r="34.422" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="7157.596" cy="3687.964" r="34.422" dataComponent="svg__seat" dataName="10"/>
+				<circle fill="#C7C7C7" cx="7157.596" cy="3571.795" r="34.422" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="7157.596" cy="3455.627" r="34.422" dataComponent="svg__seat" dataName="12"/>
+				<circle fill="#C7C7C7" cx="7157.596" cy="3339.459" r="34.422" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="7157.596" cy="3223.291" r="34.422" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="7157.596" cy="3107.122" r="34.422" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="7157.596" cy="2990.954" r="34.422" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="7157.596" cy="2874.786" r="34.422" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="7157.596" cy="2758.617" r="34.422" dataComponent="svg__seat" dataName="18"/>
+				<circle fill="#C7C7C7" cx="7157.596" cy="2642.449" r="34.422" dataComponent="svg__seat" dataName="19"/>
+				<circle fill="#C7C7C7" cx="7157.596" cy="2526.281" r="34.422" dataComponent="svg__seat" dataName="20"/>
+				<circle fill="#C7C7C7" cx="7157.596" cy="2410.113" r="34.422" dataComponent="svg__seat" dataName="21"/>
+			</g>
+		</g>
+		<g dataSectorId="5daef31a1078b484aa8177da" dataComponent="svg__sector" dataElId="3">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="7157.596" cy="2235.886" r="34.422" dataComponent="svg__seat" dataName="22"/>
+				<circle fill="#C7C7C7" cx="7157.596" cy="2119.718" r="34.422" dataComponent="svg__seat" dataName="23"/>
+				<circle fill="#C7C7C7" cx="7157.596" cy="2003.55" r="34.422" dataComponent="svg__seat" dataName="24"/>
+				<circle fill="#C7C7C7" cx="7157.596" cy="1887.381" r="34.422" dataComponent="svg__seat" dataName="25"/>
+			</g>
+		</g>
+		<g dataSectorId="5daef31a1078b484aa8177dd" dataComponent="svg__sector" dataElId="4">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="2991.8" cy="5818.317" r="34.422" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="2835.825" cy="5818.317" r="34.422" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="2679.851" cy="5818.317" r="34.422" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="2523.877" cy="5818.317" r="34.422" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="2367.903" cy="5818.317" r="34.422" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="2211.929" cy="5818.317" r="34.422" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="2055.955" cy="5818.317" r="34.422" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="1949.946" cy="5694.031" r="34.422" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="1843.938" cy="5569.746" r="34.422" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="5445.46" r="34.422" dataComponent="svg__seat" dataName="10"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="5302.947" r="34.422" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="5160.435" r="34.422" dataComponent="svg__seat" dataName="12"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="5017.921" r="34.422" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="4875.409" r="34.422" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="4732.896" r="34.422" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="4590.383" r="34.422" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="4447.871" r="34.422" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="4305.358" r="34.422" dataComponent="svg__seat" dataName="18"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="4162.845" r="34.422" dataComponent="svg__seat" dataName="19"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="4020.332" r="34.422" dataComponent="svg__seat" dataName="20"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="3877.82" r="34.422" dataComponent="svg__seat" dataName="21"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="3735.307" r="34.422" dataComponent="svg__seat" dataName="22"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="3592.794" r="34.422" dataComponent="svg__seat" dataName="23"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="3450.281" r="34.422" dataComponent="svg__seat" dataName="24"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="3307.769" r="34.422" dataComponent="svg__seat" dataName="25"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="3165.256" r="34.422" dataComponent="svg__seat" dataName="26"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="3022.743" r="34.422" dataComponent="svg__seat" dataName="27"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="2880.23" r="34.422" dataComponent="svg__seat" dataName="28"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="2737.718" r="34.422" dataComponent="svg__seat" dataName="29"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="2595.205" r="34.422" dataComponent="svg__seat" dataName="30"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="2452.692" r="34.422" dataComponent="svg__seat" dataName="31"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="2303.032" r="34.422" dataComponent="svg__seat" dataName="32"/>
+			</g>
+		</g>
+		<g dataSectorId="5daef31a1078b484aa8177de" dataComponent="svg__sector" dataElId="5">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="1737.929" cy="2187.795" r="34.422" dataComponent="svg__seat" dataName="33"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="2077.475" r="34.422" dataComponent="svg__seat" dataName="34"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="1967.155" r="34.422" dataComponent="svg__seat" dataName="35"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="1856.836" r="34.422" dataComponent="svg__seat" dataName="36"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="1746.516" r="34.422" dataComponent="svg__seat" dataName="37"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="1636.196" r="34.422" dataComponent="svg__seat" dataName="38"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="1525.876" r="34.422" dataComponent="svg__seat" dataName="39"/>
+				<circle fill="#C7C7C7" cx="1737.929" cy="1415.557" r="34.422" dataComponent="svg__seat" dataName="40"/>
+			</g>
+		</g>
+		<g dataSectorId="5daef31a1078b484aa8177e0" dataComponent="svg__sector" dataElId="6">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="8220.525" cy="3270.749" r="34.422" dataComponent="svg__seat" dataName="5daef31a1078b484aa8177e0"/>
+			</g>
+		</g>
+		<g dataSectorId="5daef31a1078b484aa8177e0" dataComponent="svg__sector" dataElId="7">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="2349.617" cy="3270.749" r="34.422" dataComponent="svg__seat" dataName="5daef31a1078b484aa8177e0"/>
+			</g>
+		</g>
+		<g dataSectorId="5daef31a1078b484aa8177d5" dataComponent="svg__sector" dataElId="8">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6780.97" cy="5089.925" r="34.422" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="6897.95" cy="5089.925" r="34.422" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="7014.931" cy="5089.925" r="34.422" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="7131.912" cy="5089.925" r="34.422" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="7248.892" cy="5089.925" r="34.422" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="7365.873" cy="5089.925" r="34.422" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="7482.854" cy="5089.925" r="34.422" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="7603.068" cy="5089.925" r="34.422" dataComponent="svg__seat" dataName="8"/>
+			</g>
+		</g>
+		<g dataSectorId="5daef31a1078b484aa8177d4" dataComponent="svg__sector" dataElId="9">
+			<g dataComponent="svg__row" dataName="3" dataElId="3">
+				<circle fill="#C7C7C7" cx="4432.665" cy="5980.522" r="34.422" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="4540.709" cy="5980.522" r="34.422" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="4648.753" cy="5980.522" r="34.422" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="4756.798" cy="5980.522" r="34.422" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="4864.843" cy="5980.522" r="34.422" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="4972.887" cy="5980.522" r="34.422" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="5080.932" cy="5980.522" r="34.422" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="5188.977" cy="5980.522" r="34.422" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="5297.021" cy="5980.522" r="34.422" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="5405.066" cy="5980.522" r="34.422" dataComponent="svg__seat" dataName="10"/>
+				<circle fill="#C7C7C7" cx="5513.11" cy="5980.522" r="34.422" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="5621.155" cy="5980.522" r="34.422" dataComponent="svg__seat" dataName="12"/>
+				<circle fill="#C7C7C7" cx="5729.2" cy="5980.522" r="34.422" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="5837.245" cy="5980.522" r="34.422" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="5945.289" cy="5980.522" r="34.422" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="6053.333" cy="5980.522" r="34.422" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="6161.378" cy="5980.522" r="34.422" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="6269.423" cy="5980.522" r="34.422" dataComponent="svg__seat" dataName="18"/>
+			</g>
+			<g dataComponent="svg__row" dataName="4" dataElId="4">
+				<circle fill="#C7C7C7" cx="4432.665" cy="6108.063" r="34.422" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="4540.709" cy="6108.063" r="34.422" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="4648.753" cy="6108.063" r="34.422" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="4756.798" cy="6108.063" r="34.422" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="4864.843" cy="6108.063" r="34.422" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="4972.887" cy="6108.063" r="34.422" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="5080.932" cy="6108.063" r="34.422" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="5188.977" cy="6108.063" r="34.422" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="5297.021" cy="6108.063" r="34.422" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="5405.066" cy="6108.063" r="34.422" dataComponent="svg__seat" dataName="10"/>
+				<circle fill="#C7C7C7" cx="5513.11" cy="6108.063" r="34.422" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="5621.155" cy="6108.063" r="34.422" dataComponent="svg__seat" dataName="12"/>
+				<circle fill="#C7C7C7" cx="5729.2" cy="6108.063" r="34.422" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="5837.245" cy="6108.063" r="34.422" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="5945.289" cy="6108.063" r="34.422" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="6053.333" cy="6108.063" r="34.422" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="6161.378" cy="6108.063" r="34.422" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="6269.423" cy="6108.063" r="34.422" dataComponent="svg__seat" dataName="18"/>
+			</g>
+			<g dataComponent="svg__row" dataName="5" dataElId="5">
+				<circle fill="#C7C7C7" cx="4432.665" cy="6235.604" r="34.422" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="4540.709" cy="6235.604" r="34.422" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="4648.753" cy="6235.604" r="34.422" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="4756.798" cy="6235.604" r="34.422" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="4864.843" cy="6235.604" r="34.422" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="4972.887" cy="6235.604" r="34.422" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="5080.932" cy="6235.604" r="34.422" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="5188.977" cy="6235.604" r="34.422" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="5297.021" cy="6235.604" r="34.422" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="5405.066" cy="6235.604" r="34.422" dataComponent="svg__seat" dataName="10"/>
+				<circle fill="#C7C7C7" cx="5513.11" cy="6235.604" r="34.422" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="5621.155" cy="6235.604" r="34.422" dataComponent="svg__seat" dataName="12"/>
+				<circle fill="#C7C7C7" cx="5729.2" cy="6235.604" r="34.422" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="5837.245" cy="6235.604" r="34.422" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="5945.289" cy="6235.604" r="34.422" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="6053.333" cy="6235.604" r="34.422" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="6161.378" cy="6235.604" r="34.422" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="6269.423" cy="6235.604" r="34.422" dataComponent="svg__seat" dataName="18"/>
+			</g>
+			<g dataComponent="svg__row" dataName="6" dataElId="6">
+				<circle fill="#C7C7C7" cx="4432.665" cy="6363.146" r="34.422" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="4540.709" cy="6363.146" r="34.422" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="4648.753" cy="6363.146" r="34.422" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="4756.798" cy="6363.146" r="34.422" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="4864.843" cy="6363.146" r="34.422" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="4972.887" cy="6363.146" r="34.422" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="5080.932" cy="6363.146" r="34.422" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="5188.977" cy="6363.146" r="34.422" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="5297.021" cy="6363.146" r="34.422" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="5405.066" cy="6363.146" r="34.422" dataComponent="svg__seat" dataName="10"/>
+				<circle fill="#C7C7C7" cx="5513.11" cy="6363.146" r="34.422" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="5621.155" cy="6363.146" r="34.422" dataComponent="svg__seat" dataName="12"/>
+				<circle fill="#C7C7C7" cx="5729.2" cy="6363.146" r="34.422" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="5837.245" cy="6363.146" r="34.422" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="5945.289" cy="6363.146" r="34.422" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="6053.333" cy="6363.146" r="34.422" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="6161.378" cy="6363.146" r="34.422" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="6269.423" cy="6363.146" r="34.422" dataComponent="svg__seat" dataName="18"/>
+			</g>
+		</g>
+		<g dataSectorId="5daef31a1078b484aa8177d6" dataComponent="svg__sector" dataElId="10">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="3564.302" cy="5050.923" r="34.422" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="3444.087" cy="5050.923" r="34.422" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="3327.106" cy="5050.923" r="34.422" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="3210.126" cy="5050.923" r="34.422" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="3093.145" cy="5050.923" r="34.422" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="2976.165" cy="5050.923" r="34.422" dataComponent="svg__seat" dataName="6"/>
+			</g>
+		</g>
+		<g dataSectorId="5daef31a1078b484aa8177db" dataComponent="svg__sector" dataElId="11">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="3931.641" cy="4684.306" r="34.422" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="3814.66" cy="4684.306" r="34.422" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="3697.679" cy="4684.306" r="34.422" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="3580.699" cy="4684.306" r="34.422" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="3463.718" cy="4684.306" r="34.422" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="3346.738" cy="4684.306" r="34.422" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="3229.757" cy="4684.306" r="34.422" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="3112.776" cy="4684.306" r="34.422" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="3022.29" cy="4599.007" r="34.422" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="2931.803" cy="4513.709" r="34.422" dataComponent="svg__seat" dataName="10"/>
+				<circle fill="#C7C7C7" cx="2841.316" cy="4423.597" r="34.422" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="2841.316" cy="4302.412" r="34.422" dataComponent="svg__seat" dataName="12"/>
+				<circle fill="#C7C7C7" cx="2841.316" cy="4181.227" r="34.422" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="2841.316" cy="4060.042" r="34.422" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="2841.316" cy="3938.857" r="34.422" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="2841.316" cy="3817.672" r="34.422" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="2841.316" cy="3696.488" r="34.422" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="2841.316" cy="3575.302" r="34.422" dataComponent="svg__seat" dataName="18"/>
+				<circle fill="#C7C7C7" cx="2841.316" cy="3454.118" r="34.422" dataComponent="svg__seat" dataName="19"/>
+				<circle fill="#C7C7C7" cx="2841.316" cy="3332.933" r="34.422" dataComponent="svg__seat" dataName="20"/>
+				<circle fill="#C7C7C7" cx="2841.316" cy="3211.748" r="34.422" dataComponent="svg__seat" dataName="21"/>
+				<circle fill="#C7C7C7" cx="2841.316" cy="3090.563" r="34.422" dataComponent="svg__seat" dataName="22"/>
+				<circle fill="#C7C7C7" cx="2841.316" cy="2969.378" r="34.422" dataComponent="svg__seat" dataName="23"/>
+				<circle fill="#C7C7C7" cx="2841.316" cy="2848.193" r="34.422" dataComponent="svg__seat" dataName="24"/>
+				<circle fill="#C7C7C7" cx="2841.316" cy="2727.008" r="34.422" dataComponent="svg__seat" dataName="25"/>
+				<circle fill="#C7C7C7" cx="2841.316" cy="2605.823" r="34.422" dataComponent="svg__seat" dataName="26"/>
+				<circle fill="#C7C7C7" cx="2841.316" cy="2484.638" r="34.422" dataComponent="svg__seat" dataName="27"/>
+				<circle fill="#C7C7C7" cx="2841.316" cy="2363.453" r="34.422" dataComponent="svg__seat" dataName="28"/>
+				<circle fill="#C7C7C7" cx="2841.316" cy="2242.268" r="34.422" dataComponent="svg__seat" dataName="29"/>
+				<circle fill="#C7C7C7" cx="2841.316" cy="2121.083" r="34.422" dataComponent="svg__seat" dataName="30"/>
+			</g>
+		</g>
+		<g dataSectorId="5daef31a1078b484aa8177dc" dataComponent="svg__sector" dataElId="12">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="2841.316" cy="1999.898" r="34.422" dataComponent="svg__seat" dataName="31"/>
+				<circle fill="#C7C7C7" cx="2841.316" cy="1878.713" r="34.422" dataComponent="svg__seat" dataName="32"/>
+				<circle fill="#C7C7C7" cx="2841.316" cy="1757.529" r="34.422" dataComponent="svg__seat" dataName="33"/>
+				<circle fill="#C7C7C7" cx="2841.316" cy="1636.344" r="34.422" dataComponent="svg__seat" dataName="34"/>
+				<circle fill="#C7C7C7" cx="2841.316" cy="1515.159" r="34.422" dataComponent="svg__seat" dataName="35"/>
+			</g>
+		</g>
+		<g dataSectorId="5daef31a1078b484aa8177d7" dataComponent="svg__sector" dataElId="13">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6769.156" cy="4686.548" r="34.422" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="6886.136" cy="4686.548" r="34.422" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="7003.117" cy="4686.548" r="34.422" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="7120.098" cy="4686.548" r="34.422" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="7237.078" cy="4686.548" r="34.422" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="7354.059" cy="4686.548" r="34.422" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="7471.04" cy="4686.548" r="34.422" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="7561.526" cy="4601.25" r="34.422" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="7652.013" cy="4515.951" r="34.422" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="7742.5" cy="4430.653" r="34.422" dataComponent="svg__seat" dataName="10"/>
+				<circle fill="#C7C7C7" cx="7742.5" cy="4303.99" r="34.422" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="7742.5" cy="4177.327" r="34.422" dataComponent="svg__seat" dataName="12"/>
+				<circle fill="#C7C7C7" cx="7742.5" cy="4050.663" r="34.422" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="7742.5" cy="3924" r="34.422" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="7742.5" cy="3797.337" r="34.422" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="7742.5" cy="3670.674" r="34.422" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="7742.5" cy="3544.011" r="34.422" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="7742.5" cy="3417.348" r="34.422" dataComponent="svg__seat" dataName="18"/>
+				<circle fill="#C7C7C7" cx="7742.5" cy="3290.685" r="34.422" dataComponent="svg__seat" dataName="19"/>
+				<circle fill="#C7C7C7" cx="7742.5" cy="3164.021" r="34.422" dataComponent="svg__seat" dataName="20"/>
+				<circle fill="#C7C7C7" cx="7742.5" cy="3037.358" r="34.422" dataComponent="svg__seat" dataName="21"/>
+				<circle fill="#C7C7C7" cx="7742.5" cy="2910.695" r="34.422" dataComponent="svg__seat" dataName="22"/>
+				<circle fill="#C7C7C7" cx="7742.5" cy="2784.032" r="34.422" dataComponent="svg__seat" dataName="23"/>
+				<circle fill="#C7C7C7" cx="7742.5" cy="2657.369" r="34.422" dataComponent="svg__seat" dataName="24"/>
+				<circle fill="#C7C7C7" cx="7742.5" cy="2530.706" r="34.422" dataComponent="svg__seat" dataName="25"/>
+				<circle fill="#C7C7C7" cx="7742.5" cy="2404.043" r="34.422" dataComponent="svg__seat" dataName="26"/>
+				<circle fill="#C7C7C7" cx="7742.5" cy="2277.379" r="34.422" dataComponent="svg__seat" dataName="27"/>
+				<circle fill="#C7C7C7" cx="7742.5" cy="2150.716" r="34.422" dataComponent="svg__seat" dataName="28"/>
+			</g>
+		</g>
+		<g dataSectorId="5daef31a1078b484aa8177d8" dataComponent="svg__sector" dataElId="14">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="7742.5" cy="2024.053" r="34.422" dataComponent="svg__seat" dataName="29"/>
+				<circle fill="#C7C7C7" cx="7742.5" cy="1897.39" r="34.422" dataComponent="svg__seat" dataName="30"/>
+				<circle fill="#C7C7C7" cx="7742.5" cy="1770.727" r="34.422" dataComponent="svg__seat" dataName="31"/>
+				<circle fill="#C7C7C7" cx="7742.5" cy="1644.064" r="34.422" dataComponent="svg__seat" dataName="32"/>
+				<circle fill="#C7C7C7" cx="7742.5" cy="1517.401" r="34.422" dataComponent="svg__seat" dataName="33"/>
+			</g>
+		</g>
+		<g dataSectorId="5daef31a1078b484aa8177d8" dataComponent="svg__sector" dataElId="15">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="4432.665" cy="5426.409" r="34.422" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="4540.709" cy="5426.409" r="34.422" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="4648.753" cy="5426.409" r="34.422" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="4756.798" cy="5426.409" r="34.422" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="4864.843" cy="5426.409" r="34.422" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="4972.887" cy="5426.409" r="34.422" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="5080.932" cy="5426.409" r="34.422" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="5188.977" cy="5426.409" r="34.422" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="5297.021" cy="5426.409" r="34.422" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="5405.066" cy="5426.409" r="34.422" dataComponent="svg__seat" dataName="10"/>
+				<circle fill="#C7C7C7" cx="5513.11" cy="5426.409" r="34.422" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="5621.155" cy="5426.409" r="34.422" dataComponent="svg__seat" dataName="12"/>
+				<circle fill="#C7C7C7" cx="5729.2" cy="5426.409" r="34.422" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="5837.245" cy="5426.409" r="34.422" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="5945.289" cy="5426.409" r="34.422" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="6053.333" cy="5426.409" r="34.422" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="6161.378" cy="5426.409" r="34.422" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="6269.423" cy="5426.409" r="34.422" dataComponent="svg__seat" dataName="18"/>
+			</g>
+			<g dataComponent="svg__row" dataName="2" dataElId="2">
+				<circle fill="#C7C7C7" cx="4432.665" cy="5553.95" r="34.422" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="4540.709" cy="5553.95" r="34.422" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="4648.753" cy="5553.95" r="34.422" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="4756.798" cy="5553.95" r="34.422" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="4864.843" cy="5553.95" r="34.422" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="4972.887" cy="5553.95" r="34.422" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="5080.932" cy="5553.95" r="34.422" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="5188.977" cy="5553.95" r="34.422" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="5297.021" cy="5553.95" r="34.422" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="5405.066" cy="5553.95" r="34.422" dataComponent="svg__seat" dataName="10"/>
+				<circle fill="#C7C7C7" cx="5513.11" cy="5553.95" r="34.422" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="5621.155" cy="5553.95" r="34.422" dataComponent="svg__seat" dataName="12"/>
+				<circle fill="#C7C7C7" cx="5729.2" cy="5553.95" r="34.422" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="5837.245" cy="5553.95" r="34.422" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="5945.289" cy="5553.95" r="34.422" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="6053.333" cy="5553.95" r="34.422" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="6161.378" cy="5553.95" r="34.422" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="6269.423" cy="5553.95" r="34.422" dataComponent="svg__seat" dataName="18"/>
+			</g>
+		</g>
+	</g>
+</svg>

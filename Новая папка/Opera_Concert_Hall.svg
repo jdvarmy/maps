@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="map-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1024" height="768" viewBox="0 0 10240 7680" xml:space="preserve">
+	<metadata>
+		<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+		<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c014 79.151739, 2013/04/03-12:12:15">
+			<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				<rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/" xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/" xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#" xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">
+					<xmpTPg:MaxPageSize rdf:parseType="Resource">
+						<stDim:w>10240.000397</stDim:w>
+						<stDim:h>7680.000000</stDim:h>
+						<stDim:unit>Points</stDim:unit>
+					</xmpTPg:MaxPageSize>
+					<xmpTPg:NPages>1</xmpTPg:NPages>
+					<xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+					<xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+					<xmpTPg:Fonts>
+						<rdf:Bag>
+							<rdf:li rdf:parseType="Resource">
+								<stFnt:fontName>DINPro</stFnt:fontName>
+								<stFnt:fontFamily>DIN Pro</stFnt:fontFamily>
+								<stFnt:fontFace>Regular</stFnt:fontFace>
+								<stFnt:fontType>TrueType</stFnt:fontType>
+								<stFnt:versionString>Version 7.504; 2005; Build 1021</stFnt:versionString>
+								<stFnt:composite>False</stFnt:composite>
+								<stFnt:fontFileName>DINPro.ttf</stFnt:fontFileName>
+							</rdf:li>
+						</rdf:Bag>
+					</xmpTPg:Fonts>
+					<xmpTPg:PlateNames>
+						<rdf:Seq>
+							<rdf:li>Cyan</rdf:li>
+							<rdf:li>Magenta</rdf:li>
+							<rdf:li>Yellow</rdf:li>
+							<rdf:li>Black</rdf:li>
+						</rdf:Seq>
+					</xmpTPg:PlateNames>
+					<xmpTPg:SwatchGroups>
+						<rdf:Seq>
+							<rdf:li rdf:parseType="Resource">
+								<xmpG:groupName>Default Swatch Group</xmpG:groupName>
+								<xmpG:groupType>0</xmpG:groupType>
+							</rdf:li>
+						</rdf:Seq>
+					</xmpTPg:SwatchGroups>
+					<dc:format>image/svg+xml</dc:format>
+				</rdf:Description>
+			</rdf:RDF>
+		</x:xmpmeta>
+		<?xpacket end="w"?>
+	</metadata>
+	<g id="background">
+		<path name="Танцевальный партер" tc-sector="59b2aead6e55b2083d26f2d5" id="59b2aead6e55b2083d26f2d5" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M2787.177,4823.151c0,33,27,60,60,60h3022.635
+			c33,0,63.14-20.332,66.977-45.182c3.837-24.85,2.984-100.602,2.923-101.444c-0.061-0.843-0.11-28.533-0.11-61.533V3008.08
+			c0-33-1.742-83.868-3.871-113.04c-2.129-29.172-44.534-97.285-77.534-97.285H3263.659c-33,0-60-27-60-60V1728.528
+			c0-33-27-60-60-60h-296.482c-33,0-60,27-60,60V4823.151z"/>
+		<path name="Super VIP" tc-sector="59b2aead6e55b2083d26f2d6" id="59b2aead6e55b2083d26f2d6" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M2847.177,4959.797c-33,0-60,27-60,60v931.675
+			c0,33,27,60,60,60h2674.923c33,0,35.738-11.849,6.085-26.33c0,0-55.367-27.039-94.292-145.624
+			c-16.878-51.42-26.71-108.811-26.71-171.426c0-103.886,30.661-196.095,93.736-281.896
+			c52.419-71.306,120.462-129.29,186.265-185.364c88.725-75.607,179.168-193.439,179.168-193.439
+			c20.093-26.178,9.533-47.596-23.467-47.596H2847.177z"/>
+		<path name="Super VIP" tc-sector="59b2aead6e55b2083d26f2d6" id="59b2aead6e55b2083d26f2d6" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M5826.394,2721.109
+			c33,0,43.404-21.297,23.119-47.326c0,0-89.288-114.575-169.054-185.962c-64.566-57.785-131.33-117.537-182.478-190.45
+			c-61.098-87.099-90.798-180.474-90.798-285.463c0-62.616,8.986-120.292,26.71-171.426
+			c18.806-54.257,48.277-92.328,48.277-92.328c20.2-26.095,51.682-54.686,69.959-63.536c18.277-8.85,6.231-16.09-26.769-16.09
+			H3352.247c-33,0-60,27-60,60v932.581c0,33,27,60,60,60H5826.394z"/>
+		<path name="VIP" tc-sector="59b2aead6e55b2083d26f2d7" id="59b2aead6e55b2083d26f2d7" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M6025.021,3840v891.919
+			c37.101,515.039-532.419,527.982-532.419,936.172c0,212.854,118.13,343.38,344.806,343.38H8041.28
+			c41.454,0,75.37-34.227,75.37-76.06V3840V1744.588c0-41.833-33.917-76.06-75.37-76.06H5837.408
+			c-226.676,0-344.806,130.526-344.806,343.38c0,408.19,532.419,430.252,532.419,936.173V3840z"/>
+		<g id="details">
+			<path fill="#F0F0F0" d="M2198.721,5505.092c-41.454,0-75.37-33.917-75.37-75.37V2250.278c0-41.454,33.917-75.37,75.37-75.37
+				h377.617c41.454,0,75.37,33.917,75.37,75.37v3179.443c0,41.454-33.917,75.37-75.37,75.37H2198.721z"/>
+			<text transform="matrix(1 0 0 1 2220.3416 3886.0679)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="116.7054">Сцена</text>
+			<path fill="#F0F0F0" d="M7005.336,2077.881c0-17.272,14.132-31.404,31.404-31.404h263.796
+				c17.272,0,31.404,14.132,31.404,31.404v136.957c0,17.272-14.132,31.404-31.404,31.404h-263.796
+				c-17.272,0-31.404-14.132-31.404-31.404V2077.881z"/>
+			<text transform="matrix(1 0 0 1 7107.7202 2187.1431)" fill="#8A8A8A" font-family="'DINPro'" font-size="116.7054">17</text>
+			<path fill="#F0F0F0" d="M7669.002,3065.845c0-17.272,14.132-31.404,31.404-31.404h263.796
+				c17.272,0,31.404,14.132,31.404,31.404v136.957c0,17.272-14.132,31.404-31.404,31.404h-263.796
+				c-17.272,0-31.404-14.132-31.404-31.404V3065.845z"/>
+			<text transform="matrix(1 0 0 1 7771.3853 3174.5435)" fill="#8A8A8A" font-family="'DINPro'" font-size="116.7054">20</text>
+			<path fill="#F0F0F0" d="M7669.002,3851.707c0-17.272,14.132-31.404,31.404-31.404h263.796
+				c17.272,0,31.404,14.132,31.404,31.404v136.957c0,17.272-14.132,31.404-31.404,31.404h-263.796
+				c-17.272,0-31.404-14.132-31.404-31.404V3851.707z"/>
+			<text transform="matrix(1 0 0 1 7771.3853 3965.9321)" fill="#8A8A8A" font-family="'DINPro'" font-size="116.7054">19</text>
+			<path fill="#F0F0F0" d="M6842.638,3065.845c0-17.272,14.132-31.404,31.404-31.404h263.796
+				c17.272,0,31.404,14.132,31.404,31.404v136.957c0,17.272-14.132,31.404-31.404,31.404h-263.796
+				c-17.272,0-31.404-14.132-31.404-31.404V3065.845z"/>
+			<text transform="matrix(1 0 0 1 6945.022 3174.5435)" fill="#8A8A8A" font-family="'DINPro'" font-size="116.7054">16</text>
+			<path fill="#F0F0F0" d="M6842.638,3856.101c0-17.272,14.132-31.404,31.404-31.404h263.796
+				c17.272,0,31.404,14.132,31.404,31.404v136.957c0,17.272-14.132,31.404-31.404,31.404h-263.796
+				c-17.272,0-31.404-14.132-31.404-31.404V3856.101z"/>
+			<text transform="matrix(1 0 0 1 6945.022 3965.9321)" fill="#8A8A8A" font-family="'DINPro'" font-size="116.7054">15</text>
+			<path fill="#F0F0F0" d="M6842.638,4646.357c0-17.272,14.132-31.404,31.404-31.404h263.796
+				c17.272,0,31.404,14.132,31.404,31.404v136.957c0,17.272-14.132,31.404-31.404,31.404h-263.796
+				c-17.272,0-31.404-14.132-31.404-31.404V4646.357z"/>
+			<text transform="matrix(1 0 0 1 6945.022 4755.02)" fill="#8A8A8A" font-family="'DINPro'" font-size="116.7054">14</text>
+			<path fill="#F0F0F0" d="M7805.952,4626.077c17.272,0,31.404,14.132,31.404,31.404v462.087
+				c0,17.272-14.132,31.404-31.404,31.404h-121.248c-17.272,0-31.404-14.132-31.404-31.404v-462.087
+				c0-17.272,14.132-31.404,31.404-31.404H7805.952z"/>
+			<text transform="matrix(1 0 0 1 7684.4097 4933.1851)" fill="#8A8A8A" font-family="'DINPro'" font-size="116.7054">18</text>
+			<path fill="#F0F0F0" d="M6842.638,5436.613c0-17.272,14.132-31.404,31.404-31.404h263.796
+				c17.272,0,31.404,14.132,31.404,31.404v136.957c0,17.272-14.132,31.404-31.404,31.404h-263.796
+				c-17.272,0-31.404-14.132-31.404-31.404V5436.613z"/>
+			<text transform="matrix(1 0 0 1 6945.022 5543.897)" fill="#8A8A8A" font-family="'DINPro'" font-size="116.7054">13</text>
+			<path fill="#F0F0F0" d="M6321.253,3065.845c0-17.272,14.132-31.404,31.404-31.404h263.796
+				c17.272,0,31.404,14.132,31.404,31.404v136.957c0,17.272-14.132,31.404-31.404,31.404h-263.796
+				c-17.272,0-31.404-14.132-31.404-31.404V3065.845z"/>
+			<text transform="matrix(1 0 0 1 6423.6372 3174.5435)" fill="#8A8A8A" font-family="'DINPro'" font-size="116.7054">12</text>
+			<path fill="#F0F0F0" d="M6321.253,3851.707c0-17.272,14.132-31.404,31.404-31.404h263.796
+				c17.272,0,31.404,14.132,31.404,31.404v136.957c0,17.272-14.132,31.404-31.404,31.404h-263.796
+				c-17.272,0-31.404-14.132-31.404-31.404V3851.707z"/>
+			<text transform="matrix(1 0 0 1 6423.6372 3965.9321)" fill="#8A8A8A" font-family="'DINPro'" font-size="116.7054">11</text>
+			<path fill="#F0F0F0" d="M6321.253,4641.963c0-17.272,14.132-31.405,31.404-31.405h263.796
+				c17.272,0,31.404,14.132,31.404,31.405v136.957c0,17.272-14.132,31.404-31.404,31.404h-263.796
+				c-17.272,0-31.404-14.132-31.404-31.404V4641.963z"/>
+			<text transform="matrix(1 0 0 1 6423.6372 4755.02)" fill="#8A8A8A" font-family="'DINPro'" font-size="116.7054">10</text>
+			<path fill="#F0F0F0" d="M7695.083,2046.476c17.272,0,31.404,14.132,31.404,31.404v263.796
+				c0,17.272-14.132,31.404-31.404,31.404h-136.957c-17.272,0-31.404-14.132-31.404-31.404v-263.796
+				c0-17.272,14.132-31.404,31.404-31.404H7695.083z"/>
+			<text transform="matrix(1 0 0 1 7565.6841 2247.4888)" fill="#8A8A8A" font-family="'DINPro'" font-size="116.7054">21</text>
+			<text transform="matrix(1 0 0 1 6433.9194 2380.3647)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="116.7054">VIP</text>
+			<path fill="#F0F0F0" d="M4548.387,5652.567c-17.272,0-31.404-14.132-31.404-31.404v-263.796
+				c0-17.272,14.132-31.404,31.404-31.404h136.957c17.272,0,31.404,14.132,31.404,31.404v263.796
+				c0,17.272-14.132,31.404-31.404,31.404H4548.387z"/>
+			<text transform="matrix(1 0 0 1 4586.4072 5529.1616)" fill="#8A8A8A" font-family="'DINPro'" font-size="116.7054">4</text>
+			<path fill="#F0F0F0" d="M4060.992,5652.567c-17.272,0-31.404-14.132-31.404-31.404v-263.796
+				c0-17.272,14.132-31.404,31.404-31.404h136.957c17.272,0,31.404,14.132,31.404,31.404v263.796
+				c0,17.272-14.132,31.404-31.404,31.404H4060.992z"/>
+			<text transform="matrix(1 0 0 1 4099.0112 5529.1616)" fill="#8A8A8A" font-family="'DINPro'" font-size="116.7054">3</text>
+			<path fill="#F0F0F0" d="M3573.597,5652.567c-17.272,0-31.404-14.132-31.404-31.404v-263.796
+				c0-17.272,14.132-31.404,31.404-31.404h136.957c17.272,0,31.404,14.132,31.404,31.404v263.796
+				c0,17.272-14.132,31.404-31.404,31.404H3573.597z"/>
+			<text transform="matrix(1 0 0 1 3617.27 5529.1626)" fill="#8A8A8A" font-family="'DINPro'" font-size="116.7054">2</text>
+			<path fill="#F0F0F0" d="M3086.203,5652.567c-17.272,0-31.404-14.132-31.404-31.404v-263.796
+				c0-17.272,14.132-31.404,31.404-31.404h136.957c17.272,0,31.404,14.132,31.404,31.404v263.796
+				c0,17.272-14.132,31.404-31.404,31.404H3086.203z"/>
+			<text transform="matrix(1 0 0 1 3124.2222 5529.1626)" fill="#8A8A8A" font-family="'DINPro'" font-size="116.7054">1</text>
+			<text transform="matrix(1 0 0 1 4911.1714 5174.8052)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="116.7054">Super VIP</text>
+			<text transform="matrix(1 0 0 1 4204.2153 3812.5571)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="116.7054">Танцпол</text>
+			<text transform="matrix(1 0 0 1 4911.1714 2603.6848)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="116.7054">Super VIP</text><path fill="#F0F0F0" d="M4685.344,2028.711c17.272,0,31.404,14.132,31.404,31.404v263.796c0,17.272-14.132,31.404-31.404,31.404
+				h-136.957c-17.272,0-31.404-14.132-31.404-31.404v-263.796c0-17.272,14.132-31.404,31.404-31.404H4685.344z"/>
+			<text transform="matrix(1 0 0 1 4590.5938 2229.7231)" fill="#8A8A8A" font-family="'DINPro'" font-size="116.7054">7</text>
+			<path fill="#F0F0F0" d="M4197.949,2028.711c17.272,0,31.404,14.132,31.404,31.404v263.796c0,17.272-14.132,31.404-31.404,31.404
+				h-136.957c-17.272,0-31.404-14.132-31.404-31.404v-263.796c0-17.272,14.132-31.404,31.404-31.404H4197.949z"/>
+			<text transform="matrix(1 0 0 1 4099.0112 2229.7231)" fill="#8A8A8A" font-family="'DINPro'" font-size="116.7054">6</text>
+			<path fill="#F0F0F0" d="M3710.554,2028.711c17.272,0,31.404,14.132,31.404,31.404v263.796c0,17.272-14.132,31.404-31.404,31.404
+				h-136.957c-17.272,0-31.404-14.132-31.404-31.404v-263.796c0-17.272,14.132-31.404,31.404-31.404H3710.554z"/>
+			<text transform="matrix(1 0 0 1 3611.6165 2229.7231)" fill="#8A8A8A" font-family="'DINPro'" font-size="116.7054">5</text>
+		</g>
+	</g>
+	<g id="labels">
+		<text dataSectorId="59b2aead6e55b2083d26f2d5">Танцевальный партер</text>
+		<text dataSectorId="59b2aead6e55b2083d26f2d6">Super VIP</text>
+		<text dataSectorId="59b2aead6e55b2083d26f2d7">VIP</text>
+	</g>
+	<g id="seats">
+		<g dataSectorId="59b2aead6e55b2083d26f2d5" dataComponent="svg__sector" dataElId="1">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="4421.465" cy="3991.61" r="60.284" dataComponent="svg__seat" dataName="59b2aead6e55b2083d26f2d5"/>
+			</g>
+		</g>
+		<g dataSectorId="59b2aead6e55b2083d26f2d6" dataComponent="svg__sector" dataElId="2">
+			<g dataComponent="svg__row" dataName="Стол 1" dataElId="1">
+				<circle fill="#C7C7C7" cx="3352.531" cy="5578.884" r="60.284" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="3352.531" cy="5391.271" r="60.284" dataComponent="svg__seat" dataName="2"/>
+			</g>
+			<g dataComponent="svg__row" dataName="Стол 2" dataElId="2">
+				<circle fill="#C7C7C7" cx="3839.926" cy="5578.884" r="60.284" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="3839.926" cy="5391.271" r="60.284" dataComponent="svg__seat" dataName="4"/>
+			</g>
+			<g dataComponent="svg__row" dataName="Стол 3" dataElId="3">
+				<circle fill="#C7C7C7" cx="4327.32" cy="5578.884" r="60.284" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="4327.32" cy="5391.271" r="60.284" dataComponent="svg__seat" dataName="6"/>
+			</g>
+			<g dataComponent="svg__row" dataName="Стол 4" dataElId="4">
+				<circle fill="#C7C7C7" cx="4621.053" cy="5747.187" r="60.284" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="4814.715" cy="5578.884" r="60.284" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="4814.715" cy="5391.271" r="60.284" dataComponent="svg__seat" dataName="9"/>
+			</g>
+			<g dataComponent="svg__row" dataName="Стол 5" dataElId="5">
+				<circle fill="#C7C7C7" cx="3839.926" cy="2290.007" r="60.284" dataComponent="svg__seat" dataName="10"/>
+				<circle fill="#C7C7C7" cx="3839.926" cy="2102.394" r="60.284" dataComponent="svg__seat" dataName="11"/>
+			</g>
+			<g dataComponent="svg__row" dataName="Стол 6" dataElId="6">
+				<circle fill="#C7C7C7" cx="4327.32" cy="2290.007" r="60.284" dataComponent="svg__seat" dataName="12"/>
+				<circle fill="#C7C7C7" cx="4327.32" cy="2102.394" r="60.284" dataComponent="svg__seat" dataName="13"/>
+			</g>
+			<g dataComponent="svg__row" dataName="Стол 7" dataElId="7">
+				<circle fill="#C7C7C7" cx="4814.715" cy="2290.007" r="60.284" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="4814.715" cy="2102.394" r="60.284" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="4621.053" cy="1934.092" r="60.284" dataComponent="svg__seat" dataName="16"/>
+			</g>
+		</g>
+		<g dataSectorId="59b2aead6e55b2083d26f2d7" dataComponent="svg__sector" dataElId="3">
+			<g dataComponent="svg__row" dataName="Стол 8" dataElId="8">
+				<circle fill="#C7C7C7" cx="5777.125" cy="5652.567" r="60.284" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="5964.737" cy="5652.567" r="60.284" dataComponent="svg__seat" dataName="18"/>
+			</g>
+			<g dataComponent="svg__row" dataName="Стол 9" dataElId="9">
+				<circle fill="#C7C7C7" cx="5777.125" cy="2034.615" r="60.284" dataComponent="svg__seat" dataName="19"/>
+				<circle fill="#C7C7C7" cx="5964.737" cy="2034.615" r="60.284" dataComponent="svg__seat" dataName="20"/>
+			</g>
+			<g dataComponent="svg__row" dataName="Стол 10" dataElId="10">
+				<circle fill="#C7C7C7" cx="6394.937" cy="4917.08" r="60.284" dataComponent="svg__seat" dataName="21"/>
+				<circle fill="#C7C7C7" cx="6582.549" cy="4917.08" r="60.284" dataComponent="svg__seat" dataName="22"/>
+				<circle fill="#C7C7C7" cx="6394.937" cy="4512.592" r="60.284" dataComponent="svg__seat" dataName="23"/>
+				<circle fill="#C7C7C7" cx="6582.549" cy="4512.592" r="60.284" dataComponent="svg__seat" dataName="24"/>
+			</g>
+			<g dataComponent="svg__row" dataName="Стол 11" dataElId="11">
+				<circle fill="#C7C7C7" cx="6394.937" cy="4126.823" r="60.284" dataComponent="svg__seat" dataName="25"/>
+				<circle fill="#C7C7C7" cx="6582.549" cy="4126.823" r="60.284" dataComponent="svg__seat" dataName="26"/>
+				<circle fill="#C7C7C7" cx="6394.937" cy="3722.336" r="60.284" dataComponent="svg__seat" dataName="27"/>
+				<circle fill="#C7C7C7" cx="6582.549" cy="3722.336" r="60.284" dataComponent="svg__seat" dataName="28"/>
+			</g>
+			<g dataComponent="svg__row" dataName="Стол 12" dataElId="12">
+				<circle fill="#C7C7C7" cx="6394.937" cy="3340.961" r="60.284" dataComponent="svg__seat" dataName="29"/>
+				<circle fill="#C7C7C7" cx="6582.549" cy="3340.961" r="60.284" dataComponent="svg__seat" dataName="30"/>
+				<circle fill="#C7C7C7" cx="6394.937" cy="2936.474" r="60.284" dataComponent="svg__seat" dataName="31"/>
+				<circle fill="#C7C7C7" cx="6582.549" cy="2936.474" r="60.284" dataComponent="svg__seat" dataName="32"/>
+			</g>
+			<g dataComponent="svg__row" dataName="Стол 13" dataElId="13">
+				<circle fill="#C7C7C7" cx="6916.321" cy="5711.73" r="60.284" dataComponent="svg__seat" dataName="33"/>
+				<circle fill="#C7C7C7" cx="7103.934" cy="5711.73" r="60.284" dataComponent="svg__seat" dataName="34"/>
+				<circle fill="#C7C7C7" cx="6916.321" cy="5307.242" r="60.284" dataComponent="svg__seat" dataName="35"/>
+				<circle fill="#C7C7C7" cx="7103.934" cy="5307.242" r="60.284" dataComponent="svg__seat" dataName="36"/>
+			</g>
+			<g dataComponent="svg__row" dataName="Стол 14" dataElId="14">
+				<circle fill="#C7C7C7" cx="6916.321" cy="4921.474" r="60.284" dataComponent="svg__seat" dataName="37"/>
+				<circle fill="#C7C7C7" cx="7103.934" cy="4921.474" r="60.284" dataComponent="svg__seat" dataName="38"/>
+				<circle fill="#C7C7C7" cx="6916.321" cy="4516.986" r="60.284" dataComponent="svg__seat" dataName="39"/>
+				<circle fill="#C7C7C7" cx="7103.934" cy="4516.986" r="60.284" dataComponent="svg__seat" dataName="40"/>
+			</g>
+			<g dataComponent="svg__row" dataName="Стол 15" dataElId="15">
+				<circle fill="#C7C7C7" cx="6916.321" cy="4131.217" r="60.284" dataComponent="svg__seat" dataName="41"/>
+				<circle fill="#C7C7C7" cx="7103.934" cy="4131.217" r="60.284" dataComponent="svg__seat" dataName="42"/>
+				<circle fill="#C7C7C7" cx="6916.321" cy="3726.73" r="60.284" dataComponent="svg__seat" dataName="43"/>
+				<circle fill="#C7C7C7" cx="7103.934" cy="3726.73" r="60.284" dataComponent="svg__seat" dataName="44"/>
+			</g>
+			<g dataComponent="svg__row" dataName="Стол 16" dataElId="16">
+				<circle fill="#C7C7C7" cx="6916.321" cy="3340.961" r="60.284" dataComponent="svg__seat" dataName="45"/>
+				<circle fill="#C7C7C7" cx="7103.934" cy="3340.961" r="60.284" dataComponent="svg__seat" dataName="46"/>
+				<circle fill="#C7C7C7" cx="6916.321" cy="2936.474" r="60.284" dataComponent="svg__seat" dataName="47"/>
+				<circle fill="#C7C7C7" cx="7103.934" cy="2936.474" r="60.284" dataComponent="svg__seat" dataName="48"/>
+			</g>
+			<g dataComponent="svg__row" dataName="Стол 17" dataElId="17">
+				<circle fill="#C7C7C7" cx="7079.02" cy="2352.997" r="60.284" dataComponent="svg__seat" dataName="49"/>
+				<circle fill="#C7C7C7" cx="7266.633" cy="2352.997" r="60.284" dataComponent="svg__seat" dataName="50"/>
+				<circle fill="#C7C7C7" cx="7079.02" cy="1948.51" r="60.284" dataComponent="svg__seat" dataName="51"/>
+				<circle fill="#C7C7C7" cx="7266.633" cy="1948.51" r="60.284" dataComponent="svg__seat" dataName="52"/>
+			</g>
+			<g dataComponent="svg__row" dataName="Стол 18" dataElId="18">
+				<circle fill="#C7C7C7" cx="7737.474" cy="5262.6" r="60.284" dataComponent="svg__seat" dataName="53"/>
+				<circle fill="#C7C7C7" cx="7935.323" cy="5262.6" r="60.284" dataComponent="svg__seat" dataName="54"/>
+				<circle fill="#C7C7C7" cx="7935.323" cy="5074.986" r="60.284" dataComponent="svg__seat" dataName="55"/>
+				<circle fill="#C7C7C7" cx="7935.323" cy="4887.374" r="60.284" dataComponent="svg__seat" dataName="56"/>
+				<circle fill="#C7C7C7" cx="7935.323" cy="4699.761" r="60.284" dataComponent="svg__seat" dataName="57"/>
+				<circle fill="#C7C7C7" cx="7737.474" cy="4524.746" r="60.284" dataComponent="svg__seat" dataName="58"/>
+				<circle fill="#C7C7C7" cx="7935.323" cy="4524.746" r="60.284" dataComponent="svg__seat" dataName="59"/>
+			</g>
+			<g dataComponent="svg__row" dataName="Стол 19" dataElId="19">
+				<circle fill="#C7C7C7" cx="7742.686" cy="4126.823" r="60.284" dataComponent="svg__seat" dataName="60"/>
+				<circle fill="#C7C7C7" cx="7930.298" cy="4126.823" r="60.284" dataComponent="svg__seat" dataName="61"/>
+				<circle fill="#C7C7C7" cx="7742.686" cy="3722.336" r="60.284" dataComponent="svg__seat" dataName="62"/>
+				<circle fill="#C7C7C7" cx="7930.298" cy="3722.336" r="60.284" dataComponent="svg__seat" dataName="63"/>
+			</g>
+			<g dataComponent="svg__row" dataName="Стол 20" dataElId="20">
+				<circle fill="#C7C7C7" cx="7742.686" cy="3340.961" r="60.284" dataComponent="svg__seat" dataName="64"/>
+				<circle fill="#C7C7C7" cx="7930.298" cy="3340.961" r="60.284" dataComponent="svg__seat" dataName="65"/>
+				<circle fill="#C7C7C7" cx="7742.686" cy="2936.474" r="60.284" dataComponent="svg__seat" dataName="66"/>
+				<circle fill="#C7C7C7" cx="7930.298" cy="2936.474" r="60.284" dataComponent="svg__seat" dataName="67"/>
+			</g>
+			<g dataComponent="svg__row" dataName="Стол 21" dataElId="21">
+				<circle fill="#C7C7C7" cx="7824.454" cy="2307.772" r="60.284" dataComponent="svg__seat" dataName="68"/>
+				<circle fill="#C7C7C7" cx="7824.454" cy="2120.159" r="60.284" dataComponent="svg__seat" dataName="69"/>
+			</g>
+		</g>
+	</g>
+</svg>

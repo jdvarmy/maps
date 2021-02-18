@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="map-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1024" height="768" viewBox="0 0 10240 7680" xml:space="preserve">
+	<metadata>
+		<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+		<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c014 79.151739, 2013/04/03-12:12:15">
+			<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				<rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/" xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/" xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#" xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">
+					<xmpTPg:MaxPageSize rdf:parseType="Resource">
+						<stDim:w>10240.000397</stDim:w>
+						<stDim:h>7680.000000</stDim:h>
+						<stDim:unit>Points</stDim:unit>
+					</xmpTPg:MaxPageSize>
+					<xmpTPg:NPages>1</xmpTPg:NPages>
+					<xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+					<xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+					<xmpTPg:Fonts>
+						<rdf:Bag>
+							<rdf:li rdf:parseType="Resource">
+								<stFnt:fontName>DINPro</stFnt:fontName>
+								<stFnt:fontFamily>DIN Pro</stFnt:fontFamily>
+								<stFnt:fontFace>Regular</stFnt:fontFace>
+								<stFnt:fontType>TrueType</stFnt:fontType>
+								<stFnt:versionString>Version 7.504; 2005; Build 1021</stFnt:versionString>
+								<stFnt:composite>False</stFnt:composite>
+								<stFnt:fontFileName>DINPro.ttf</stFnt:fontFileName>
+							</rdf:li>
+						</rdf:Bag>
+					</xmpTPg:Fonts>
+					<xmpTPg:PlateNames>
+						<rdf:Seq>
+							<rdf:li>Cyan</rdf:li>
+							<rdf:li>Magenta</rdf:li>
+							<rdf:li>Yellow</rdf:li>
+							<rdf:li>Black</rdf:li>
+						</rdf:Seq>
+					</xmpTPg:PlateNames>
+					<xmpTPg:SwatchGroups>
+						<rdf:Seq>
+							<rdf:li rdf:parseType="Resource">
+								<xmpG:groupName>Default Swatch Group</xmpG:groupName>
+								<xmpG:groupType>0</xmpG:groupType>
+							</rdf:li>
+						</rdf:Seq>
+					</xmpTPg:SwatchGroups>
+					<dc:format>image/svg+xml</dc:format>
+				</rdf:Description>
+			</rdf:RDF>
+		</x:xmpmeta>
+		<?xpacket end="w"?>
+	</metadata>
+	<g id="background">
+		<path name="Танцевальный партер" tc-sector="5df1fcf296772bd14f09650d" id="5df1fcf296772bd14f09650d" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M6257.961,3740.757
+			c-2.44-32.91,19.192-59.836,48.073-59.836c28.88,0,50.023-26.885,46.984-59.745l-36.95-399.562
+			c-3.039-32.86-32.525-59.745-65.525-59.745H3989.458c-33,0-62.326,26.9-65.168,59.777l-34.549,399.613
+			c-2.842,32.877,18.461,59.777,47.341,59.777c28.88,0,50.473,26.923,47.985,59.829L3833,5751.945
+			c-2.488,32.906-31.524,59.829-64.524,59.829h-332c-33,0-60,27-60,60v311.201c0,33,27,60,60,60H5060c33,0,87,0,120,0h1623.524
+			c33,0,60-27,60-60v-311.201c0-33-27-60-60-60h-332c-33,0-61.997-26.926-64.437-59.835L6257.961,3740.757z"/>
+		<path name="VIP Line 2" tc-sector="5df1fcf296772bd14f096513" id="5df1fcf296772bd14f096513" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M3891.526,3818.614
+			c2.723-32.887-22.05-59.795-55.05-59.795h-400c-33,0-60,27-60,60v1860.956c0,33,27,60,60,60h236c33,0,62.228-26.908,64.95-59.795
+			L3891.526,3818.614z"/>
+		<path name="VIP Line 2" tc-sector="5df1fcf296772bd14f096513" id="5df1fcf296772bd14f096513" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M6348.475,3818.614
+			c-2.723-32.887,22.05-59.795,55.05-59.795h400c33,0,60,27,60,60v1860.956c0,33-27,60-60,60h-236
+			c-33,0-62.228-26.908-64.95-59.795L6348.475,3818.614z"/>
+		<path name="VIP Line 2" tc-sector="5df1fcf296772bd14f096513" id="5df1fcf296772bd14f096513" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M3914.58,2504.313
+			c-2.42,32.911,22.6,59.839,55.6,59.839h218.058c33,0,87,0,120,0h1623.524c33,0,87,0,120,0h218.058c33,0,58.02-26.927,55.6-59.839
+			l-18.602-252.997c-2.419-32.911-31.399-59.838-64.399-59.838h-315.943c-33,0-60-27-60-60v-292.63c0-33-27-60-60-60H4435.227
+			c-33,0-60,27-60,60v292.63c0,33-27,60-60,60h-317.646c-33,0-61.98,26.927-64.4,59.838L3914.58,2504.313z"/>
+		<path name="VIP Line 3" tc-sector="5df1fcf296772bd14f096514" id="5df1fcf296772bd14f096514" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M3891.18,2702.583
+				c2.913-32.871-21.703-59.766-54.703-59.766h-400c-33,0-60,27-60,60v918.104c0,33,27,60,60,60h308
+				c33,0,62.384-26.895,65.297-59.766L3891.18,2702.583z"/>
+		<path name="VIP Line 3" tc-sector="5df1fcf296772bd14f096514" id="5df1fcf296772bd14f096514" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M6350.141,2702.583
+				c-2.913-32.871,21.704-59.766,54.704-59.766h400c33,0,60,27,60,60v918.104c0,33-27,60-60,60h-308
+				c-33,0-62.383-26.895-65.297-59.766L6350.141,2702.583z"/>
+		<path name="VIP Line 3" tc-sector="5df1fcf296772bd14f096514" id="5df1fcf296772bd14f096514" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M6235.476,2119.151
+				c33,0.01,58.131-26.918,55.846-59.839l-59.643-859.304c-2.285-32.921-31.154-59.856-64.154-59.856H5180c-33,0-87,0-120,0
+				h-987.524c-33,0-61.736,26.944-63.858,59.876l-55.284,858.017c-2.122,32.932,23.142,59.868,56.142,59.858l222.999-0.066
+				c33-0.01,60-27.018,60-60.018v-292.971c0-33,27-60,60-60H5060c33,0,87,0,120,0h707.524c33,0,60,27,60,60v294.219
+				c0,33,27,60.008,60,60.017L6235.476,2119.151z"/>
+		<path name="VIP Line 4" tc-sector="5df1fcf296772bd14f096515" id="5df1fcf296772bd14f096515" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M5180,547.264c-33,0-87,0-120,0H3436.476
+				c-33,0-60,27-60,60v1896.888c0,33,27,60,60,60h331.28c33,0,62.013-26.925,64.474-59.833l103.053-1378.334
+				c2.46-32.908,31.473-59.833,64.473-59.833h2248.031c33,0,62.013,26.925,64.474,59.833l103.053,1378.334
+				c2.46,32.908,31.474,59.833,64.474,59.833h323.738c33,0,60-27,60-60V607.264c0-33-27-60-60-60H5180z"/>
+		<g id="details">
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M6938.728,547.264c0-33-27-60-60-60H3361.273
+				c-33,0-60,27-60,60v6585.473c0,33,27,60,60,60h3517.455c33,0,60-27,60-60V547.264z"/>
+			<text transform="matrix(1 0 0 1 4758.8921 4864.6021)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="72">Танцевальный партер</text>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M4033.187,2642.817
+				c-33,0-62.188,26.911-64.861,59.803l-25.884,318.438c-2.674,32.892,22.139,59.803,55.139,59.803H5060c33,0,87,0,120,0h1062.419
+				c33,0,57.813-26.911,55.139-59.803l-25.884-318.438c-2.673-32.892-31.861-59.803-64.861-59.803H5180c-33,0-87,0-120,0H4033.187z"/>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M4146.813,2980.438
+				c-10.574,0-19.225-8.651-19.225-19.225v-107.836c0-10.574,8.651-19.225,19.225-19.225h139.342
+				c10.574,0,19.225,8.651,19.225,19.225v107.836c0,10.573-8.651,19.225-19.225,19.225H4146.813L4146.813,2980.438z"/>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M4928.609,2980.438
+				c-10.574,0-19.225-8.651-19.225-19.225v-107.836c0-10.574,8.651-19.225,19.225-19.225h139.342
+				c10.574,0,19.225,8.651,19.225,19.225v107.836c0,10.573-8.651,19.225-19.225,19.225H4928.609L4928.609,2980.438z"/>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M4450.393,2980.438
+				c-10.574,0-19.225-8.651-19.225-19.225v-107.836c0-10.574,8.651-19.225,19.225-19.225H4750.3
+				c10.574,0,19.225,8.651,19.225,19.225v107.836c0,10.573-8.651,19.225-19.225,19.225H4450.393L4450.393,2980.438z"/>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M5218.223,2980.438
+				c-10.574,0-19.225-8.651-19.225-19.225v-107.836c0-10.574,8.651-19.225,19.225-19.225h139.342
+				c10.573,0,19.225,8.651,19.225,19.225v107.836c0,10.573-8.651,19.225-19.225,19.225H5218.223L5218.223,2980.438z"/>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M5975.134,2980.438
+				c-10.573,0-19.225-8.651-19.225-19.225v-107.836c0-10.574,8.651-19.225,19.225-19.225h139.342
+				c10.574,0,19.225,8.651,19.225,19.225v107.836c0,10.573-8.651,19.225-19.225,19.225H5975.134L5975.134,2980.438z"/>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M5521.802,2980.438
+				c-10.574,0-19.225-8.651-19.225-19.225v-107.836c0-10.574,8.651-19.225,19.225-19.225h299.908
+				c10.573,0,19.225,8.651,19.225,19.225v107.836c0,10.573-8.651,19.225-19.225,19.225H5521.802L5521.802,2980.438z"/>
+			<path fill="#F5F5F5" d="M6463.524,6482.975c-33,0-60-27-60-60v-52c0-33-27-60-60-60H5180c-33,0-60,0.003-60,0.006
+				c0,0.003,0,0.003,0,0s-27-0.006-60-0.006H3896.476c-33,0-60,27-60,60v52c0,33-27,60-60,60h-360c-33,0-60,27-60,60v92.962
+				c0,33,27,60,60,60h692c33,0,60,27,60,60v212c0,33,27,60,60,60h826.875c33,0,61.046,0,62.325,0s29.324,0,62.324,0h831.524
+				c33,0,60-27,60-60v-212c0-33,27-60,60-60h692c33,0,60-27,60-60v-92.962c0-33-27-60-60-60H6463.524z"/>
+			<text transform="matrix(4.489659e-011 -1 1 4.489659e-011 3685.9858 4154.8564)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="72">VIP Line 2</text>
+			<text transform="matrix(4.489659e-011 -1 1 4.489659e-011 6603.5244 4154.8564)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="72">VIP Line 2</text>
+			<text transform="matrix(1 0 0 1 4960.7666 2371.4243)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="72">VIP Line 2</text>
+			<text transform="matrix(4.489659e-011 -1 1 4.489659e-011 3689.1899 3086.8213)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="72">VIP Line 3</text>
+			<text transform="matrix(4.489659e-011 -1 1 4.489659e-011 6603.5244 3086.8213)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="72">VIP Line 3</text>
+			<text transform="matrix(1 0 0 1 4960.7666 1511.4243)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="72">VIP Line 3</text>
+			<text transform="matrix(1 0 0 1 5067.9736 745.1274)" enable-background="new">
+				<tspan x="0" y="0" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="72">VIP</tspan>
+				<tspan x="-44.352" y="76.4" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="72">Line 4</tspan>
+			</text>
+			<g>
+				<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M3414.476,3859.751c0-33,27-60,60-60h29.765
+					c33,0,60,27,60,60v1354.329c0,33-27,60-60,60h-29.765c-33,0-60-27-60-60V3859.751z"/>
+				<text transform="matrix(4.489659e-011 -1 1 4.489659e-011 3514.998 4638.2207)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="72">VIP terminal</text>
+<!--				<circle fill="#C7C7C7" cx="3491.818" cy="4731.611" r="33.09"/>-->
+				<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M6674.122,3859.751c0-33,27-60,60-60h29.766
+					c33,0,60,27,60,60v1354.329c0,33-27,60-60,60h-29.766c-33,0-60-27-60-60V3859.751z"/>
+				<text transform="matrix(4.489659e-011 -1 1 4.489659e-011 6774.644 4638.2207)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="72">VIP terminal</text>
+<!--				<circle fill="#C7C7C7" cx="6751.463" cy="4731.611" r="33.09"/>-->
+				<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M5814.68,1894.849c0-33-27-60-60-60H4490.307
+					c-33,0-60,27-60,60v234c0,33,27,60,60,60h1264.373c33,0,60-27,60-60V1894.849z"/>
+				<text transform="matrix(1 0 0 1 4940.6191 1998.9634)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="72">VIP terminal</text>
+<!--				<circle fill="#C7C7C7" cx="5155.583" cy="2073.151" r="33.09"/>-->
+
+				<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M3414.476,2730.152c0-33,27-60,60-60h29.765
+					c33,0,60,27,60,60v666c0,33-27,60-60,60h-29.765c-33,0-60-27-60-60V2730.152z"/>
+				<text transform="matrix(4.489659e-011 -1 1 4.489659e-011 3514.998 3211.373)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="72">VIP terminal</text>
+<!--				<circle fill="#C7C7C7" cx="3491.818" cy="3284.245" r="33.09"/>-->
+				<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M6675.759,2730.152c0-33,27-60,60-60h29.766
+					c33,0,60,27,60,60v666c0,33-27,60-60,60h-29.766c-33,0-60-27-60-60V2730.152z"/>
+				<text transform="matrix(4.489659e-011 -1 1 4.489659e-011 6776.2808 3211.373)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="72">VIP terminal</text>
+<!--				<circle fill="#C7C7C7" cx="6753.101" cy="3284.245" r="33.09"/>-->
+				<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M6183.99,1248.319
+					c-2.52-32.904-31.582-59.825-64.582-59.825H4125.577c-33,0-62.067,26.921-64.593,59.824l-3.414,44.467
+					c-2.526,32.903,22.407,59.824,55.406,59.824h2019c33,0,57.938-26.921,55.419-59.825L6183.99,1248.319z"/>
+				<text transform="matrix(1 0 0 1 4917.8555 1297.1519)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="72">VIP terminal</text>
+<!--				<circle fill="#C7C7C7" cx="4833.925" cy="1270.552" r="33.09"/>-->
+			</g>
+		</g>
+	</g>
+	<g id="labels">
+		<text dataSectorId="5df1fcf296772bd14f09650d">Танцевальный партер</text>
+		<text dataSectorId="5df1fcf296772bd14f09650e">Ложа 1</text>
+		<text dataSectorId="5df1fcf296772bd14f09650f">Ложа 2</text>
+		<text dataSectorId="5df1fcf296772bd14f096510">Ложа 3</text>
+		<text dataSectorId="5df1fcf296772bd14f096511">Ложа 4</text>
+		<text dataSectorId="5df1fcf296772bd14f096512">Ложа 5</text>
+		<text dataSectorId="5df1fcf296772bd14f096513">VIP Line 2</text>
+		<text dataSectorId="5df1fcf296772bd14f096514">VIP Line 3</text>
+		<text dataSectorId="5df1fcf296772bd14f096515">VIP Line 4</text>
+	</g>
+</svg>

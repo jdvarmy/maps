@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="map-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1024" height="768" viewBox="0 0 10240 7680" xml:space="preserve">
+	<metadata>
+		<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+		<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c014 79.151739, 2013/04/03-12:12:15">
+			<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				<rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/" xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/" xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#" xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">
+					<xmpTPg:MaxPageSize rdf:parseType="Resource">
+						<stDim:w>10240.000397</stDim:w>
+						<stDim:h>7680.000000</stDim:h>
+						<stDim:unit>Points</stDim:unit>
+					</xmpTPg:MaxPageSize>
+					<xmpTPg:NPages>1</xmpTPg:NPages>
+					<xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+					<xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+					<xmpTPg:Fonts>
+						<rdf:Bag>
+							<rdf:li rdf:parseType="Resource">
+								<stFnt:fontName>DINPro</stFnt:fontName>
+								<stFnt:fontFamily>DIN Pro</stFnt:fontFamily>
+								<stFnt:fontFace>Regular</stFnt:fontFace>
+								<stFnt:fontType>TrueType</stFnt:fontType>
+								<stFnt:versionString>Version 7.504; 2005; Build 1021</stFnt:versionString>
+								<stFnt:composite>False</stFnt:composite>
+								<stFnt:fontFileName>DINPro.ttf</stFnt:fontFileName>
+							</rdf:li>
+						</rdf:Bag>
+					</xmpTPg:Fonts>
+					<xmpTPg:PlateNames>
+						<rdf:Seq>
+							<rdf:li>Cyan</rdf:li>
+							<rdf:li>Magenta</rdf:li>
+							<rdf:li>Yellow</rdf:li>
+							<rdf:li>Black</rdf:li>
+						</rdf:Seq>
+					</xmpTPg:PlateNames>
+					<xmpTPg:SwatchGroups>
+						<rdf:Seq>
+							<rdf:li rdf:parseType="Resource">
+								<xmpG:groupName>Default Swatch Group</xmpG:groupName>
+								<xmpG:groupType>0</xmpG:groupType>
+							</rdf:li>
+						</rdf:Seq>
+					</xmpTPg:SwatchGroups>
+					<dc:format>image/svg+xml</dc:format>
+				</rdf:Description>
+			</rdf:RDF>
+		</x:xmpmeta>
+		<?xpacket end="w"?>
+	</metadata>
+	<g id="background">
+		<path name="VIP балкон" tc-sector="5825b3d7cf739f162796970e" id="5825b3d7cf739f162796970e" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M1252.7,2507.241c-22,0-40,18-40,40v1369.904
+			c0,22,0,43.356,0,47.458c0,4.102,0,25.458,0,47.458v1369.904c0,22,18,40,40,40h578.513c22,0,40-18,40-40V4012.062
+			c0-22,0-43.356,0-47.458c0-4.102,0-25.458,0-47.458V2547.241c0-22-18-40-40-40H1252.7z"/>
+		<path name="VIP без мест" tc-sector="5825b3d7cf739f162796970f" id="5825b3d7cf739f162796970f" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M4579.82,5114.933c0-22-18-40-40-40h-353.312
+			c-22,0-40,18-40,40v646.922c0,22,18,40,40,40h353.312c22,0,40-18,40-40V5114.933z"/>
+		<path name="VIP без мест" tc-sector="5825b3d7cf739f162796970f" id="5825b3d7cf739f162796970f" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M4579.82,2814.273c0,22-18,40-40,40h-353.312
+			c-22,0-40-18-40-40v-646.922c0-22,18-40,40-40h353.312c22,0,40,18,40,40V2814.273z"/>
+		<path name="VIP центр" tc-sector="5825b3d7cf739f162796970d" id="5825b3d7cf739f162796970d" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M1947.783,3237.39c-22,0-40,18-40,40v646.682
+			c0,22,0,40.239,0,40.531s0,18.531,0,40.531v646.682c0,22,18,40,40,40h309.113c22,0,40-18,40-40v-646.682c0-22,0-40.239,0-40.531
+			s0-18.531,0-40.531V3277.39c0-22-18-40-40-40H1947.783z"/>
+		<path name="VIP Deluxe" tc-sector="5825b3d7cf739f162796970c" id="5825b3d7cf739f162796970c" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M2514.758,3237.39c-22,0-40,18-40,40v646.682
+			c0,22,0,40.239,0,40.531s0,18.531,0,40.531v646.682c0,22,18,40,40,40h304.099c22,0,40-18,40-40v-646.682c0-22,0-40.239,0-40.531
+			s0-18.531,0-40.531V3277.39c0-22-18-40-40-40H2514.758z"/>
+		<path name="Столы 2 этаж" tc-sector="5825b3d7cf739f1627969711" id="5825b3d7cf739f1627969711" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M2434.286,3964.603c0-0.292,0-18.531,0-40.531
+			v-686.69c0-22,18-40,40-40h336.365c22,0,52.728-12.728,68.284-28.284l260.462-260.462
+			c15.556-15.556,46.284-28.284,68.284-28.284h218.054c22,0,52.728,12.728,68.284,28.284l87.843,87.843
+			c15.556,15.556,46.284,28.284,68.284,28.284h52.386c22,0,52.728-12.728,68.284-28.284l283.066-283.066
+			c15.556-15.556,28.284-46.284,28.284-68.284v-482.392c0-22-18-39.953-40-39.897l-1708.371,4.408
+			c-22,0.057-52.728,12.831-68.284,28.387l-329.446,329.446c-15.556,15.556-28.284,46.284-28.284,68.284v609.102c0,22,18,40,40,40
+			h348.535c22,0,40,18,40,40v681.605c0,22,0,40.239,0,40.531s0,18.531,0,40.531v681.605c0,22-18,40-40,40h-348.535
+			c-22,0-40,18-40,40v609.244c0,22,12.728,52.728,28.284,68.285l329.304,329.304c15.556,15.556,46.284,28.331,68.284,28.387
+			l1708.513,4.409c22,0.057,40-17.897,40-39.897v-482.392c0-22-12.728-52.728-28.284-68.284l-283.066-283.066
+			c-15.556-15.556-46.284-28.284-68.284-28.284h-52.386c-22,0-52.728,12.728-68.284,28.284l-87.843,87.843
+			c-15.556,15.556-46.284,28.284-68.284,28.284h-218.054c-22,0-52.728-12.728-68.284-28.284l-260.462-260.462
+			c-15.556-15.556-46.284-28.284-68.284-28.284h-336.365c-22,0-40-18-40-40v-686.69
+			C2434.286,3983.135,2434.286,3964.896,2434.286,3964.603z"/>
+		<path name="Амфитеатр-левая сторона" tc-sector="5825b3d7cf739f1627969712" id="5825b3d7cf739f1627969712" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M6711.839,3922.146c0,22-18,40-40,40H5445.067
+			c-22,0-40-18-40-40V2444.389c0-22,18-40,40-40h1226.772c22,0,40,18,40,40V3922.146z"/>
+		<path name="Амфитеатр-правая сторона" tc-sector="5825b3d7cf739f1627969713" id="5825b3d7cf739f1627969713" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M6711.839,5478.216c0,22-18,40-40,40H5445.067
+			c-22,0-40-18-40-40V4037.639c0-22,18-40,40-40h1226.772c22,0,40,18,40,40V5478.216z"/>
+		<path name="Танцевальный партер" tc-sector="5825b3d7cf739f1627969714" id="5825b3d7cf739f1627969714" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M6911.263,3247.43c-22,0-40,18-40,40v1349.03
+			c0,22,18,40,40,40h402.575c22,0,50.427,14.672,63.172,32.605l135.59,190.792c12.744,17.933,41.171,32.605,63.171,32.605h259.884
+			c22,0,52.728,12.728,68.284,28.285l155.523,155.523c15.556,15.556,28.284,46.284,28.284,68.284v295.349c0,22,18,40,40,40h919.815
+			c22,0,40-18,40-40v-497.56c0-22-18-40-40-40h-489.154c-22,0-40-18-40-40V3051.058c0-22,18-40,40-40h489.154c22,0,40-18,40-40
+			v-526.669c0-22-18-40-40-40h-925.077c-22,0-40,18-40,40v281.873c0,22-12.542,52.911-27.872,68.691l-158.955,163.625
+			c-15.329,15.78-45.872,28.691-67.872,28.691h-260.646c-22,0-50.068,14.921-62.373,33.158l-130.797,193.846
+			c-12.305,18.237-40.374,33.158-62.374,33.158H6911.263z"/>
+		<path name="Столы 1 этаж" tc-sector="5825b3d7cf739f1627969710" id="5825b3d7cf739f1627969710" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M6837.666,3946.129c0-7.42,0-31.492,0-53.492
+			v-640.161c0-22,18-40,40-40h412.361c22,0,50.199-14.831,62.666-32.959l131.554-191.296
+			c12.466-18.127,40.666-32.959,62.666-32.959h265.375c22,0,52.541-12.912,67.869-28.693l132.695-136.617
+			c15.328-15.781,27.869-46.693,27.869-68.693v-276.869c0-22-18-39.977-40-39.948l-1213.612,1.582c-22,0.029-40,18.052-40,40.052
+			v1446.562c0,22,0,46.071,0,53.492s0,31.492,0,53.492v1478.596c0,22,18,40.023,40,40.052l1213.612,1.582
+			c22,0.028,40-17.948,40-39.948v-282.439c0-22-12.728-52.728-28.284-68.284l-131.865-131.865
+			c-15.557-15.557-46.284-28.285-68.284-28.285h-265.375c-22,0-50.2-14.831-62.666-32.958l-131.554-191.296
+			c-12.466-18.127-40.666-32.958-62.666-32.958h-412.361c-22,0-40-18-40-40v-672.195
+			C6837.666,3977.621,6837.666,3953.549,6837.666,3946.129z"/>
+		<g id="details">
+			<path fill="#F5F5F5" d="M4441.537,3291.456c0-22,18-40,40-40h462.945c22,0,40,18,40,40v1432.792c0,22-18,40-40,40h-462.945
+				c-22,0-40-18-40-40V3291.456z"/>
+			<g>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="2696.366" cy="4478.753" r="68.136"/>
+				<text transform="matrix(1 0 0 1 2663.6235 4497.6943)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">14</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="2696.366" cy="4132.451" r="68.136"/>
+				<text transform="matrix(1 0 0 1 2663.6235 4151.3926)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">13</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="2696.366" cy="3796.755" r="68.136"/>
+				<text transform="matrix(1 0 0 1 2663.6235 3815.6997)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">12</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="2696.366" cy="3450.454" r="68.136"/>
+				<text transform="matrix(1 0 0 1 2663.6235 3469.3955)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">11</text>
+			</g>
+			<g>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="3871.897" cy="2677.82" r="68.136"/>
+				<text transform="matrix(1 0 0 1 3843.1548 2696.7627)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">15</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="3736.03" cy="2799.716" r="68.136"/>
+				<text transform="matrix(1 0 0 1 3705.7236 2818.6758)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">16</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="3840.342" cy="2336.668" r="68.136"/>
+				<text transform="matrix(1 0 0 1 3811.6001 2355.6099)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">17</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="3549.438" cy="2385.063" r="68.136"/>
+				<text transform="matrix(1 0 0 1 3520.6968 2404.0059)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">18</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="3383.381" cy="2735.118" r="68.136"/>
+				<text transform="matrix(1 0 0 1 3354.6396 2754.0591)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">19</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="2995.503" cy="2856.573" r="68.136"/>
+				<text transform="matrix(1 0 0 1 2970.7617 2875.5156)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">20</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="2866.196" cy="2971.911" r="68.136"/>
+				<text transform="matrix(1 0 0 1 2839.9468 2989.3447)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">21</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="3197.063" cy="2389.95" r="68.136"/>
+				<text transform="matrix(1 0 0 1 3168.3218 2408.8916)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">22</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="2888.239" cy="2528.391" r="68.136"/>
+				<text transform="matrix(1 0 0 1 2859.4971 2547.332)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">23</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="2531.536" cy="2739.565" r="68.136"/>
+				<text transform="matrix(1 0 0 1 2502.7939 2758.5063)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">24</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="2469.356" cy="3054.702" r="68.136"/>
+				<text transform="matrix(1 0 0 1 2442.6147 3073.6431)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">25</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="2585.806" cy="2428.63" r="68.136"/>
+				<text transform="matrix(1 0 0 1 2557.0649 2447.5708)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">26</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="2158.04" cy="2970.123" r="68.136"/>
+				<text transform="matrix(1 0 0 1 2129.2983 2989.0654)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">27</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="2158.04" cy="2679.311" r="68.136"/>
+				<text transform="matrix(1 0 0 1 2129.2983 2698.2529)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">28</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="3871.897" cy="5251.387" r="68.136"/>
+				<text transform="matrix(1 0 0 1 3843.1548 5270.3281)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">29</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="3736.03" cy="5129.49" r="68.136"/>
+				<text transform="matrix(1 0 0 1 3706.7813 5143.9229)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">30</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="3840.342" cy="5592.539" r="68.136"/>
+				<text transform="matrix(1 0 0 1 3811.6001 5611.4795)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">31</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="3549.438" cy="5544.143" r="68.136"/>
+				<text transform="matrix(1 0 0 1 3520.6968 5563.084)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">32</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="3383.381" cy="5194.088" r="68.136"/>
+				<text transform="matrix(1 0 0 1 3354.6396 5213.0293)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">33</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="2995.503" cy="5072.633" r="68.136"/>
+				<text transform="matrix(1 0 0 1 2966.7617 5091.5742)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">34</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="2866.196" cy="4957.295" r="68.136"/>
+				<text transform="matrix(1 0 0 1 2840.9448 4975.6426)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">35</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="3197.063" cy="5539.256" r="68.136"/>
+				<text transform="matrix(1 0 0 1 3168.3218 5558.1973)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">36</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="2888.239" cy="5400.816" r="68.136"/>
+				<text transform="matrix(1 0 0 1 2859.4971 5419.7568)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">37</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="2531.536" cy="5189.642" r="68.136"/>
+				<text transform="matrix(1 0 0 1 2502.7939 5208.582)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">38</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="2469.356" cy="4874.505" r="68.136"/>
+				<text transform="matrix(1 0 0 1 2440.6147 4893.4453)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">39</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="2585.806" cy="5500.576" r="68.136"/>
+				<text transform="matrix(1 0 0 1 2557.0649 5519.5176)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">40</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="2158.04" cy="4959.083" r="68.136"/>
+				<text transform="matrix(1 0 0 1 2129.2983 4978.0244)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">41</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="2158.04" cy="5249.896" r="68.136"/>
+				<text transform="matrix(1 0 0 1 2129.2983 5268.8359)" fill="#8A8A8A" font-family="'DINPro'" font-size="54.8166">42</text>
+			</g>
+			<path fill="#F5F5F5" d="M8589.881,3099.631c0-22,18-40,40-40h417.682c22,0,40,18,40,40v1730.08c0,22-18,40-40,40h-417.682
+				c-22,0-40-18-40-40V3099.631z"/>
+			<text transform="matrix(1 0 0 1 8722.7275 3986.6221)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="80.8613">Сцена</text>
+			<text transform="matrix(1 0 0 1 4597.0156 4029.8027)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="80.8613">Сцена</text>
+			<text transform="matrix(1 0 0 1 2993.6851 1900.1095)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="134.9374">2 этаж</text>
+			<text transform="matrix(1 0 0 1 6982.2271 1900.1095)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="134.9374">1 этаж</text>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M1044.37,2062.918c0-22,18-40,40-40h3920.811
+			c22,0,40,18,40,40v3803.371c0,22-18,40-40,40H1084.37c-22,0-40-18-40-40V2062.918z"/>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M5269.72,2060.46c0-22,18-40,40-40h3845.911
+			c22,0,40,18,40,40v3803.371c0,22-18,40-40,40H5309.72c-22,0-40-18-40-40V2060.46z"/>
+			<g>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="7838.346" cy="2644.38" r="68.136"/>
+				<text transform="matrix(1 0 0 1 7818.7212 2672.4585)" fill="#8A8A8A" font-family="'DINPro'" font-size="75.1853">1</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="7712.752" cy="2756.004" r="68.136"/>
+				<text transform="matrix(1 0 0 1 7693.1274 2780.1831)" fill="#8A8A8A" font-family="'DINPro'" font-size="75.1853">2</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="7359.839" cy="2617.481" r="68.136"/>
+				<text transform="matrix(1 0 0 1 7340.2144 2645.5591)" fill="#8A8A8A" font-family="'DINPro'" font-size="75.1853">3</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="7158.326" cy="2849.261" r="68.136"/>
+				<text transform="matrix(1 0 0 1 7138.7026 2877.3394)" fill="#8A8A8A" font-family="'DINPro'" font-size="75.1853">4</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="7039.92" cy="2980.72" r="68.136"/>
+				<text transform="matrix(1 0 0 1 7020.2974 3009.5103)" fill="#8A8A8A" font-family="'DINPro'" font-size="75.1853">5</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="7838.346" cy="5279.912" r="68.136"/>
+				<text transform="matrix(1 0 0 1 7818.7212 5307.9893)" fill="#8A8A8A" font-family="'DINPro'" font-size="75.1853">6</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="7712.752" cy="5168.288" r="68.136"/>
+				<text transform="matrix(1 0 0 1 7688.6206 5191.8564)" fill="#8A8A8A" font-family="'DINPro'" font-size="75.1853">7</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="7359.839" cy="5306.812" r="68.136"/>
+				<text transform="matrix(1 0 0 1 7340.2144 5334.8887)" fill="#8A8A8A" font-family="'DINPro'" font-size="75.1853">8</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="7158.326" cy="5075.031" r="68.136"/>
+				<text transform="matrix(1 0 0 1 7138.7026 5103.1084)" fill="#8A8A8A" font-family="'DINPro'" font-size="75.1853">9</text>
+				<circle fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" cx="7039.92" cy="4943.572" r="68.136"/>
+				<text transform="matrix(1 0 0 1 6995.7905 4967.1406)" fill="#8A8A8A" font-family="'DINPro'" font-size="75.1853">10</text>
+			</g>
+		</g>
+	</g>
+	<g id="labels">
+		<text dataSectorId="5825b3d7cf739f162796970e">VIP балкон</text>
+		<text dataSectorId="5825b3d7cf739f162796970d">VIP центр</text>
+		<text dataSectorId="5825b3d7cf739f162796970c">VIP Deluxe</text>
+		<text dataSectorId="5825b3d7cf739f1627969711">Столы 2 этаж</text>
+		<text dataSectorId="5825b3d7cf739f162796970f">VIP без мест</text>
+		<text dataSectorId="5825b3d7cf739f1627969712">Амфитеатр-левая сторона</text>
+		<text dataSectorId="5825b3d7cf739f1627969713">Амфитеатр-правая сторона</text>
+		<text dataSectorId="5825b3d7cf739f1627969714">Танцевальный партер</text>
+		<text dataSectorId="5825b3d7cf739f1627969710">Столы 1 этаж</text>
+	</g>
+</svg>

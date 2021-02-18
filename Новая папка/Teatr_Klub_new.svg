@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="map-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1024" height="768" viewBox="0 0 10240 7680" xml:space="preserve">
+	<metadata>
+		<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+		<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c014 79.151739, 2013/04/03-12:12:15">
+			<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				<rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/" xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/" xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#" xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">
+					<xmpTPg:MaxPageSize rdf:parseType="Resource">
+						<stDim:w>10240.000397</stDim:w>
+						<stDim:h>7680.000000</stDim:h>
+						<stDim:unit>Points</stDim:unit>
+					</xmpTPg:MaxPageSize>
+					<xmpTPg:NPages>1</xmpTPg:NPages>
+					<xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+					<xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+					<xmpTPg:Fonts>
+						<rdf:Bag>
+							<rdf:li rdf:parseType="Resource">
+								<stFnt:fontName>DINPro</stFnt:fontName>
+								<stFnt:fontFamily>DIN Pro</stFnt:fontFamily>
+								<stFnt:fontFace>Regular</stFnt:fontFace>
+								<stFnt:fontType>TrueType</stFnt:fontType>
+								<stFnt:versionString>Version 7.504; 2005; Build 1021</stFnt:versionString>
+								<stFnt:composite>False</stFnt:composite>
+								<stFnt:fontFileName>DINPro.ttf</stFnt:fontFileName>
+							</rdf:li>
+						</rdf:Bag>
+					</xmpTPg:Fonts>
+					<xmpTPg:PlateNames>
+						<rdf:Seq>
+							<rdf:li>Cyan</rdf:li>
+							<rdf:li>Magenta</rdf:li>
+							<rdf:li>Yellow</rdf:li>
+							<rdf:li>Black</rdf:li>
+						</rdf:Seq>
+					</xmpTPg:PlateNames>
+					<xmpTPg:SwatchGroups>
+						<rdf:Seq>
+							<rdf:li rdf:parseType="Resource">
+								<xmpG:groupName>Default Swatch Group</xmpG:groupName>
+								<xmpG:groupType>0</xmpG:groupType>
+							</rdf:li>
+						</rdf:Seq>
+					</xmpTPg:SwatchGroups>
+					<dc:format>image/svg+xml</dc:format>
+				</rdf:Description>
+			</rdf:RDF>
+		</x:xmpmeta>
+		<?xpacket end="w"?>
+	</metadata>
+	<g id="background">
+		<path name="Танцевальный партер" tc-sector="5e42f16e8ab0c3d3fdf3d7b9" id="5e42f16e8ab0c3d3fdf3d7b9" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M3407.997,5621.626c-33,0-60-27-60-60V3235.644
+			c0-33,27-60,60-60h172.406c33,0,60-27,60-60v-176.913c0-33,27-60,60-60h2408.579c33,0,60,27,60,60v176.913c0,33,27,60,60,60
+			h80.518c33,0,60,27,60,60v2325.982c0,33-27,60-60,60H3407.997z"/>
+		<path name="Барные стойки на одного" tc-sector="5e42f16e8ab0c3d3fdf3d7ba" id="5e42f16e8ab0c3d3fdf3d7ba" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M2319.816,3075.702c0-33,27-60,60-60h128.747
+				c33,0,60,27,60,60v1984.446c0,33-27,60-60,60h-128.747c-33,0-60-27-60-60V3075.702z"/>
+		<path name="Барные стойки на одного" tc-sector="5e42f16e8ab0c3d3fdf3d7ba" id="5e42f16e8ab0c3d3fdf3d7ba" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M7205.037,3075.702c0-33,27-60,60-60h128.747
+				c33,0,60,27,60,60v1984.446c0,33-27,60-60,60h-128.747c-33,0-60-27-60-60V3075.702z"/>
+		<g id="details">
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M2148.683,714.502c0-33,27-60,60-60h5346.193
+				c33,0,60,27,60,60v6264.416c0,33-27,60-60,60H2208.682c-33,0-60-27-60-60V714.502z"/>
+			<path fill="#F5F5F5" d="M6144.54,6887.902c0,33-27,60-60,60H3700.404c-33,0-60-27-60-60V5822.65c0-33,27-60,60-60H6084.54
+				c33,0,60,27,60,60V6887.902z"/>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M7537.892,1725.699c0-33-27-60-60-60h-5191.88
+				c-33,0-60,27-60,60v1041.04c0,33,27,60,60,60h5191.88c33,0,60-27,60-60V1725.699z"/>
+			<text transform="matrix(1 0 0 1 4769.5391 6399.9609)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="85.6984">Сцена</text>
+			<text transform="matrix(1 0 0 1 4429.9717 4288.2969)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="85.6984">Танцевальный партер</text>
+			<text transform="matrix(1 0 0 1 4350.0151 2177.0786)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="85.6984">Диваны на подиуме</text>
+			<text transform="matrix(1.0007 0 0 1 4407.5791 1555.416)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="85.6984">2-й ярус балкона</text>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M2226.012,5702.65c0,33,27,60,60,60h946.756
+				c33,0,60-27,60-60V3180.057c0-33,27-60,60-60h175.75c33,0,60-27,60-60v-121.326c0-33-27-60-60-60H2286.012c-33,0-60,27-60,60
+				V5702.65z"/>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M2810.162,3034.927
+				c0-10.573,8.651-19.225,19.225-19.225h189.135c10.573,0,19.224,8.651,19.224,19.225v69.208c0,10.573-8.651,19.225-19.224,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225L2810.162,3034.927L2810.162,3034.927z"/>
+			<text transform="matrix(1 0 0 1 2877.3867 3184.7095)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">111</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M2810.162,3276.857
+				c0-10.573,8.651-19.225,19.225-19.225h189.135c10.573,0,19.224,8.651,19.224,19.225v69.208c0,10.573-8.651,19.225-19.224,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225L2810.162,3276.857L2810.162,3276.857z"/>
+			<text transform="matrix(1 0 0 1 2877.3867 3426.6392)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">112</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M2810.162,3518.786
+				c0-10.573,8.651-19.225,19.225-19.225h189.135c10.573,0,19.224,8.651,19.224,19.225v69.208c0,10.573-8.651,19.225-19.224,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225L2810.162,3518.786L2810.162,3518.786z"/>
+			<text transform="matrix(1 0 0 1 2877.3867 3668.5698)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">113</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M2810.162,3760.716
+				c0-10.573,8.651-19.225,19.225-19.225h189.135c10.573,0,19.224,8.651,19.224,19.225v69.208c0,10.573-8.651,19.225-19.224,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225L2810.162,3760.716L2810.162,3760.716z"/>
+			<text transform="matrix(1 0 0 1 2877.3867 3910.498)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">114</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M2810.162,4002.646
+				c0-10.573,8.651-19.225,19.225-19.225h189.135c10.573,0,19.224,8.651,19.224,19.225v69.208c0,10.573-8.651,19.225-19.224,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225L2810.162,4002.646L2810.162,4002.646z"/>
+			<text transform="matrix(1 0 0 1 2877.3867 4152.4277)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">115</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M2810.162,4244.576
+				c0-10.574,8.651-19.225,19.225-19.225h189.135c10.573,0,19.224,8.651,19.224,19.225v69.208c0,10.574-8.651,19.225-19.224,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225L2810.162,4244.576L2810.162,4244.576z"/>
+			<text transform="matrix(1 0 0 1 2877.3867 4394.3574)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">116</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M2810.162,4486.505
+				c0-10.574,8.651-19.225,19.225-19.225h189.135c10.573,0,19.224,8.651,19.224,19.225v69.208c0,10.574-8.651,19.225-19.224,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225L2810.162,4486.505L2810.162,4486.505z"/>
+			<text transform="matrix(1 0 0 1 2877.3867 4636.2871)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">117</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M2810.162,4728.435
+				c0-10.574,8.651-19.225,19.225-19.225h189.135c10.573,0,19.224,8.651,19.224,19.225v69.208c0,10.574-8.651,19.225-19.224,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225L2810.162,4728.435L2810.162,4728.435z"/>
+			<text transform="matrix(1 0 0 1 2877.3867 4878.2168)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">118</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M2810.162,4970.365
+				c0-10.574,8.651-19.225,19.225-19.225h189.135c10.573,0,19.224,8.651,19.224,19.225v69.208c0,10.574-8.651,19.225-19.224,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225L2810.162,4970.365L2810.162,4970.365z"/>
+			<text transform="matrix(1 0 0 1 2877.3867 5120.1484)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">119</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M2810.162,5212.294
+				c0-10.574,8.651-19.225,19.225-19.225h189.135c10.573,0,19.224,8.651,19.224,19.225v69.208c0,10.573-8.651,19.225-19.224,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225L2810.162,5212.294L2810.162,5212.294z"/>
+			<text transform="matrix(1 0 0 1 2877.3867 5362.0781)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">120</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M2810.162,5454.224
+				c0-10.574,8.651-19.225,19.225-19.225h189.135c10.573,0,19.224,8.651,19.224,19.225v69.208c0,10.573-8.651,19.225-19.224,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225L2810.162,5454.224L2810.162,5454.224z"/>
+			<text transform="matrix(1 0 0 1 2877.3867 5604.0078)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">121</text>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M2286.012,731.395c-33,0-60,27-60,60v766.367
+				c0,33,27,60,60,60h5191.88c33,0,60-27,60-60V791.395c0-33-27-60-60-60H2286.012z"/>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M2351.037,830.84
+				c0-10.574,8.651-19.225,19.225-19.225h189.135c10.574,0,19.225,8.651,19.225,19.225v69.209c0,10.573-8.651,19.225-19.225,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225V830.84L2351.037,830.84z"/>
+			<text transform="matrix(1 0 0 1 2418.2612 980.6231)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">512</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M2747.36,830.84
+				c0-10.574,8.651-19.225,19.225-19.225h189.135c10.573,0,19.225,8.651,19.225,19.225v69.209c0,10.573-8.651,19.225-19.225,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225V830.84L2747.36,830.84z"/>
+			<text transform="matrix(1 0 0 1 2814.5835 980.6231)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">511</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M3143.682,830.84
+				c0-10.574,8.651-19.225,19.225-19.225h189.135c10.573,0,19.225,8.651,19.225,19.225v69.209c0,10.573-8.651,19.225-19.225,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225L3143.682,830.84L3143.682,830.84z"/>
+			<text transform="matrix(1 0 0 1 3210.9067 980.6231)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">510</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M3540.005,830.84
+				c0-10.574,8.651-19.225,19.225-19.225h189.135c10.573,0,19.225,8.651,19.225,19.225v69.209c0,10.573-8.651,19.225-19.225,19.225
+				H3559.23c-10.573,0-19.225-8.651-19.225-19.225L3540.005,830.84L3540.005,830.84z"/>
+			<text transform="matrix(1 0 0 1 3607.23 980.6231)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">509</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M3936.328,830.84
+				c0-10.574,8.651-19.225,19.225-19.225h189.135c10.573,0,19.224,8.651,19.224,19.225v69.209c0,10.573-8.651,19.225-19.224,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225L3936.328,830.84L3936.328,830.84z"/>
+			<text transform="matrix(1 0 0 1 4003.5522 980.6231)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">508</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M4332.651,830.84
+				c0-10.574,8.651-19.225,19.225-19.225h189.135c10.573,0,19.225,8.651,19.225,19.225v69.209c0,10.573-8.651,19.225-19.225,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225V830.84L4332.651,830.84z"/>
+			<text transform="matrix(1 0 0 1 4399.8755 980.6231)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">507</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M4728.974,830.84
+				c0-10.574,8.651-19.225,19.225-19.225h189.135c10.574,0,19.225,8.651,19.225,19.225v69.209c0,10.573-8.651,19.225-19.225,19.225
+				h-189.135c-10.574,0-19.225-8.651-19.225-19.225L4728.974,830.84L4728.974,830.84z"/>
+			<text transform="matrix(1 0 0 1 4796.1987 980.6231)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">506</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M5125.297,830.84
+				c0-10.574,8.651-19.225,19.225-19.225h189.135c10.573,0,19.225,8.651,19.225,19.225v69.209c0,10.573-8.651,19.225-19.225,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225V830.84L5125.297,830.84z"/>
+			<text transform="matrix(1 0 0 1 5192.52 980.6231)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">505</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M5521.62,830.84
+				c0-10.574,8.651-19.225,19.225-19.225h189.135c10.574,0,19.225,8.651,19.225,19.225v69.209c0,10.573-8.651,19.225-19.225,19.225
+				h-189.135c-10.574,0-19.225-8.651-19.225-19.225L5521.62,830.84L5521.62,830.84z"/>
+			<text transform="matrix(1 0 0 1 5588.8442 980.6231)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">504</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M5917.943,830.84
+				c0-10.574,8.651-19.225,19.225-19.225h189.135c10.573,0,19.225,8.651,19.225,19.225v69.209c0,10.573-8.651,19.225-19.225,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225V830.84L5917.943,830.84z"/>
+			<text transform="matrix(1 0 0 1 5985.1694 980.6231)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">503</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M6314.266,830.84
+				c0-10.574,8.651-19.225,19.225-19.225h189.135c10.574,0,19.225,8.651,19.225,19.225v69.209c0,10.573-8.651,19.225-19.225,19.225
+				h-189.135c-10.574,0-19.225-8.651-19.225-19.225L6314.266,830.84L6314.266,830.84z"/>
+			<text transform="matrix(1 0 0 1 6381.4897 980.6231)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">502</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M6710.589,830.84
+				c0-10.574,8.651-19.225,19.225-19.225h189.135c10.573,0,19.224,8.651,19.224,19.225v69.209c0,10.573-8.651,19.225-19.224,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225V830.84L6710.589,830.84z"/>
+			<text transform="matrix(1 0 0 1 6777.811 980.6231)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">501</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M2509.636,1315.148
+				c-10.573,0-19.225-8.651-19.225-19.224v-189.135c0-10.573,8.651-19.225,19.225-19.225h213.369
+				c10.573,0,19.225,8.651,19.225,19.225v189.135c0,10.573-8.651,19.224-19.225,19.224L2509.636,1315.148L2509.636,1315.148z"/>
+			<text transform="matrix(1 0 0 1 2573.9966 1399.8574)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">408</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M3079.595,1315.148
+				c-10.573,0-19.225-8.651-19.225-19.224v-189.135c0-10.573,8.651-19.225,19.225-19.225h213.369
+				c10.573,0,19.225,8.651,19.225,19.225v189.135c0,10.573-8.651,19.224-19.225,19.224L3079.595,1315.148L3079.595,1315.148z"/>
+			<text transform="matrix(1 0 0 1 3143.9561 1399.8574)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">407</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M3649.555,1315.148
+				c-10.573,0-19.224-8.651-19.224-19.224v-189.135c0-10.573,8.651-19.225,19.224-19.225h213.369
+				c10.574,0,19.225,8.651,19.225,19.225v189.135c0,10.573-8.651,19.224-19.225,19.224L3649.555,1315.148L3649.555,1315.148z"/>
+			<text transform="matrix(1 0 0 1 3713.9155 1399.8574)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">406</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M4219.514,1315.148
+				c-10.573,0-19.225-8.651-19.225-19.224v-189.135c0-10.573,8.651-19.225,19.225-19.225h213.369
+				c10.573,0,19.225,8.651,19.225,19.225v189.135c0,10.573-8.651,19.224-19.225,19.224L4219.514,1315.148L4219.514,1315.148z"/>
+			<text transform="matrix(1 0 0 1 4283.875 1399.8574)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">405</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M4789.474,1315.148
+				c-10.574,0-19.225-8.651-19.225-19.224v-189.135c0-10.573,8.651-19.225,19.225-19.225h213.369
+				c10.573,0,19.225,8.651,19.225,19.225v189.135c0,10.573-8.651,19.224-19.225,19.224L4789.474,1315.148L4789.474,1315.148z"/>
+			<text transform="matrix(1 0 0 1 4853.8345 1399.8574)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">404</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M5359.433,1315.148
+				c-10.574,0-19.225-8.651-19.225-19.224v-189.135c0-10.573,8.651-19.225,19.225-19.225h213.369
+				c10.574,0,19.225,8.651,19.225,19.225v189.135c0,10.573-8.651,19.224-19.225,19.224L5359.433,1315.148L5359.433,1315.148z"/>
+			<text transform="matrix(1 0 0 1 5423.7935 1399.8574)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">403</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M5929.393,1315.148
+				c-10.574,0-19.225-8.651-19.225-19.224v-189.135c0-10.573,8.651-19.225,19.225-19.225h213.369
+				c10.574,0,19.225,8.651,19.225,19.225v189.135c0,10.573-8.651,19.224-19.225,19.224L5929.393,1315.148L5929.393,1315.148z"/>
+			<text transform="matrix(1 0 0 1 5993.7534 1399.8574)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">402</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M6499.352,1315.148
+				c-10.574,0-19.225-8.651-19.225-19.224v-189.135c0-10.573,8.651-19.225,19.225-19.225h213.369
+				c10.574,0,19.225,8.651,19.225,19.225v189.135c0,10.573-8.651,19.224-19.225,19.224L6499.352,1315.148L6499.352,1315.148z"/>
+			<text transform="matrix(1 0 0 1 6563.7124 1399.8574)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">401</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M6745.375,3034.927
+				c0-10.573,8.651-19.225,19.225-19.225h189.135c10.573,0,19.225,8.651,19.225,19.225v69.208c0,10.573-8.651,19.225-19.225,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225V3034.927L6745.375,3034.927z"/>
+			<text transform="matrix(1 0 0 1 6812.6001 3184.7095)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">110</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M6745.375,3276.857
+				c0-10.573,8.651-19.225,19.225-19.225h189.135c10.573,0,19.225,8.651,19.225,19.225v69.208c0,10.573-8.651,19.225-19.225,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225V3276.857L6745.375,3276.857z"/>
+			<text transform="matrix(1 0 0 1 6812.6001 3426.6392)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">109</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M6745.375,3518.786
+				c0-10.573,8.651-19.225,19.225-19.225h189.135c10.573,0,19.225,8.651,19.225,19.225v69.208c0,10.573-8.651,19.225-19.225,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225V3518.786L6745.375,3518.786z"/>
+			<text transform="matrix(1 0 0 1 6812.6001 3668.5698)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">108</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M6745.375,3760.716
+				c0-10.573,8.651-19.225,19.225-19.225h189.135c10.573,0,19.225,8.651,19.225,19.225v69.208c0,10.573-8.651,19.225-19.225,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225V3760.716L6745.375,3760.716z"/>
+			<text transform="matrix(1 0 0 1 6812.6001 3910.498)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">107</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M6745.375,4002.646
+				c0-10.573,8.651-19.225,19.225-19.225h189.135c10.573,0,19.225,8.651,19.225,19.225v69.208c0,10.573-8.651,19.225-19.225,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225V4002.646L6745.375,4002.646z"/>
+			<text transform="matrix(1 0 0 1 6812.6001 4152.4277)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">106</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M6745.375,4244.576
+				c0-10.574,8.651-19.225,19.225-19.225h189.135c10.573,0,19.225,8.651,19.225,19.225v69.208c0,10.574-8.651,19.225-19.225,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225V4244.576L6745.375,4244.576z"/>
+			<text transform="matrix(1 0 0 1 6812.6001 4394.3574)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">105</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M6745.375,4486.505
+				c0-10.574,8.651-19.225,19.225-19.225h189.135c10.573,0,19.225,8.651,19.225,19.225v69.208c0,10.574-8.651,19.225-19.225,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225V4486.505L6745.375,4486.505z"/>
+			<text transform="matrix(1 0 0 1 6812.6001 4636.2871)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">104</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M6745.375,4728.435
+				c0-10.574,8.651-19.225,19.225-19.225h189.135c10.573,0,19.225,8.651,19.225,19.225v69.208c0,10.574-8.651,19.225-19.225,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225V4728.435L6745.375,4728.435z"/>
+			<text transform="matrix(1 0 0 1 6812.6001 4878.2168)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">103</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M6745.375,4970.365
+				c0-10.574,8.651-19.225,19.225-19.225h189.135c10.573,0,19.225,8.651,19.225,19.225v69.208c0,10.574-8.651,19.225-19.225,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225V4970.365L6745.375,4970.365z"/>
+			<text transform="matrix(1 0 0 1 6812.6001 5120.1484)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">102</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M6745.375,5212.294
+				c0-10.574,8.651-19.225,19.225-19.225h189.135c10.573,0,19.225,8.651,19.225,19.225v69.208c0,10.573-8.651,19.225-19.225,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225V5212.294L6745.375,5212.294z"/>
+			<text transform="matrix(1 0 0 1 6812.6001 5362.0781)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">101</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M6745.375,5454.224
+				c0-10.574,8.651-19.225,19.225-19.225h189.135c10.573,0,19.225,8.651,19.225,19.225v69.208c0,10.573-8.651,19.225-19.225,19.225
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.225V5454.224L6745.375,5454.224z"/>
+			<text transform="matrix(1 0 0 1 6812.6001 5604.0078)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">100</text>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M6215.55,3068.141c0,33,27,60,60,60h85.937
+				c33,0,60,27,60,60V5702.65c0,33,27,60,60,60h996.406c33,0,60-27,60-60V2938.731c0-33-27-60-60-60H6275.55c-33,0-60,27-60,60
+				V3068.141z"/>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M2336.193,2506.861
+				c-10.573,0-19.225-8.651-19.225-19.225v-189.135c0-10.573,8.651-19.225,19.225-19.225h69.208
+				c10.573,0,19.225,8.651,19.225,19.225v189.135c0,10.573-8.651,19.225-19.225,19.225L2336.193,2506.861L2336.193,2506.861z"/>
+			<text transform="matrix(1 0 0 1 2444.6479 2412.5903)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">319</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M2336.193,2210.265
+				c-10.573,0-19.225-8.651-19.225-19.225v-189.135c0-10.574,8.651-19.225,19.225-19.225h69.208
+				c10.573,0,19.225,8.651,19.225,19.225v189.135c0,10.573-8.651,19.225-19.225,19.225L2336.193,2210.265L2336.193,2210.265z"/>
+			<text transform="matrix(1 0 0 1 2444.6479 2115.9937)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">318</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M2319.694,1888.027
+				c-7.477-7.477-7.477-19.711,0-27.188l133.739-133.739c7.477-7.477,19.711-7.477,27.188,0l48.938,48.938
+				c7.477,7.477,7.477,19.711,0,27.188l-133.739,133.739c-7.477,7.477-19.711,7.477-27.188,0L2319.694,1888.027L2319.694,1888.027z"/>
+			<text transform="matrix(1 0 0 1 2462.6021 1935.2407)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">317</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M2611.453,1741.141
+				c0-10.573,8.651-19.224,19.225-19.224h189.135c10.573,0,19.225,8.651,19.225,19.224v69.209c0,10.573-8.651,19.224-19.225,19.224
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.224L2611.453,1741.141L2611.453,1741.141z"/>
+			<text transform="matrix(1 0 0 1 2678.6772 1890.9229)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">316</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M2885.069,1741.141
+				c0-10.573,8.651-19.224,19.224-19.224h189.135c10.573,0,19.225,8.651,19.225,19.224v69.209c0,10.573-8.651,19.224-19.225,19.224
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.224V1741.141L2885.069,1741.141z"/>
+			<text transform="matrix(1 0 0 1 2952.2935 1890.9229)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">315</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M3158.686,1741.141
+				c0-10.573,8.651-19.224,19.225-19.224h189.135c10.574,0,19.225,8.651,19.225,19.224v69.209c0,10.573-8.651,19.224-19.225,19.224
+				H3177.91c-10.573,0-19.225-8.651-19.225-19.224V1741.141L3158.686,1741.141z"/>
+			<text transform="matrix(1 0 0 1 3225.9106 1890.9229)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">314</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M3432.302,1741.141
+				c0-10.573,8.651-19.224,19.225-19.224h189.135c10.573,0,19.224,8.651,19.224,19.224v69.209c0,10.573-8.651,19.224-19.224,19.224
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.224L3432.302,1741.141L3432.302,1741.141z"/>
+			<text transform="matrix(1 0 0 1 3499.5259 1890.9229)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">313</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M3705.918,1741.141
+				c0-10.573,8.651-19.224,19.225-19.224h189.135c10.573,0,19.225,8.651,19.225,19.224v69.209c0,10.573-8.651,19.224-19.225,19.224
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.224L3705.918,1741.141L3705.918,1741.141z"/>
+			<text transform="matrix(1 0 0 1 3773.1421 1890.9229)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">312</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M3979.534,1741.141
+				c0-10.573,8.651-19.224,19.225-19.224h189.135c10.574,0,19.225,8.651,19.225,19.224v69.209c0,10.573-8.651,19.224-19.225,19.224
+				h-189.135c-10.573,0-19.224-8.651-19.224-19.224L3979.534,1741.141L3979.534,1741.141z"/>
+			<text transform="matrix(1 0 0 1 4046.7593 1890.9229)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">311</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M4253.151,1741.141
+				c0-10.573,8.651-19.224,19.225-19.224h189.135c10.574,0,19.225,8.651,19.225,19.224v69.209c0,10.573-8.651,19.224-19.225,19.224
+				h-189.135c-10.574,0-19.225-8.651-19.225-19.224V1741.141L4253.151,1741.141z"/>
+			<text transform="matrix(1 0 0 1 4320.3745 1890.9229)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">310</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M4526.767,1741.141
+				c0-10.573,8.651-19.224,19.225-19.224h189.135c10.573,0,19.224,8.651,19.224,19.224v69.209c0,10.573-8.651,19.224-19.224,19.224
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.224V1741.141L4526.767,1741.141z"/>
+			<text transform="matrix(1 0 0 1 4593.9907 1890.9229)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">309</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M4800.383,1741.141
+				c0-10.573,8.651-19.224,19.225-19.224h189.135c10.573,0,19.225,8.651,19.225,19.224v69.209c0,10.573-8.651,19.224-19.225,19.224
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.224V1741.141L4800.383,1741.141z"/>
+			<text transform="matrix(1 0 0 1 4867.6079 1890.9229)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">308</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M5074,1741.141
+				c0-10.573,8.651-19.224,19.225-19.224h189.135c10.573,0,19.225,8.651,19.225,19.224v69.209c0,10.573-8.651,19.224-19.225,19.224
+				h-189.135c-10.573,0-19.224-8.651-19.224-19.224L5074,1741.141L5074,1741.141z"/>
+			<text transform="matrix(1 0 0 1 5141.2222 1890.9229)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">307</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M5347.616,1741.141
+				c0-10.573,8.651-19.224,19.225-19.224h189.135c10.574,0,19.225,8.651,19.225,19.224v69.209c0,10.573-8.651,19.224-19.225,19.224
+				H5366.84c-10.573,0-19.224-8.651-19.224-19.224L5347.616,1741.141L5347.616,1741.141z"/>
+			<text transform="matrix(1 0 0 1 5414.8394 1890.9229)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">306</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M5621.232,1741.141
+				c0-10.573,8.651-19.224,19.225-19.224h189.135c10.574,0,19.225,8.651,19.225,19.224v69.209c0,10.573-8.651,19.224-19.225,19.224
+				h-189.135c-10.574,0-19.225-8.651-19.225-19.224L5621.232,1741.141L5621.232,1741.141z"/>
+			<text transform="matrix(1 0 0 1 5688.4565 1890.9229)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">305</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M5894.849,1741.141
+				c0-10.573,8.651-19.224,19.225-19.224h189.135c10.574,0,19.225,8.651,19.225,19.224v69.209c0,10.573-8.651,19.224-19.225,19.224
+				h-189.135c-10.574,0-19.225-8.651-19.225-19.224V1741.141L5894.849,1741.141z"/>
+			<text transform="matrix(1 0 0 1 5962.0737 1890.9229)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">304</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M6168.465,1741.141
+				c0-10.573,8.651-19.224,19.225-19.224h189.135c10.573,0,19.224,8.651,19.224,19.224v69.209c0,10.573-8.651,19.224-19.224,19.224
+				h-189.135c-10.574,0-19.225-8.651-19.225-19.224V1741.141L6168.465,1741.141z"/>
+			<text transform="matrix(1 0 0 1 6235.689 1890.9229)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">303</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M6442.081,1741.141
+				c0-10.573,8.651-19.224,19.225-19.224h189.135c10.573,0,19.225,8.651,19.225,19.224v69.209c0,10.573-8.651,19.224-19.225,19.224
+				h-189.135c-10.573,0-19.225-8.651-19.225-19.224V1741.141L6442.081,1741.141z"/>
+			<text transform="matrix(1 0 0 1 6509.3062 1890.9229)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">302</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M6923.114,1888.027
+				c7.477-7.477,7.477-19.711,0-27.188l-133.739-133.739c-7.477-7.477-19.711-7.477-27.188,0l-48.938,48.938
+				c-7.477,7.477-7.477,19.711,0,27.188l133.739,133.739c7.477,7.477,19.711,7.477,27.188,0L6923.114,1888.027L6923.114,1888.027z"/>
+			<text transform="matrix(1 0 0 1 6683.3013 1935.2407)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">301</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M6839.278,2210.265
+				c-10.574,0-19.225-8.651-19.225-19.225v-189.135c0-10.574,8.651-19.225,19.225-19.225h69.208
+				c10.573,0,19.225,8.651,19.225,19.225v189.135c0,10.573-8.651,19.225-19.225,19.225L6839.278,2210.265L6839.278,2210.265z"/>
+			<text transform="matrix(1 0 0 1 6700.4312 2115.9937)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">300</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M2902.345,2638.636
+				c-10.573,0-19.225-8.651-19.225-19.225v-189.135c0-10.573,8.651-19.225,19.225-19.225h213.369
+				c10.573,0,19.225,8.651,19.225,19.225v189.135c0,10.573-8.651,19.224-19.225,19.224L2902.345,2638.636L2902.345,2638.636z"/>
+			<text transform="matrix(1 0 0 1 2966.7056 2723.3457)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">209</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M3325.617,2638.636
+				c-10.573,0-19.224-8.651-19.224-19.225v-189.135c0-10.573,8.651-19.225,19.224-19.225h213.369
+				c10.574,0,19.225,8.651,19.225,19.225v189.135c0,10.573-8.651,19.224-19.225,19.224L3325.617,2638.636L3325.617,2638.636z"/>
+			<text transform="matrix(1 0 0 1 3389.978 2723.3457)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">208</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M3748.89,2638.636
+				c-10.573,0-19.225-8.651-19.225-19.225v-189.135c0-10.573,8.651-19.225,19.225-19.225h213.369
+				c10.573,0,19.225,8.651,19.225,19.225v189.135c0,10.573-8.651,19.224-19.225,19.224L3748.89,2638.636L3748.89,2638.636z"/>
+			<text transform="matrix(1 0 0 1 3813.2505 2723.3457)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">207</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M4172.162,2638.636
+				c-10.574,0-19.225-8.651-19.225-19.225v-189.135c0-10.573,8.651-19.225,19.225-19.225h213.369
+				c10.574,0,19.225,8.651,19.225,19.225v189.135c0,10.573-8.651,19.224-19.225,19.224L4172.162,2638.636L4172.162,2638.636z"/>
+			<text transform="matrix(1 0 0 1 4236.5229 2723.3457)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">206</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M4595.435,2638.636
+				c-10.574,0-19.225-8.651-19.225-19.225v-189.135c0-10.573,8.651-19.225,19.225-19.225h213.369
+				c10.574,0,19.225,8.651,19.225,19.225v189.135c0,10.573-8.651,19.224-19.225,19.224L4595.435,2638.636L4595.435,2638.636z"/>
+			<text transform="matrix(1 0 0 1 4659.7944 2723.3457)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">205</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M5018.707,2638.636
+				c-10.573,0-19.225-8.651-19.225-19.225v-189.135c0-10.573,8.651-19.225,19.225-19.225h213.369
+				c10.573,0,19.225,8.651,19.225,19.225v189.135c0,10.573-8.651,19.224-19.225,19.224L5018.707,2638.636L5018.707,2638.636z"/>
+			<text transform="matrix(1 0 0 1 5083.0669 2723.3457)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">204</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M5441.979,2638.636
+				c-10.573,0-19.225-8.651-19.225-19.225v-189.135c0-10.573,8.651-19.225,19.225-19.225h213.369
+				c10.573,0,19.225,8.651,19.225,19.225v189.135c0,10.573-8.651,19.224-19.225,19.224L5441.979,2638.636L5441.979,2638.636z"/>
+			<text transform="matrix(1 0 0 1 5506.3394 2723.3457)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">203</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M5865.251,2638.636
+				c-10.574,0-19.225-8.651-19.225-19.225v-189.135c0-10.573,8.651-19.225,19.225-19.225h213.369
+				c10.574,0,19.225,8.651,19.225,19.225v189.135c0,10.573-8.651,19.224-19.225,19.224L5865.251,2638.636L5865.251,2638.636z"/>
+			<text transform="matrix(1 0 0 1 5929.6118 2723.3457)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">202</text>
+			<path fill="none" stroke="#D1D1D1" stroke-width="5" stroke-miterlimit="10" d="M6288.524,2638.636
+				c-10.574,0-19.225-8.651-19.225-19.225v-189.135c0-10.573,8.651-19.225,19.225-19.225h213.369
+				c10.574,0,19.225,8.651,19.225,19.225v189.135c0,10.573-8.651,19.224-19.225,19.224L6288.524,2638.636L6288.524,2638.636z"/>
+			<text transform="matrix(1 0 0 1 6352.8843 2723.3457)" fill="#8A8A8A" font-family="'DINPro'" font-size="57.6063">201</text>
+		</g>
+	</g>
+	<g id="labels">
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7b9">Танцевальный партер</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7ba">Барные стойки на одного</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7c6">Диван 111 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7c7">Диван 112 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7c8">Диван 113 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7c9">Диван 114 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7ca">Диван 115 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7cb">Диван 116 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7cc">Диван 117 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7cd">Диван 118 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7ce">Диван 119 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7cf">Диван 120 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7d0">Диван 121 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d801">Диван 512 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d800">Диван 511 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7ff">Диван 510 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7fe">Диван 509 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7fd">Диван 508 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7fc">Диван 507 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7fb">Диван 506 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7fa">Диван 505 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7f9">Диван 504 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7f8">Диван 503 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7f7">Диван 502 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7f6">Диван 501 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7f5">Диван 408 на 4 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7f4">Диван 407 на 4 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7f3">Диван 406 на 4 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7f2">Диван 405 на 4 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7f1">Диван 404 на 4 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7f0">Диван 403 на 4 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7ef">Диван 402 на 4 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7ee">Диван 401 на 4 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7c5">Диван 110 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7c4">Диван 109 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7c3">Диван 108 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7c2">Диван 107 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7c1">Диван 106 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7c0">Диван 105 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7bf">Диван 104 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7be">Диван 103 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7bd">Диван 102 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7bc">Диван 101 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7bb">Диван 100 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7ed">Диван 319 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7ec">Диван 318 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7eb">Диван 317 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7ea">Диван 316 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7e9">Диван 315 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7e8">Диван 314 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7e7">Диван 313 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7e6">Диван 312 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7e5">Диван 311 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7e4">Диван 310 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7e3">Диван 309 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7e2">Диван 308 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7e1">Диван 307 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7e0">Диван 306 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7df">Диван 305 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7de">Диван 304 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7dd">Диван 303 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7dc">Диван 302 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7db">Диван 301 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7da">Диван 300 на 2 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7d9">Диван 209 на 4 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7d8">Диван 208 на 5 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7d7">Диван 207 на 5 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7d6">Диван 206 на 5 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7d5">Диван 205 на 5 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7d4">Диван 204 на 5 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7d3">Диван 203 на 5 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7d2">Диван 202 на 5 персоны</text>
+		<text dataSectorId="5e42f16e8ab0c3d3fdf3d7d1">Диван 201 на 4 персоны</text>
+	</g>
+	<g id="seats">
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7b9" dataComponent="svg__sector" dataElId="1">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="4875.042" cy="4385.292" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7b9"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7c6" dataComponent="svg__sector" dataElId="111">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="2926.463" cy="3069.531" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7c6"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7c7" dataComponent="svg__sector" dataElId="112">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="2926.463" cy="3311.461" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7c7"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7c8" dataComponent="svg__sector" dataElId="113">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="2926.463" cy="3553.391" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7c8"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7c9" dataComponent="svg__sector" dataElId="114">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="2926.463" cy="3795.32" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7c9"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7ca" dataComponent="svg__sector" dataElId="115">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="2926.463" cy="4037.25" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7ca"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7cb" dataComponent="svg__sector" dataElId="116">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="2926.463" cy="4279.18" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7cb"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7cc" dataComponent="svg__sector" dataElId="117">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="2926.463" cy="4521.109" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7cc"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7cd" dataComponent="svg__sector" dataElId="118">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="2926.463" cy="4763.039" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7cd"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7ce" dataComponent="svg__sector" dataElId="119">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="2926.463" cy="5004.969" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7ce"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7cf" dataComponent="svg__sector" dataElId="120">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="2926.463" cy="5246.898" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7cf"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7d0" dataComponent="svg__sector" dataElId="121">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="2926.463" cy="5488.828" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7d0"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d801" dataComponent="svg__sector" dataElId="512">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="2462.602" cy="865.444" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d801"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d800" dataComponent="svg__sector" dataElId="511">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="2858.926" cy="865.444" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d800"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7ff" dataComponent="svg__sector" dataElId="510">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="3255.249" cy="865.444" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7ff"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7fe" dataComponent="svg__sector" dataElId="509">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="3651.571" cy="865.444" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7fe"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7fd" dataComponent="svg__sector" dataElId="508">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="4047.894" cy="865.444" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7fd"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7fc" dataComponent="svg__sector" dataElId="507">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="4444.217" cy="865.444" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7fc"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7fb" dataComponent="svg__sector" dataElId="506">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="4840.54" cy="865.444" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7fb"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7fa" dataComponent="svg__sector" dataElId="505">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="5236.863" cy="865.444" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7fa"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7f9" dataComponent="svg__sector" dataElId="504">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="5633.186" cy="865.444" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7f9"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7f8" dataComponent="svg__sector" dataElId="503">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6029.509" cy="865.444" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7f8"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7f7" dataComponent="svg__sector" dataElId="502">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6425.832" cy="865.444" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7f7"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7f6" dataComponent="svg__sector" dataElId="501">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6822.155" cy="865.444" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7f6"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7f5" dataComponent="svg__sector" dataElId="408">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="2619.144" cy="1203.685" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7f5"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7f4" dataComponent="svg__sector" dataElId="407">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="3189.103" cy="1203.685" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7f4"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7f3" dataComponent="svg__sector" dataElId="406">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="3759.063" cy="1203.685" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7f3"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7f2" dataComponent="svg__sector" dataElId="405">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="4329.022" cy="1203.685" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7f2"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7f1" dataComponent="svg__sector" dataElId="404">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="4898.981" cy="1203.685" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7f1"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7f0" dataComponent="svg__sector" dataElId="403">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="5468.941" cy="1203.685" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7f0"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7ef" dataComponent="svg__sector" dataElId="402">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6038.9" cy="1203.685" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7ef"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7ee" dataComponent="svg__sector" dataElId="401">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6608.86" cy="1203.685" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7ee"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7c5" dataComponent="svg__sector" dataElId="110">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6861.676" cy="3069.531" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7c5"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7c4" dataComponent="svg__sector" dataElId="109">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6861.676" cy="3311.461" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7c4"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7c3" dataComponent="svg__sector" dataElId="108">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6861.676" cy="3553.391" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7c3"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7c2" dataComponent="svg__sector" dataElId="107">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6861.676" cy="3795.32" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7c2"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7c1" dataComponent="svg__sector" dataElId="106">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6861.676" cy="4037.25" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7c1"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7c0" dataComponent="svg__sector" dataElId="105">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6861.676" cy="4279.18" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7c0"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7bf" dataComponent="svg__sector" dataElId="104">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6861.676" cy="4521.109" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7bf"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7be" dataComponent="svg__sector" dataElId="103">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6861.676" cy="4763.039" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7be"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7bd" dataComponent="svg__sector" dataElId="102">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6861.676" cy="5004.969" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7bd"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7bc" dataComponent="svg__sector" dataElId="101">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6861.676" cy="5246.898" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7bc"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7bb" dataComponent="svg__sector" dataElId="100">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6861.676" cy="5488.828" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7bb"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7ed" dataComponent="svg__sector" dataElId="319">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="2370.797" cy="2393.069" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7ed"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7ec" dataComponent="svg__sector" dataElId="318">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="2370.797" cy="2096.473" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7ec"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7eb" dataComponent="svg__sector" dataElId="317">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="2424.626" cy="1832.033" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7eb"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7ea" dataComponent="svg__sector" dataElId="316">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="2725.245" cy="1775.745" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7ea"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7e9" dataComponent="svg__sector" dataElId="315">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="2998.861" cy="1775.745" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7e9"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7e8" dataComponent="svg__sector" dataElId="314">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="3272.478" cy="1775.745" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7e8"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7e7" dataComponent="svg__sector" dataElId="313">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="3546.094" cy="1775.745" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7e7"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7e6" dataComponent="svg__sector" dataElId="312">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="3819.71" cy="1775.745" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7e6"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7e5" dataComponent="svg__sector" dataElId="311">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="4093.327" cy="1775.745" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7e5"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7e4" dataComponent="svg__sector" dataElId="310">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="4366.943" cy="1775.745" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7e4"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7e3" dataComponent="svg__sector" dataElId="309">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="4640.559" cy="1775.745" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7e3"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7e2" dataComponent="svg__sector" dataElId="308">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="4914.175" cy="1775.745" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7e2"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7e1" dataComponent="svg__sector" dataElId="307">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="5187.792" cy="1775.745" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7e1"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7e0" dataComponent="svg__sector" dataElId="306">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="5461.408" cy="1775.745" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7e0"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7df" dataComponent="svg__sector" dataElId="305">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="5735.024" cy="1775.745" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7df"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7de" dataComponent="svg__sector" dataElId="304">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6008.641" cy="1775.745" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7de"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7dd" dataComponent="svg__sector" dataElId="303">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6282.257" cy="1775.745" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7dd"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7dc" dataComponent="svg__sector" dataElId="302">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6555.873" cy="1775.745" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7dc"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7db" dataComponent="svg__sector" dataElId="301">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6818.182" cy="1832.033" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7db"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7da" dataComponent="svg__sector" dataElId="300">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6873.882" cy="2096.473" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7da"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7d9" dataComponent="svg__sector" dataElId="209">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="3011.853" cy="2527.173" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7d9"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7d8" dataComponent="svg__sector" dataElId="208">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="3435.125" cy="2527.173" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7d8"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7d7" dataComponent="svg__sector" dataElId="207">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="3858.397" cy="2527.173" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7d7"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7d6" dataComponent="svg__sector" dataElId="206">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="4281.67" cy="2527.173" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7d6"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7d5" dataComponent="svg__sector" dataElId="205">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="4704.942" cy="2527.173" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7d5"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7d4" dataComponent="svg__sector" dataElId="204">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="5128.214" cy="2527.173" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7d4"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7d3" dataComponent="svg__sector" dataElId="203">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="5551.487" cy="2527.173" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7d3"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7d2" dataComponent="svg__sector" dataElId="202">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="5974.759" cy="2527.173" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7d2"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7d1" dataComponent="svg__sector" dataElId="201">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="6398.032" cy="2527.173" r="29.756" dataComponent="svg__seat" dataName="5e42f16e8ab0c3d3fdf3d7d1"/>
+			</g>
+		</g>
+		<g dataSectorId="5e42f16e8ab0c3d3fdf3d7ba" dataComponent="svg__sector" dataElId="2">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="7329.951" cy="4987.451" r="29.756" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="7329.951" cy="4780.961" r="29.756" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="7329.951" cy="4574.472" r="29.756" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="7329.951" cy="4367.982" r="29.756" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="7329.951" cy="4161.492" r="29.756" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="7329.951" cy="3955.002" r="29.756" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="7329.951" cy="3748.513" r="29.756" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="7329.951" cy="3542.023" r="29.756" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="7329.951" cy="3335.533" r="29.756" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="7329.951" cy="3129.044" r="29.756" dataComponent="svg__seat" dataName="10"/>
+				<circle fill="#C7C7C7" cx="2444.729" cy="3129.044" r="29.756" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="2444.729" cy="3335.533" r="29.756" dataComponent="svg__seat" dataName="12"/>
+				<circle fill="#C7C7C7" cx="2444.729" cy="3542.023" r="29.756" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="2444.729" cy="3748.513" r="29.756" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="2444.729" cy="3955.002" r="29.756" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="2444.729" cy="4161.492" r="29.756" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="2444.729" cy="4367.982" r="29.756" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="2444.729" cy="4574.472" r="29.756" dataComponent="svg__seat" dataName="18"/>
+				<circle fill="#C7C7C7" cx="2444.729" cy="4780.961" r="29.756" dataComponent="svg__seat" dataName="19"/>
+				<circle fill="#C7C7C7" cx="2444.729" cy="4987.451" r="29.756" dataComponent="svg__seat" dataName="20"/>
+			</g>
+		</g>
+	</g>
+</svg>

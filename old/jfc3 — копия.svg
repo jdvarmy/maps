@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   version="1.1"
+   id="map-svg"
+   x="0px"
+   y="0px"
+   viewBox="0 0 10240 7680"
+   height="768px"
+   width="1024px">
+  <metadata
+     id="metadata665">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g id="BACKGROUND">
+    <g id="DETAILS">
+      <path
+         style="fill:#FFFFFF;"
+         d="M9028,7040H1771c-1.9,0-3.5-1.6-3.5-3.5v-6617c0-1.9,1.6-3.5,3.5-3.5h7257c1.9,0,3.5,1.6,3.5,3.5v6617  C9031.5,7038.4,9029.9,7040,9028,7040z" />
+      <path
+         style="fill:none;stroke:#DDDDDD;stroke-width:10;stroke-miterlimit:10;"
+         d="M2820.3,5106.1h-393.3c-43.2,0-78.4-35.2-78.4-78.4v-393.3c0-43.3,35.5-78.4,78.4-78.4h393.3    c43.3,0,78.4,35.1,78.4,78.4v393.3C2898.7,5071,2863.2,5106.1,2820.3,5106.1z" />
+      <path
+         style="fill:none;stroke:#DDDDDD;stroke-width:10;stroke-miterlimit:10;"
+         d="M4426.2,5106.1h-393.3c-43.2,0-78.4-35.2-78.4-78.4v-393.3c0-43.3,35.5-78.4,78.4-78.4h393.3    c43.3,0,78.4,35.1,78.4,78.4v393.3C4504.6,5071,4469.1,5106.1,4426.2,5106.1z" />
+      <path
+         style="fill:none;stroke:#DDDDDD;stroke-width:10;stroke-miterlimit:10;"
+         d="M3095.4,3574H2702c-43.2,0-78.4-35.2-78.4-78.4v-393.3c0-43.3,35.5-78.4,78.4-78.4h393.3    c43.3,0,78.4,35.1,78.4,78.4v393.3C3173.8,3538.9,3138.3,3574,3095.4,3574z" />
+      <path
+         style="fill:none;stroke:#DDDDDD;stroke-width:10;stroke-miterlimit:10;"
+         d="M4701.3,3574H4308c-43.2,0-78.4-35.2-78.4-78.4v-393.3c0-43.3,35.5-78.4,78.4-78.4h393.3    c43.3,0,78.4,35.1,78.4,78.4v393.3C4779.7,3538.9,4744.2,3574,4701.3,3574z" />
+      <path
+         style="fill:none;stroke:#DDDDDD;stroke-width:10;stroke-miterlimit:10;"
+         d="M6107.4,4422.7H5714c-43.2,0-78.4-35.2-78.4-78.4v-393.3c0-43.3,35.5-78.4,78.4-78.4h393.3    c43.3,0,78.4,35.1,78.4,78.4v393.3C6185.8,4387.6,6150.3,4422.7,6107.4,4422.7z" />
+      <path
+         style="fill:none;stroke:#DDDDDD;stroke-width:10;stroke-miterlimit:10;"
+         d="M7713.3,4422.7H7320c-43.2,0-78.4-35.2-78.4-78.4v-393.3c0-43.3,35.5-78.4,78.4-78.4h393.3    c43.3,0,78.4,35.1,78.4,78.4v393.3C7791.7,4387.6,7756.2,4422.7,7713.3,4422.7z" />
+      <path
+         style="fill:none;stroke:#DDDDDD;stroke-width:10;stroke-miterlimit:10;"
+         d="M2820.3,2072.5h-393.3c-43.2,0-78.4-35.2-78.4-78.4v-393.3c0-43.3,35.5-78.4,78.4-78.4h393.3    c43.3,0,78.4,35.1,78.4,78.4v393.3C2898.7,2037.4,2863.2,2072.5,2820.3,2072.5z" />
+      <path
+         style="fill:none;stroke:#DDDDDD;stroke-width:10;stroke-miterlimit:10;"
+         d="M3718.6,2072.5h-393.3c-43.2,0-78.4-35.2-78.4-78.4v-393.3c0-43.3,35.5-78.4,78.4-78.4h393.3    c43.3,0,78.4,35.1,78.4,78.4v393.3C3797.1,2037.4,3761.5,2072.5,3718.6,2072.5z" />
+      <path
+         style="fill:none;stroke:#DDDDDD;stroke-width:10;stroke-miterlimit:10;"
+         d="M4617,2072.5h-393.3c-43.2,0-78.4-35.2-78.4-78.4v-393.3c0-43.3,35.5-78.4,78.4-78.4H4617    c43.3,0,78.4,35.1,78.4,78.4v393.3C4695.4,2037.4,4659.9,2072.5,4617,2072.5z" />
+      <path
+         style="fill:none;stroke:#DDDDDD;stroke-width:10;stroke-miterlimit:10;"
+         d="M5515.4,2072.5h-393.3c-43.2,0-78.4-35.2-78.4-78.4v-393.3c0-43.3,35.5-78.4,78.4-78.4h393.3    c43.3,0,78.4,35.1,78.4,78.4v393.3C5593.8,2037.4,5558.3,2072.5,5515.4,2072.5z" />
+      <path
+         style="fill:none;stroke:#DDDDDD;stroke-width:10;stroke-miterlimit:10;"
+         d="M6413.8,2072.5h-393.3c-43.2,0-78.4-35.2-78.4-78.4v-393.3c0-43.3,35.5-78.4,78.4-78.4    h393.3c43.3,0,78.4,35.1,78.4,78.4v393.3C6492.2,2037.4,6456.7,2072.5,6413.8,2072.5z" />
+      <path
+         style="fill:none;stroke:#DDDDDD;stroke-width:10;stroke-miterlimit:10;"
+         d="M7312.2,2072.5h-393.3c-43.2,0-78.4-35.2-78.4-78.4v-393.3c0-43.3,35.5-78.4,78.4-78.4    h393.3c43.3,0,78.4,35.1,78.4,78.4v393.3C7390.6,2037.4,7355.1,2072.5,7312.2,2072.5z" />
+      <path
+         style="fill:none;stroke:#DDDDDD;stroke-width:10;stroke-miterlimit:10;"
+         d="M8210.5,2072.5h-393.3c-43.2,0-78.4-35.2-78.4-78.4v-393.3c0-43.3,35.5-78.4,78.4-78.4    h393.3c43.3,0,78.4,35.1,78.4,78.4v393.3C8288.9,2037.4,8253.4,2072.5,8210.5,2072.5z" />
+      <path
+         style="fill:none;stroke:#AAAAAA;stroke-width:5;stroke-miterlimit:10;"
+         d="M1337.7,5058.2c388-682.3,386.4-1783.4-4-2461.7" />
+      <path
+         style="fill:none;stroke:#AAAAAA;stroke-width:5;stroke-miterlimit:10;"
+         d="M4603.9,6588.2c-682.3-194-1783.4-193.2-2461.7,2.1" />
+      <path
+         style="fill:none;stroke:#AAAAAA;stroke-width:5;stroke-miterlimit:10;"
+         d="M8694.7,6290.2c-981.9-194-2566.4-193.2-3542.5,2.1" />
+      <path
+         style="fill:none;stroke:#AAAAAA;stroke-width:5;stroke-miterlimit:10;"
+         d="M8362.6,1029.7c-1693.7-194-4426.8-193.2-6110.5,2.1" />
+      <line
+         style="fill:none;stroke:#C1C1C1;stroke-width:8;stroke-miterlimit:10;"
+         x1="2061.6"
+         y1="5727.3"
+         x2="5043.6"
+         y2="5727.3"/>
+      <line
+         style="fill:none;stroke:#C1C1C1;stroke-width:8;stroke-miterlimit:10;"
+         x1="5307.3"
+         y1="5262"
+         x2="8694.7"
+         y2="5262"/>
+      <line
+         style="fill:none;stroke:#C1C1C1;stroke-width:8;stroke-miterlimit:10;"
+         x1="8694.7"
+         y1="5262"
+         x2="8694.7"
+         y2="3023.8"/>
+      <text
+         style="font-size:167px;font-family:CenturyGothic, arial, 'lucida console', sans-serif;fill:#aaaaaa"
+         id="text179"
+         x="2760.5664"
+         y="6746.0938">Барная стойка</text>
+      <text
+         transform="matrix(6.123234e-17 -1 1 6.123234e-17 1333.6216 4357.1997)"
+         style="fill:#DDDDDD;font-family:'CenturyGothic',arial,'lucida console',sans-serif;font-size:278px;">СЦЕНА</text>
+      <text
+         transform="matrix(1 0 0 1 5047.1338 746.5647)"
+         style="fill:#AAAAAA;font-family:'CenturyGothic',arial,'lucida console',sans-serif;font-size:167px;">Диван</text>
+      <text
+         style="font-size:167px;font-family:CenturyGothic, arial, 'lucida console', sans-serif;fill:#aaaaaa"
+         x="6294.6162"
+         y="6459.8931">Барная стойка</text>
+      <text
+         transform="matrix(0.6633 0 0 1 2589.5752 4894.7998)"
+         style="font-size:200px;font-family:CenturyGothic, arial, 'lucida console', sans-serif;fill:#aaaaaa">1</text>
+      <text
+         transform="matrix(0.6633 0 0 1 4195.5752 4894.7998)"
+         style="font-size:200px;font-family:CenturyGothic, arial, 'lucida console', sans-serif;fill:#aaaaaa">2</text>
+      <text
+         transform="matrix(0.6633 0 0 1 5876.625 4205.1006)"
+         style="font-size:200px;font-family:CenturyGothic, arial, 'lucida console', sans-serif;fill:#aaaaaa">3</text>
+      <text
+         transform="matrix(0.6633 0 0 1 7482.6245 4205.1006)"
+         style="font-size:200px;font-family:CenturyGothic, arial, 'lucida console', sans-serif;fill:#aaaaaa">4</text>
+      <text
+         transform="matrix(0.6633 0 0 1 2864.625 3355.646)"
+         style="font-size:200px;font-family:CenturyGothic, arial, 'lucida console', sans-serif;fill:#aaaaaa">5</text>
+      <text
+         transform="matrix(0.6633 0 0 1 2577.2751 1870.4973)"
+         style="font-size:200px;font-family:CenturyGothic, arial, 'lucida console', sans-serif;fill:#aaaaaa">0</text>
+      <text
+         transform="matrix(0.6633 0 0 1 3480.6753 1870.4976)"
+         style="font-size:200px;font-family:CenturyGothic, arial, 'lucida console', sans-serif;fill:#aaaaaa">7</text>
+      <text
+         transform="matrix(0.6633 0 0 1 4386.3252 1870.4973)"
+         style="font-size:200px;font-family:CenturyGothic, arial, 'lucida console', sans-serif;fill:#aaaaaa">8</text>
+      <text
+         transform="matrix(0.6633 0 0 1 5291.9751 1870.4978)"
+         style="font-size:200px;font-family:CenturyGothic, arial, 'lucida console', sans-serif;fill:#aaaaaa">9</text>
+      <text
+         transform="matrix(0.6633 0 0 1 6152.6504 1870.4971)"
+         style="font-size:200px;font-family:CenturyGothic, arial, 'lucida console', sans-serif;fill:#aaaaaa">10</text>
+      <text
+         transform="matrix(0.6633 0 0 1 7047.501 1870.4978)"
+         style="font-size:200px;font-family:CenturyGothic, arial, 'lucida console', sans-serif;fill:#aaaaaa">11</text>
+      <text
+         transform="matrix(0.6633 0 0 1 4470.625 3355.6458)"
+         style="font-size:200px;font-family:CenturyGothic, arial, 'lucida console', sans-serif;fill:#aaaaaa">6</text>
+    </g>
+    <path style="fill:none" d="M 4679.6,6384.8 H 2066.5 c -2.6,0 -4.9,-2.2 -4.9,-4.9 v -469.4 c 0,-2.6 2.2,-4.9 4.9,-4.9 h 2613.2 c 2.6,0 4.9,2.2 4.9,4.9 v 469.4 c -0.2,2.6 -2.4,4.9 -5,4.9 z" id="bar" />
+    <path style="fill:none" d="M 3497.3,5551.4 H 2066.5 c -2.6,0 -4.9,-2.2 -4.9,-4.9 v -1431 c 0,-2.6 2.2,-4.9 4.9,-4.9 h 1430.9 c 2.6,0 4.9,2.2 4.9,4.9 v 1430.9 c -0.1,2.8 -2.3,5 -5,5 z" id="stol1" />
+    <path style="fill:none" d="M 5086.1,5551.4 H 3655.3 c -2.6,0 -4.9,-2.2 -4.9,-4.9 v -1431 c 0,-2.6 2.2,-4.9 4.9,-4.9 h 1430.9 c 2.6,0 4.9,2.2 4.9,4.9 v 1430.9 c -0.1,2.8 -2.2,5 -5,5 z" id="stol2" />
+    <path style="fill:none" d="M 6743,4867.8 H 5312.2 c -2.6,0 -4.9,-2.2 -4.9,-4.9 V 3432.1 c 0,-2.6 2.2,-4.9 4.9,-4.9 H 6743 c 2.6,0 4.9,2.2 4.9,4.9 V 4863 c 0,2.7 -2.2,4.8 -4.9,4.8 z" id="stol3" />
+    <path style="fill:none" d="M 8367.6,4867.8 H 6936.8 c -2.6,0 -4.9,-2.2 -4.9,-4.9 V 3432.1 c 0,-2.6 2.2,-4.9 4.9,-4.9 h 1430.9 c 2.6,0 4.9,2.2 4.9,4.9 V 4863 c -0.1,2.7 -2.2,4.8 -5,4.8 z" id="stol4" />
+    <path style="fill:none" d="M 3697.8,4036.9 H 2266.9 c -2.6,0 -4.9,-2.2 -4.9,-4.9 V 2601.1 c 0,-2.6 2.2,-4.9 4.9,-4.9 h 1430.9 c 2.6,0 4.9,2.2 4.9,4.9 V 4032 c -0.1,2.6 -2.3,4.9 -4.9,4.9 z" id="stol5" />
+    <path style="fill:none" d="M 5302.4,4036.9 H 3871.6 c -2.6,0 -4.9,-2.2 -4.9,-4.9 V 2601.1 c 0,-2.6 2.2,-4.9 4.9,-4.9 h 1430.9 c 2.6,0 4.9,2.2 4.9,4.9 V 4032 c -0.1,2.6 -2.3,4.9 -5,4.9 z" id="stol6" />
+    <path style="fill:none" d="m 3060.7,2517.8 h -898.8 c -2.6,0 -4.9,-2.2 -4.9,-4.9 V 1082 c 0,-2.6 2.2,-4.9 4.9,-4.9 h 898.8 c 2.6,0 4.9,2.2 4.9,4.9 v 1430.9 c -0.1,2.7 -2.3,4.9 -4.9,4.9 z" id="stol0" />
+    <path style="fill:none" d="m 3959,2517.8 h -888.6 c -2.6,0 -4.9,-2.2 -4.9,-4.9 V 1082 c 0,-2.6 2.2,-4.9 4.9,-4.9 H 3959 c 2.6,0 4.9,2.2 4.9,4.9 v 1430.9 c 0,2.7 -2.2,4.9 -4.9,4.9 z" id="stol7" />
+    <path style="fill:none" d="m 4871.9,2517.8 h -903.1 c -2.6,0 -4.9,-2.2 -4.9,-4.9 V 1082 c 0,-2.6 2.2,-4.9 4.9,-4.9 h 903.1 c 2.6,0 4.9,2.2 4.9,4.9 v 1430.9 c 0,2.7 -2.2,4.9 -4.9,4.9 z" id="stol8" />
+    <path style="fill:none" d="m 5770.3,2517.8 h -888.6 c -2.6,0 -4.9,-2.2 -4.9,-4.9 V 1082 c 0,-2.6 2.2,-4.9 4.9,-4.9 h 888.6 c 2.6,0 4.9,2.2 4.9,4.9 v 1430.9 c 0,2.7 -2.3,4.9 -4.9,4.9 z" id="stol9" />
+    <path style="fill:none" d="M 6661.4,2517.8 H 5780 c -2.6,0 -4.9,-2.2 -4.9,-4.9 V 1082 c 0,-2.6 2.2,-4.9 4.9,-4.9 h 881.4 c 2.6,0 4.9,2.2 4.9,4.9 v 1430.9 c 0,2.7 -2.2,4.9 -4.9,4.9 z" id="stol10" />
+    <path style="fill:none" d="m 7552.6,2517.8 h -881.4 c -2.6,0 -4.9,-2.2 -4.9,-4.9 V 1082 c 0,-2.6 2.2,-4.9 4.9,-4.9 h 881.4 c 2.6,0 4.9,2.2 4.9,4.9 v 1430.9 c -0.1,2.7 -2.3,4.9 -4.9,4.9 z" id="stol11" />
+    <path style="fill:none" d="m 8443.7,2517.8 h -881.4 c -2.6,0 -4.9,-2.2 -4.9,-4.9 V 1082 c 0,-2.6 2.2,-4.9 4.9,-4.9 h 881.4 c 2.6,0 4.9,2.2 4.9,4.9 v 1430.9 c 0,2.7 -2.3,4.9 -4.9,4.9 z" id="IABABHJJ" dataFree="true" />
+  </g>
+  <g id="labels">
+    <text dataSectorId="stol1">Стол 1</text>
+    <text dataSectorId="stol2">Стол 2</text>
+    <text dataSectorId="stol3">Стол 3</text>
+    <text dataSectorId="stol4">Стол 4</text>
+    <text dataSectorId="stol5">Стол 5</text>
+    <text dataSectorId="stol6">Стол 6</text>
+    <text dataSectorId="stol7">Стол 7</text>
+    <text dataSectorId="stol8">Стол 8</text>
+    <text dataSectorId="stol9">Стол 9</text>
+    <text dataSectorId="stol10">Стол 10</text>
+    <text dataSectorId="stol11">Стол 11</text>
+    <text dataSectorId="stol0">Стол 0</text>
+    <text dataSectorId="bar">Бар</text>
+    <text dataSectorId="free">Свободно</text>
+  </g>
+  <g id="seats">
+    <g dataSectorId="bar" dataComponent="svg__sector" dataElId="15">
+      <g dataComponent="svg__row" dataName="A" dataElId="1">
+        <circle cx="2359.5" cy="6153.5" r="56" dataComponent="svg__seat" dataName="1" />
+        <circle cx="2763.3999" cy="6153.5" r="56" dataComponent="svg__seat" dataName="2" />
+        <circle cx="3167.3999" cy="6153.5" r="56" dataComponent="svg__seat" dataName="3" />
+        <circle cx="3571.3" cy="6153.5" r="56" dataComponent="svg__seat" dataName="4" />
+        <circle cx="3975.2" cy="6153.5" r="56" dataComponent="svg__seat" dataName="5" />
+        <circle cx="4379.1001" cy="6153.5" r="56" dataComponent="svg__seat" dataName="6" />
+      </g>
+    </g>
+    <g dataSectorId="stol1" dataComponent="svg__sector" dataElId="1">
+      <g dataComponent="svg__row" dataName="A" dataElId="1">
+        <circle cx="2739.2" cy="5359.5" r="56" dataComponent="svg__seat" dataName="5" />
+        <circle cx="3119.7" cy="5203.6001" r="56" dataComponent="svg__seat" dataName="4" />
+        <circle cx="3217.2" cy="4831" r="56" dataComponent="svg__seat" dataName="3" />
+        <circle cx="3119.7" cy="4458.5" r="56" dataComponent="svg__seat" dataName="2" />
+        <circle cx="2739.2" cy="4302.6001" r="56" dataComponent="svg__seat" dataName="1" />
+      </g>
+    </g>
+    <g dataSectorId="stol2" dataComponent="svg__sector" dataElId="2">
+      <g dataComponent="svg__row" dataName="A" dataElId="1">
+        <circle cx="4307.3999" cy="5359.5" r="56" dataComponent="svg__seat" dataName="5" />
+        <circle cx="4687.8999" cy="5203.6001" r="56" dataComponent="svg__seat" dataName="4" />
+        <circle cx="4785.3999" cy="4831" r="56" dataComponent="svg__seat" dataName="3" />
+        <circle cx="4687.8999" cy="4458.5" r="56" dataComponent="svg__seat" dataName="2" />
+        <circle cx="4307.3999" cy="4302.6001" r="56" dataComponent="svg__seat" dataName="1" />
+      </g>
+    </g>
+    <g dataSectorId="stol3" dataComponent="svg__sector" dataElId="3">
+      <g dataComponent="svg__row" class="row" dataName="A" dataElId="1">
+        <circle cx="5637.7002" cy="4676" r="56" dataComponent="svg__seat" dataName="6" />
+        <circle cx="6058.2002" cy="4676" r="56" dataComponent="svg__seat" dataName="5" />
+        <circle cx="6438.7002" cy="4520.2002" r="56" dataComponent="svg__seat" dataName="4" />
+        <circle cx="6536.2002" cy="4147.6001" r="56" dataComponent="svg__seat" dataName="3" />
+        <circle cx="6438.7002" cy="3775" r="56" dataComponent="svg__seat" dataName="2" />
+        <circle cx="6058.2002" cy="3619.1001" r="56" dataComponent="svg__seat" dataName="1" />
+      </g>
+    </g>
+    <g dataSectorId="stol4" dataComponent="svg__sector" dataElId="4">
+      <g dataComponent="svg__row" dataName="A" dataElId="1">
+        <circle cx="7245" cy="4676" r="56" dataComponent="svg__seat" dataName="6" />
+        <circle cx="7665.5" cy="4676" r="56" dataComponent="svg__seat" dataName="5" />
+        <circle cx="8045.8999" cy="4520.2002" r="56" dataComponent="svg__seat" dataName="4" />
+        <circle cx="8143.3999" cy="4147.6001" r="56" dataComponent="svg__seat" dataName="3" />
+        <circle cx="8045.8999" cy="3775" r="56" dataComponent="svg__seat" dataName="2" />
+        <circle cx="7665.5" cy="3619.1001" r="56" dataComponent="svg__seat" dataName="1" />
+      </g>
+    </g>
+    <g dataSectorId="stol5" dataComponent="svg__sector" dataElId="5">
+      <g dataComponent="svg__row" dataName="A" dataElId="1">
+        <circle cx="3027" cy="3827.3999" r="56" dataComponent="svg__seat" dataName="4" />
+        <circle cx="3407.5" cy="3671.5" r="56" dataComponent="svg__seat" dataName="3" />
+        <circle cx="3407.5" cy="2926.3" r="56" dataComponent="svg__seat" dataName="2" />
+        <circle cx="3027" cy="2770.5" r="56" dataComponent="svg__seat" dataName="1" />
+      </g>
+    </g>
+    <g dataSectorId="stol6" dataComponent="svg__sector" dataElId="6">
+      <g dataComponent="svg__row" dataName="A" dataElId="1">
+        <circle cx="4631.2002" cy="3827.3999" r="56" dataComponent="svg__seat" dataName="4" />
+        <circle cx="5011.7998" cy="3671.5" r="56" dataComponent="svg__seat" dataName="3" />
+        <circle cx="5011.7998" cy="2926.3" r="56" dataComponent="svg__seat" dataName="2" />
+        <circle cx="4631.2002" cy="2770.5" r="56" dataComponent="svg__seat" dataName="1" />
+      </g>
+    </g>
+    <g dataSectorId="stol0" dataComponent="svg__sector" dataElId="0">
+      <g dataComponent="svg__row" dataName="A" dataElId="1">
+        <circle cx="2359.5" cy="1269.3" r="56" dataComponent="svg__seat" dataName="1" />
+        <circle cx="2887.7" cy="1269.3" r="56" dataComponent="svg__seat" dataName="2" />
+        <circle cx="2623.6001" cy="2326" r="56" dataComponent="svg__seat" dataName="3" />
+      </g>
+    </g>
+    <g dataSectorId="stol7" dataComponent="svg__sector" dataElId="7">
+      <g dataComponent="svg__row" dataName="A" dataElId="1">
+        <circle cx="3257.8999" cy="1269" r="56" dataComponent="svg__seat" dataName="1" />
+        <circle cx="3786.1001" cy="1269" r="56" dataComponent="svg__seat" dataName="2" />
+        <circle cx="3522" cy="2325.8999" r="56" dataComponent="svg__seat" dataName="3" />
+      </g>
+    </g>
+    <g dataSectorId="stol8" dataComponent="svg__sector" dataElId="8">
+      <g dataComponent="svg__row" dataName="A" dataElId="1">
+        <circle cx="4156.2998" cy="1269" r="56" dataComponent="svg__seat" dataName="1" />
+        <circle cx="4684.3999" cy="1269" r="56" dataComponent="svg__seat" dataName="2" />
+        <circle cx="4684.3999" cy="2325.8999" r="56" dataComponent="svg__seat" dataName="3" />
+        <circle cx="4156.2998" cy="2325.8999" r="56" dataComponent="svg__seat" dataName="4" />
+      </g>
+    </g>
+    <g dataSectorId="stol9" dataComponent="svg__sector" dataElId="9">
+      <g dataComponent="svg__row" dataName="A" dataElId="1">
+        <circle cx="5054.7002" cy="1269" r="56" dataComponent="svg__seat" dataName="1" />
+        <circle cx="5582.7998" cy="1269" r="56" dataComponent="svg__seat" dataName="2" />
+        <circle cx="5318.7002" cy="2325.8999" r="56" dataComponent="svg__seat" dataName="3" />
+      </g>
+    </g>
+    <g dataSectorId="stol10" dataComponent="svg__sector" dataElId="10">
+      <g dataComponent="svg__row" dataName="A" dataElId="1">
+        <circle cx="5953" cy="1269" r="56" dataComponent="svg__seat" dataName="1" />
+        <circle cx="6481.2002" cy="1269" r="56" dataComponent="svg__seat" dataName="2" />
+        <circle cx="6481.2002" cy="2325.8999" r="56" dataComponent="svg__seat" dataName="3" />
+        <circle cx="5953" cy="2325.8999" r="56" dataComponent="svg__seat" dataName="4" />
+      </g>
+    </g>
+    <g dataSectorId="stol11" dataComponent="svg__sector" dataElId="11">
+      <g dataComponent="svg__row" dataName="A" dataElId="1">
+        <circle cx="6851.3999" cy="1269" r="56" dataComponent="svg__seat" dataName="1" />
+        <circle cx="7379.6001" cy="1269" r="56" dataComponent="svg__seat" dataName="2" />
+        <circle cx="7115.5" cy="2325.8999" r="56" dataComponent="svg__seat" dataName="3" />
+      </g>
+    </g>
+	<g dataSectorId="IABABHJJ" dataComponent="svg__sector" dataElId="12">
+	  <g dataComponent="svg__row" dataName="A" dataElId="1">
+		<circle cx="8010" cy="1799" r="56" dataComponent="svg__seat" dataName="free-seat" />
+	  </g>
+    </g>
+  </g>
+</svg>

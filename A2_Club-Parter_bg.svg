@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="map-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1024" height="768" viewBox="0 0 10240 7680" xml:space="preserve">
+	<metadata>
+		<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+		<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c014 79.151739, 2013/04/03-12:12:15">
+			<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				<rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/" xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/" xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#" xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">
+					<xmpTPg:MaxPageSize rdf:parseType="Resource">
+						<stDim:w>10240.000397</stDim:w>
+						<stDim:h>7680.000000</stDim:h>
+						<stDim:unit>Points</stDim:unit>
+					</xmpTPg:MaxPageSize>
+					<xmpTPg:NPages>1</xmpTPg:NPages>
+					<xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+					<xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+					<xmpTPg:Fonts>
+						<rdf:Bag>
+							<rdf:li rdf:parseType="Resource">
+								<stFnt:fontName>DINPro</stFnt:fontName>
+								<stFnt:fontFamily>DIN Pro</stFnt:fontFamily>
+								<stFnt:fontFace>Regular</stFnt:fontFace>
+								<stFnt:fontType>TrueType</stFnt:fontType>
+								<stFnt:versionString>Version 7.504; 2005; Build 1021</stFnt:versionString>
+								<stFnt:composite>False</stFnt:composite>
+								<stFnt:fontFileName>DINPro.ttf</stFnt:fontFileName>
+							</rdf:li>
+						</rdf:Bag>
+					</xmpTPg:Fonts>
+					<xmpTPg:PlateNames>
+						<rdf:Seq>
+							<rdf:li>Cyan</rdf:li>
+							<rdf:li>Magenta</rdf:li>
+							<rdf:li>Yellow</rdf:li>
+							<rdf:li>Black</rdf:li>
+						</rdf:Seq>
+					</xmpTPg:PlateNames>
+					<xmpTPg:SwatchGroups>
+						<rdf:Seq>
+							<rdf:li rdf:parseType="Resource">
+								<xmpG:groupName>Default Swatch Group</xmpG:groupName>
+								<xmpG:groupType>0</xmpG:groupType>
+							</rdf:li>
+						</rdf:Seq>
+					</xmpTPg:SwatchGroups>
+					<dc:format>image/svg+xml</dc:format>
+				</rdf:Description>
+			</rdf:RDF>
+		</x:xmpmeta>
+		<?xpacket end="w"?>
+	</metadata>
+	<g id="background">
+		<path name="Сектор L" tc-sector="5dde5149323458c5fc83f828" id="5dde5149323458c5fc83f828" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M8198.571,2435.075
+			c22.324,5.017,40.589-9.6,40.589-32.48l0.506-891.529c0-22.881-18.721-41.601-41.601-41.601h-667.222
+			c-22.881,0-41.601,18.72-41.601,41.601v716.744c0,22.881,18.266,45.706,40.59,50.721L8198.571,2435.075z"/>
+		<path name="Сектор K" tc-sector="5dde5149323458c5fc83f827" id="5dde5149323458c5fc83f827" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M7171.736,3722.688
+			c-22.076-6.012-35.988-29.185-30.915-51.496l279.216-1227.914c5.074-22.311,21.204-38.562,35.85-36.113
+			c14.644,2.448,26.826-14.268,27.072-37.147l0.125-11.682c0.246-22.879,18.708-37.471,41.026-32.427l570.456,128.933
+			c22.318,5.044,36.304,27.398,31.082,49.674l-316.197,1348.749c-5.223,22.277-27.558,35.584-49.634,29.573L7171.736,3722.688z"/>
+		<path name="Сектор G" tc-sector="5dde5149323458c5fc83f826" id="5dde5149323458c5fc83f826" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M8172.339,2508.846
+			c5.524-22.204,28.764-40.37,51.645-40.37h384.578c22.881,0,41.602,18.72,41.602,41.601V5067.43
+			c0,22.881-18.721,41.601-41.602,41.601h-426.915c-22.88,0-41.602-18.721-41.602-41.601V2680.24
+			c0-22.88,4.521-59.767,10.044-81.971L8172.339,2508.846z"/>
+		<path name="Сектор F" tc-sector="5dde5149323458c5fc83f825" id="5dde5149323458c5fc83f825" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M7037.466,5347.863
+			c16.041,16.317,42.479,16.507,58.752,0.423l836.612-825.279c16.273-16.084,16.464-42.594,0.424-58.911l-519.97-528.926
+			c-16.041-16.317-42.479-16.507-58.752-0.423l-836.613,825.279c-16.274,16.084-16.464,42.594-0.424,58.91L7037.466,5347.863z"/>
+		<path name="Сектор E" tc-sector="5dde5149323458c5fc83f824" id="5dde5149323458c5fc83f824" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M6765.172,5187.384
+			c0-22.88-13.158-54.918-29.24-71.192l-256.393-259.475c-16.082-16.276-42.533-16.41-58.78-0.301l-127.1,126.023
+			c-16.248,16.11-48.261,29.291-71.142,29.291H4027.145c-22.881,0-55.167-12.901-71.746-28.67l-136.245-129.578
+			c-16.58-15.768-43.188-15.24-59.128,1.173l-253.755,261.282c-15.941,16.414-28.983,48.563-28.983,71.444v687.625
+			c0,22.881,18.721,41.601,41.601,41.601h3204.684c22.88,0,41.601-18.721,41.601-41.601v-687.624l0,0v0.002H6765.172z"/>
+		<path name="Сектор D" tc-sector="5dde5149323458c5fc83f823" id="5dde5149323458c5fc83f823" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M2074.906,2508.69
+			c-5.86-22.117-29.375-40.213-52.256-40.213h-379.274c-22.88,0-41.601,18.72-41.601,41.601v2396.317
+			c0,22.88,18.72,41.601,41.601,41.601h421.61c22.88,0,41.601-18.721,41.601-41.601V2669.864c0-22.88-4.795-59.697-10.655-81.814
+			L2074.906,2508.69z"/>
+		<path name="Сектор С" tc-sector="5dde5149323458c5fc83f822" id="5dde5149323458c5fc83f822" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M2309.146,4462.427
+			c-16.052,16.305-15.812,42.743,0.537,58.751l838.833,823.022c16.348,16.008,42.857,15.767,58.909-0.538l520.363-528.539
+			c16.053-16.305,15.811-42.743-0.536-58.751l-838.833-823.023c-16.348-16.009-42.857-15.766-58.909,0.538L2309.146,4462.427z"/>
+		<path name="Сектор B" tc-sector="5dde5149323458c5fc83f821" id="5dde5149323458c5fc83f821" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M3077.204,3722.688
+			c22.077-6.012,35.988-29.185,30.915-51.496l-279.214-1227.914c-5.074-22.311-23.064-38.251-39.981-35.422
+			c-16.916,2.828-30.756-13.578-30.756-36.458v-13.059c0-22.881-18.25-37.43-40.555-32.332l-563.259,128.738
+			c-22.306,5.098-36.282,27.495-31.06,49.772l316.196,1348.749c5.222,22.277,27.558,35.584,49.635,29.572L3077.204,3722.688z"/>
+		<path name="Сектор A" tc-sector="5dde5149323458c5fc83f820" id="5dde5149323458c5fc83f820" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M2718.806,2278.531
+			c22.324-5.016,40.59-27.841,40.59-50.721v-716.744c0-22.881-18.72-41.601-41.601-41.601h-660.71
+			c-22.881,0-41.601,20.571-41.601,43.451v881.538c0,22.88,18.265,37.497,40.589,32.48L2718.806,2278.531z"/>
+		<path name="Партер" tc-sector="5dde5149323458c5fc83f81f" id="5dde5149323458c5fc83f81f" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M7396.758,1657.544H4566.71v0
+				c-22.881,0-60.321,0-83.202,0H2839.73c-22.88,0-41.601,18.721-41.601,41.601v625.086c0,22.881,11.676,38.901,25.945,35.602
+				c14.27-3.3,30.084,12.258,35.145,34.572l293.356,1293.812c5.06,22.314-3.443,54.379-18.893,71.255l-143.428,156.661
+				c-15.45,16.876-14.646,43.709,1.788,59.63l166.621,161.412c0,0,52.352,58.168,145.201,58.168c549.725,0,3576.819,0,3641.192,0
+				c70.808,0,129.185-51.838,129.185-51.838l170.417-167.525c16.317-16.041,17.026-42.971,1.576-59.847l-143.427-156.661
+				c-15.451-16.876-23.952-48.941-18.894-71.255l293.356-1293.812c5.059-22.314,20.875-37.871,35.145-34.572
+				c14.271,3.3,25.945-12.721,25.945-35.602v-625.085C7438.359,1676.265,7419.638,1657.544,7396.758,1657.544z"/>
+		<path name="Входной" tc-sector="5dde5149323458c5fc83f829" id="5dde5149323458c5fc83f829" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M3349.889,4322.421
+			c89.326,89.327,631.613,611.868,631.613,611.868c16.434,15.921,48.6,28.946,71.48,28.946h430.528c22.88,0,60.321,0,83.202,0
+			H6198.76c22.881,0,54.952-13.124,71.268-29.164c0,0,553.012-542.252,634.103-623.342c81.09-81.09-51.111-66.548-51.111-66.548
+			H3381.438C3381.438,4244.18,3260.562,4233.095,3349.889,4322.421z"/>
+		<g id="details">
+			<path fill="#F5F5F5" d="M2332.607,5110.447c0-22.881-18.72-41.601-41.601-41.601h-659.569c-22.881,0-41.601,18.721-41.601,41.601
+				v291.641c0,22.88,18.72,41.601,41.601,41.601h659.569c22.88,0,41.601-18.721,41.601-41.601L2332.607,5110.447L2332.607,5110.447z"/>
+			<text transform="matrix(1 0 0 1 1872.2769 5293.6738)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9056">Бар</text>
+			<path fill="#F5F5F5" d="M4226.044,6084.794c0-22.88-18.72-41.601-41.601-41.601h-659.569c-22.88,0-41.601,18.72-41.601,41.601
+				v291.641c0,22.881,18.72,41.601,41.601,41.601h659.569c22.88,0,41.601-18.721,41.601-41.601L4226.044,6084.794L4226.044,6084.794z"/>
+			<text transform="matrix(1 0 0 1 3765.7151 6268.0239)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9056">Бар</text>
+			<path fill="#F5F5F5" d="M7438.358,1264.574c0-22.881-18.721-41.601-41.601-41.601H2840.48c-22.88,0-41.601,18.72-41.601,41.601
+			v308.366c0,22.88,18.72,41.601,41.601,41.601h4556.278c22.88,0,41.601-18.72,41.601-41.601L7438.358,1264.574L7438.358,1264.574z"/>
+			<text transform="matrix(1 0 0 1 4985.6948 1455.0972)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9056">Сцена</text>
+			<text transform="matrix(0 -1 1 0 8102.6377 2109.6934)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9056">Сектор L</text>
+			<text transform="matrix(0.2594 -0.9658 0.9658 0.2594 7840.3804 3348.3289)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9109">Сектор K</text>
+			<text transform="matrix(0 -1 1 0 8552.4736 3926.0391)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9056">Сектор G</text>
+			<text transform="matrix(0.7186 -0.6955 0.6955 0.7186 7344.9321 4956.1191)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9086">Сектор F</text>
+			<text transform="matrix(1 0 0 1 4954.6147 5833.4072)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9056">Сектор E</text>
+			<text transform="matrix(0 1 -1 0 1682.8862 3543.3677)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9056">Сектор D</text>
+			<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 2705.8311 4763.5186)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9038">Сектор С</text>
+			<text transform="matrix(0.2205 0.9754 -0.9754 0.2205 2320.1919 2963.0483)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9079">Сектор B</text>
+			<text transform="matrix(0 1 -1 0 2138.7476 1732.7811)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9056">Сектор A</text>
+			<text transform="matrix(1 0 0 1 4963.9082 1846.8259)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9056">Партер</text>
+			<text transform="matrix(1 0 0 1 4948.7129 4578.208)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9056">Входной</text>
+		</g>
+	</g>
+	<g id="labels">
+		<text dataSectorId="5dde5149323458c5fc83f828">Сектор L</text>
+		<text dataSectorId="5dde5149323458c5fc83f827">Сектор K</text>
+		<text dataSectorId="5dde5149323458c5fc83f826">Сектор G</text>
+		<text dataSectorId="5dde5149323458c5fc83f825">Сектор F</text>
+		<text dataSectorId="5dde5149323458c5fc83f824">Сектор E</text>
+		<text dataSectorId="5dde5149323458c5fc83f823">Сектор D</text>
+		<text dataSectorId="5dde5149323458c5fc83f822">Сектор С</text>
+		<text dataSectorId="5dde5149323458c5fc83f821">Сектор B</text>
+		<text dataSectorId="5dde5149323458c5fc83f820">Сектор A</text>
+		<text dataSectorId="5dde5149323458c5fc83f81f">Партер</text>
+		<text dataSectorId="5dde5149323458c5fc83f829">Входной</text>
+	</g>
+</svg>

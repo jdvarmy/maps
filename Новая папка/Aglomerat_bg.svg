@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="map-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1024" height="768" viewBox="0 0 10240 7680" xml:space="preserve">
+	<metadata>
+		<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+        <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c014 79.151739, 2013/04/03-12:12:15">
+			<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				<rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/" xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/" xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#" xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">
+					<xmpTPg:MaxPageSize rdf:parseType="Resource">
+						<stDim:w>10240.000397</stDim:w>
+                        <stDim:h>7680.000000</stDim:h>
+                        <stDim:unit>Points</stDim:unit>
+					</xmpTPg:MaxPageSize>
+                    <xmpTPg:NPages>1</xmpTPg:NPages>
+                    <xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+                    <xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+                    <xmpTPg:Fonts>
+						<rdf:Bag>
+							<rdf:li rdf:parseType="Resource">
+								<stFnt:fontName>DINPro</stFnt:fontName>
+                                <stFnt:fontFamily>DIN Pro</stFnt:fontFamily>
+                                <stFnt:fontFace>Regular</stFnt:fontFace>
+                                <stFnt:fontType>TrueType</stFnt:fontType>
+                                <stFnt:versionString>Version 7.504; 2005; Build 1021</stFnt:versionString>
+                                <stFnt:composite>False</stFnt:composite>
+                                <stFnt:fontFileName>DINPro.ttf</stFnt:fontFileName>
+							</rdf:li>
+						</rdf:Bag>
+					</xmpTPg:Fonts>
+                    <xmpTPg:PlateNames>
+						<rdf:Seq>
+							<rdf:li>Cyan</rdf:li>
+                            <rdf:li>Magenta</rdf:li>
+                            <rdf:li>Yellow</rdf:li>
+                            <rdf:li>Black</rdf:li>
+						</rdf:Seq>
+					</xmpTPg:PlateNames>
+                    <xmpTPg:SwatchGroups>
+						<rdf:Seq>
+							<rdf:li rdf:parseType="Resource">
+								<xmpG:groupName>Default Swatch Group</xmpG:groupName>
+                                <xmpG:groupType>0</xmpG:groupType>
+							</rdf:li>
+						</rdf:Seq>
+					</xmpTPg:SwatchGroups>
+                    <dc:format>image/svg+xml</dc:format>
+				</rdf:Description>
+			</rdf:RDF>
+		</x:xmpmeta>
+        <?xpacket end="w"?>
+	</metadata>
+    <g id="background">
+		<path name="VIP Балкон" tc-sector="5a7da20c6e55b204a2cc3ce2" id="5a7da20c6e55b204a2cc3ce2" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M6393.456,1715.515c0-33-27-60-60-60H3950.674
+			c-33,0-87,0-120,0h-62.823c-33,0-87,0-120,0h-579.77c-33,0-60,27-60,60v3303.2c0,33,27,60,60,60h762.593c33,0,60-27,60-60
+			V2608.432c0-33,27-60,60-60h2382.782c33,0,60-27,60-60V1715.515z"/>
+        <path name="Танцевальный партер" tc-sector="5a7da20c6e55b204a2cc3ce3" id="5a7da20c6e55b204a2cc3ce3" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M7162.573,2673.759c0-33-27-60-60-60H4020.021
+			c-33,0-60,27-60,60v2344.956c0,33,27,60,60,60h3082.552c33,0,60-27,60-60V2673.759z"/>
+        <g id="details">
+            <path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M2973.001,1568.234c-33,0-60,27-60,60v4423.532
+                c0,33,27,60,60,60h1195.218c33,0,60-27,60-60v-739.924c0-33,27-60,60-60h1669.979c33,0,60,27,60,60v739.924c0,33,27,60,60,60H7267
+                c33,0,60-27,60-60V1628.234c0-33-27-60-60-60H2973.001z"/>
+            <path fill="#F0F0F0" d="M5945.855,5379.064c0-33-27-60-60-60H4361.238c-33,0-60,27-60,60v672.701c0,33,27,60,60,60h1524.617
+			    c33,0,60-27,60-60V5379.064z"/>
+            <text transform="matrix(1 0 0 1 5015.8271 5766.2271)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9056">Сцена</text>
+            <text transform="matrix(1 0 0 1 4282.8374 2085.7173)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9056">VIP Балкон</text>
+            <text transform="matrix(1 0 0 1 5258.4443 3733.2456)" enable-background="new">
+                <tspan x="0" y="0" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9056">Танцевальный</tspan>
+                <tspan x="172.013" y="111.487" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9056">партер</tspan>
+            </text>
+        </g>
+    </g>
+    <g id="labels">
+        <text dataSectorId="5a7da20c6e55b204a2cc3ce2">VIP Балкон</text>
+        <text dataSectorId="5a7da20c6e55b204a2cc3ce3">Танцевальный партер</text>
+    </g>
+</svg>
