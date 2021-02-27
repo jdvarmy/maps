@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="map-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1024" height="768" viewBox="0 0 10240 7680" xml:space="preserve">
+	<metadata>
+		<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+		<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c014 79.151739, 2013/04/03-12:12:15">
+			<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				<rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/" xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/" xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#" xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">
+					<xmpTPg:MaxPageSize rdf:parseType="Resource">
+						<stDim:w>10240.000397</stDim:w>
+						<stDim:h>7680.000000</stDim:h>
+						<stDim:unit>Points</stDim:unit>
+					</xmpTPg:MaxPageSize>
+					<xmpTPg:NPages>1</xmpTPg:NPages>
+					<xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+					<xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+					<xmpTPg:Fonts>
+						<rdf:Bag>
+							<rdf:li rdf:parseType="Resource">
+								<stFnt:fontName>DINPro</stFnt:fontName>
+								<stFnt:fontFamily>DIN Pro</stFnt:fontFamily>
+								<stFnt:fontFace>Regular</stFnt:fontFace>
+								<stFnt:fontType>TrueType</stFnt:fontType>
+								<stFnt:versionString>Version 7.504; 2005; Build 1021</stFnt:versionString>
+								<stFnt:composite>False</stFnt:composite>
+								<stFnt:fontFileName>DINPro.ttf</stFnt:fontFileName>
+							</rdf:li>
+						</rdf:Bag>
+					</xmpTPg:Fonts>
+					<xmpTPg:PlateNames>
+						<rdf:Seq>
+							<rdf:li>Cyan</rdf:li>
+							<rdf:li>Magenta</rdf:li>
+							<rdf:li>Yellow</rdf:li>
+							<rdf:li>Black</rdf:li>
+						</rdf:Seq>
+					</xmpTPg:PlateNames>
+					<xmpTPg:SwatchGroups>
+						<rdf:Seq>
+							<rdf:li rdf:parseType="Resource">
+								<xmpG:groupName>Default Swatch Group</xmpG:groupName>
+								<xmpG:groupType>0</xmpG:groupType>
+							</rdf:li>
+						</rdf:Seq>
+					</xmpTPg:SwatchGroups>
+					<dc:format>image/svg+xml</dc:format>
+				</rdf:Description>
+			</rdf:RDF>
+		</x:xmpmeta>
+		<?xpacket end="w"?>
+	</metadata>
+	<g id="background">
+		<path id="99"/>
+		<path id="98" dataFree="true"/>
+		<path id="1" dataFree="true"/>
+		<path id="2" dataFree="true"/>
+		<path id="3" dataFree="true"/>
+		<path id="4" dataFree="true"/>
+		<path id="5" dataFree="true"/>
+		<path id="6" dataFree="true"/>
+		<path id="7" dataFree="true"/>
+		<path id="8" dataFree="true"/>
+		<path id="9" dataFree="true"/>
+		<path id="10" dataFree="true"/>
+		<path id="11" dataFree="true"/>
+		<path id="12" dataFree="true"/>
+		<g id="details">
+			<path id="100" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M7781.049,5402.675c0,33-27,60-60,60H3134.566
+			c-33,0-60-27-60-60V2277.325c0-33,27-60,60-60h4586.482c33,0,60,27,60,60V5402.675z"/>
+			<path fill="#F5F5F5" d="M2458.951,2963.295c0-33,27-60,60-60h400.451c33,0,60,27,60,60v1740.813c0,33-27,60-60,60h-400.451
+				c-33,0-60-27-60-60V2963.295z"/>
+			<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M7497.365,3896.283v528c0,33-27,60-60,60h-1652"/>
+			<line fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" x1="5404.559" y1="4740.283" x2="3300.817" y2="4740.283"/>
+			<text transform="matrix(1 0 0 1 2589.1455 3833.7012)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9056">Сцена</text>
+			<text transform="matrix(1 0 0 1 3348.2705 4955.4771)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9056">Friend Zone</text>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="3699.427" cy="4074.558" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="3890.823" cy="4074.558" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="3699.427" cy="4563.33" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="3514.359" cy="4563.33" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="3890.823" cy="4563.33" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="4050.584" cy="4311.826" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="3616.384" cy="3306.603" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="3807.78" cy="3306.603" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="3616.384" cy="3795.375" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="3807.78" cy="3795.375" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="3967.54" cy="3543.871" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="3348.271" cy="2494.603" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="3539.667" cy="2494.603" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="3539.667" cy="2983.375" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="3954.886" cy="2494.603" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="4146.282" cy="2494.603" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="4146.282" cy="2983.375" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="3954.886" cy="2983.375" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="4593.12" cy="2494.603" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="4784.516" cy="2494.603" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="4784.516" cy="2983.375" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="4593.12" cy="2983.375" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="5270.107" cy="2494.603" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="5461.503" cy="2494.603" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="5461.503" cy="2983.375" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="5270.107" cy="2983.375" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="5995.729" cy="2494.603" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="6187.125" cy="2494.603" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="6187.125" cy="2983.375" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="5995.729" cy="2983.375" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="6668.178" cy="2494.603" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="6859.574" cy="2494.603" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="6859.574" cy="2983.375" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="6668.178" cy="2983.375" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="7328.178" cy="2494.603" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="7519.574" cy="2494.603" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="7328.178" cy="2983.375" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="4631.874" cy="3306.603" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="4823.27" cy="3306.603" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="4631.874" cy="3795.375" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="4823.27" cy="3795.375" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="4983.03" cy="3543.871" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="5087.428" cy="4074.558" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="5278.824" cy="4074.558" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="5087.428" cy="4563.33" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="4902.358" cy="4563.33" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="5278.824" cy="4563.33" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="5438.584" cy="4311.826" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="6091.428" cy="3776.757" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="5906.358" cy="3776.757" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="6282.824" cy="3776.757" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="6091.428" cy="4265.529" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="5906.359" cy="4265.529" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="6282.824" cy="4265.529" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="6442.584" cy="4014.025" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="6948.945" cy="3776.757" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="6763.876" cy="3776.757" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="7140.341" cy="3776.757" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="6948.945" cy="4265.529" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="6763.876" cy="4265.529" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="7140.341" cy="4265.529" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="7300.101" cy="4014.025" r="56.944"/>
+			<text transform="matrix(1 0 0 1 3423.1543 2774.4097)" fill="#8A8A8A" font-family="'DINPro'" font-size="88.8423">0</text>
+			<text transform="matrix(1 0 0 1 3774.3108 4354.3647)" fill="#8A8A8A" font-family="'DINPro'" font-size="88.8423">1</text>
+			<text transform="matrix(1 0 0 1 5162.3105 4354.3647)" fill="#8A8A8A" font-family="'DINPro'" font-size="88.8423">2</text>
+			<text transform="matrix(1 0 0 1 6166.311 4056.564)" fill="#8A8A8A" font-family="'DINPro'" font-size="88.8423">3</text>
+			<text transform="matrix(1 0 0 1 7023.8281 4056.564)" fill="#8A8A8A" font-family="'DINPro'" font-size="88.8423">4</text>
+			<text transform="matrix(1 0 0 1 3691.2671 3586.4097)" fill="#8A8A8A" font-family="'DINPro'" font-size="88.8423">5</text>
+			<text transform="matrix(1 0 0 1 4706.7568 3586.4097)" fill="#8A8A8A" font-family="'DINPro'" font-size="88.8423">6</text>
+			<text transform="matrix(1 0 0 1 4029.769 2774.4097)" fill="#8A8A8A" font-family="'DINPro'" font-size="88.8423">7</text>
+			<text transform="matrix(1 0 0 1 4668.0029 2774.4097)" fill="#8A8A8A" font-family="'DINPro'" font-size="88.8423">8</text>
+			<text transform="matrix(1 0 0 1 5344.9902 2774.4097)" fill="#8A8A8A" font-family="'DINPro'" font-size="88.8423">9</text>
+			<text transform="matrix(1 0 0 1 6047.4258 2774.4097)" fill="#8A8A8A" font-family="'DINPro'" font-size="88.8423">10</text>
+			<text transform="matrix(1 0 0 1 6719.874 2774.4097)" fill="#8A8A8A" font-family="'DINPro'" font-size="88.8423">11</text>
+			<text transform="matrix(1 0 0 1 7379.874 2774.4097)" fill="#8A8A8A" font-family="'DINPro'" font-size="88.8423">12</text>
+		</g>
+	</g>
+	<g id="labels">
+		<text dataSectorId="100">JFC</text>
+		<text dataSectorId="99">Friend Zone</text>
+		<text dataSectorId="98">Стол #0 (2 места)</text>
+		<text dataSectorId="1">Стол #1 (3 места)</text>
+		<text dataSectorId="2">Стол #2 (4 места)</text>
+		<text dataSectorId="3">Стол #3 (4 места)</text>
+		<text dataSectorId="4">Стол #4 (4 места)</text>
+		<text dataSectorId="5">Стол #5 (4 места)</text>
+		<text dataSectorId="6">Стол #6 (4 места)</text>
+		<text dataSectorId="7">Стол #7 (2 места)</text>
+		<text dataSectorId="8">Стол #8 (3 места)</text>
+		<text dataSectorId="9">Стол #9 (3 места)</text>
+		<text dataSectorId="10">Стол #10 (2 места)</text>
+		<text dataSectorId="11">Стол #11 (3 места)</text>
+		<text dataSectorId="12">Стол #12 (1 место)</text>
+	</g>
+	<g id="seats">
+		<g dataSectorId="99" dataComponent="svg__sector" dataElId="99">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="3416.087" cy="5177.059" r="56.944" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="3865.703" cy="5177.059" r="56.944" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="4315.319" cy="5177.059" r="56.944" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="4764.935" cy="5177.059" r="56.944" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="5214.55" cy="5177.059" r="56.944" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="5664.167" cy="5177.059" r="56.944" dataComponent="svg__seat" dataName="6"/>
+			</g>
+		</g>
+		<g dataSectorId="98" dataComponent="svg__sector" dataElId="98">
+			<g dataComponent="svg__row" dataName="" dataElId="1">
+				<circle fill="#DEDEDE" cx="3446.342" cy="2742.518" r="95" dataComponent="svg__seat" dataName=""/>
+			</g>
+		</g>
+		<g dataSectorId="1" dataComponent="svg__sector" dataElId="1">
+			<g dataComponent="svg__row" dataName="" dataElId="1">
+				<circle fill="#DEDEDE" cx="3797.498" cy="4322.473" r="95" dataComponent="svg__seat" dataName=""/>
+			</g>
+		</g>
+		<g dataSectorId="2" dataComponent="svg__sector" dataElId="2">
+			<g dataComponent="svg__row" dataName="" dataElId="1">
+				<circle fill="#DEDEDE" cx="5185.498" cy="4322.473" r="95" dataComponent="svg__seat" dataName=""/>
+			</g>
+		</g>
+		<g dataSectorId="3" dataComponent="svg__sector" dataElId="3">
+			<g dataComponent="svg__row" dataName="" dataElId="1">
+				<circle fill="#DEDEDE" cx="6189.498" cy="4024.672" r="95" dataComponent="svg__seat" dataName=""/>
+			</g>
+		</g>
+		<g dataSectorId="4" dataComponent="svg__sector" dataElId="4">
+			<g dataComponent="svg__row" dataName="" dataElId="1">
+				<circle fill="#DEDEDE" cx="7047.016" cy="4024.672" r="95" dataComponent="svg__seat" dataName=""/>
+			</g>
+		</g>
+		<g dataSectorId="5" dataComponent="svg__sector" dataElId="5">
+			<g dataComponent="svg__row" dataName="" dataElId="1">
+				<circle fill="#DEDEDE" cx="3714.454" cy="3554.518" r="95" dataComponent="svg__seat" dataName=""/>
+			</g>
+		</g>
+		<g dataSectorId="6" dataComponent="svg__sector" dataElId="6">
+			<g dataComponent="svg__row" dataName="" dataElId="1">
+				<circle fill="#DEDEDE" cx="4729.944" cy="3554.518" r="95" dataComponent="svg__seat" dataName=""/>
+			</g>
+		</g>
+		<g dataSectorId="7" dataComponent="svg__sector" dataElId="7">
+			<g dataComponent="svg__row" dataName="" dataElId="1">
+				<circle fill="#DEDEDE" cx="4052.957" cy="2742.518" r="95" dataComponent="svg__seat" dataName=""/>
+			</g>
+		</g>
+		<g dataSectorId="8" dataComponent="svg__sector" dataElId="8">
+			<g dataComponent="svg__row" dataName="" dataElId="1">
+				<circle fill="#DEDEDE" cx="4691.19" cy="2742.518" r="95" dataComponent="svg__seat" dataName=""/>
+			</g>
+		</g>
+		<g dataSectorId="9" dataComponent="svg__sector" dataElId="9">
+			<g dataComponent="svg__row" dataName="" dataElId="1">
+				<circle fill="#DEDEDE" cx="5368.178" cy="2742.518" r="95" dataComponent="svg__seat" dataName=""/>
+			</g>
+		</g>
+		<g dataSectorId="10" dataComponent="svg__sector" dataElId="10">
+			<g dataComponent="svg__row" dataName="" dataElId="1">
+				<circle fill="#DEDEDE" cx="6093.8" cy="2742.518" r="95" dataComponent="svg__seat" dataName=""/>
+			</g>
+		</g>
+		<g dataSectorId="11" dataComponent="svg__sector" dataElId="11">
+			<g dataComponent="svg__row" dataName="" dataElId="1">
+				<circle fill="#DEDEDE" cx="6766.249" cy="2742.518" r="95" dataComponent="svg__seat" dataName=""/>
+			</g>
+		</g>
+		<g dataSectorId="12" dataComponent="svg__sector" dataElId="12">
+			<g dataComponent="svg__row" dataName="" dataElId="1">
+				<circle fill="#DEDEDE" cx="7426.249" cy="2742.518" r="95" dataComponent="svg__seat" dataName=""/>
+			</g>
+		</g>
+	</g>
+</svg>
