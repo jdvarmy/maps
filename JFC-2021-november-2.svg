@@ -131,7 +131,12 @@
 	<g id="seats">
 		<g dataSectorId="99" dataComponent="svg__sector" dataElId="99">
 			<g dataComponent="svg__row" dataName="1" dataElId="1">
-				<circle fill="#C7C7C7" cx="3625.703" cy="5177.059" r="56.944" dataComponent="svg__seat" dataName="99" dataFree="true"/>
+				<circle fill="#C7C7C7" cx="3416.087" cy="5177.059" r="56.944" dataComponent="svg__seat"/>
+				<circle fill="#C7C7C7" cx="3865.703" cy="5177.059" r="56.944" dataComponent="svg__seat"/>
+				<circle fill="#C7C7C7" cx="4315.319" cy="5177.059" r="56.944" dataComponent="svg__seat"/>
+				<circle fill="#C7C7C7" cx="4764.935" cy="5177.059" r="56.944" dataComponent="svg__seat"/>
+				<circle fill="#C7C7C7" cx="5214.55" cy="5177.059" r="56.944" dataComponent="svg__seat"/>
+				<circle fill="#C7C7C7" cx="5664.167" cy="5177.059" r="56.944" dataComponent="svg__seat"/>
 			</g>
 		</g>
 		<g dataSectorId="98" dataComponent="svg__sector" dataElId="98">
