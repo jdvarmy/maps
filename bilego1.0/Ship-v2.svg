@@ -414,137 +414,137 @@
     </g>
     <g id="seats">
         <g dataSectorId="1" dataComponent="svg__sector" dataElId="1">
-            <g dataComponent="svg__row" dataName="1" dataElId="1">
-				<circle fill="#C7C7C7" cx="6103.198" cy="3526.352" r="23.811" dataComponent="svg__seat" dataName="1"/>
-                <circle fill="#C7C7C7" cx="6103.198" cy="3619.999" r="23.811" dataComponent="svg__seat" dataName="2"/>
-                <circle fill="#C7C7C7" cx="6103.198" cy="3713.646" r="23.811" dataComponent="svg__seat" dataName="3"/>
-                <circle fill="#C7C7C7" cx="6350.727" cy="3526.352" r="23.811" dataComponent="svg__seat" dataName="4"/>
-                <circle fill="#C7C7C7" cx="6350.727" cy="3619.999" r="23.811" dataComponent="svg__seat" dataName="5"/>
-                <circle fill="#C7C7C7" cx="6350.727" cy="3713.646" r="23.811" dataComponent="svg__seat" dataName="6"/>
+            <g dataComponent="svg__row" dataName="За столиком свободная рассадка" dataElId="1">
+				<circle fill="#C7C7C7" cx="6103.198" cy="3526.352" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="6103.198" cy="3619.999" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="6103.198" cy="3713.646" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="6350.727" cy="3526.352" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="6350.727" cy="3619.999" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="6350.727" cy="3713.646" r="23.811" dataComponent="svg__seat" dataName=""/>
             </g>
-            <g dataComponent="svg__row" dataName="2" dataElId="2">
-				<circle fill="#C7C7C7" cx="6312.845" cy="2835.104" r="23.811" dataComponent="svg__seat" dataName="1"/>
-                <circle fill="#C7C7C7" cx="6312.845" cy="2928.751" r="23.811" dataComponent="svg__seat" dataName="2"/>
-                <circle fill="#C7C7C7" cx="6312.845" cy="3022.398" r="23.811" dataComponent="svg__seat" dataName="3"/>
-                <circle fill="#C7C7C7" cx="6560.374" cy="2835.104" r="23.811" dataComponent="svg__seat" dataName="4"/>
-                <circle fill="#C7C7C7" cx="6560.374" cy="2928.751" r="23.811" dataComponent="svg__seat" dataName="5"/>
-                <circle fill="#C7C7C7" cx="6560.374" cy="3022.398" r="23.811" dataComponent="svg__seat" dataName="6"/>
+            <g dataComponent="svg__row" dataName="За столиком свободная рассадка" dataElId="2">
+				<circle fill="#C7C7C7" cx="6312.845" cy="2835.104" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="6312.845" cy="2928.751" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="6312.845" cy="3022.398" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="6560.374" cy="2835.104" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="6560.374" cy="2928.751" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="6560.374" cy="3022.398" r="23.811" dataComponent="svg__seat" dataName=""/>
             </g>
-            <g dataComponent="svg__row" dataName="3" dataElId="3">
-				<circle fill="#C7C7C7" cx="5734.727" cy="3526.352" r="23.811" dataComponent="svg__seat" dataName="1"/>
-                <circle fill="#C7C7C7" cx="5734.727" cy="3619.999" r="23.811" dataComponent="svg__seat" dataName="2"/>
-                <circle fill="#C7C7C7" cx="5734.727" cy="3713.646" r="23.811" dataComponent="svg__seat" dataName="3"/>
-                <circle fill="#C7C7C7" cx="5982.256" cy="3526.352" r="23.811" dataComponent="svg__seat" dataName="4"/>
-                <circle fill="#C7C7C7" cx="5982.256" cy="3619.999" r="23.811" dataComponent="svg__seat" dataName="5"/>
-                <circle fill="#C7C7C7" cx="5982.256" cy="3713.646" r="23.811" dataComponent="svg__seat" dataName="6"/>
+            <g dataComponent="svg__row" dataName="За столиком свободная рассадка" dataElId="3">
+				<circle fill="#C7C7C7" cx="5734.727" cy="3526.352" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5734.727" cy="3619.999" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5734.727" cy="3713.646" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5982.256" cy="3526.352" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5982.256" cy="3619.999" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5982.256" cy="3713.646" r="23.811" dataComponent="svg__seat" dataName=""/>
             </g>
-            <g dataComponent="svg__row" dataName="4" dataElId="4">
-				<circle fill="#C7C7C7" cx="5944.374" cy="2835.104" r="23.811" dataComponent="svg__seat" dataName="1"/>
-                <circle fill="#C7C7C7" cx="5944.374" cy="2928.751" r="23.811" dataComponent="svg__seat" dataName="2"/>
-                <circle fill="#C7C7C7" cx="5944.374" cy="3022.398" r="23.811" dataComponent="svg__seat" dataName="3"/>
-                <circle fill="#C7C7C7" cx="6191.904" cy="2835.104" r="23.811" dataComponent="svg__seat" dataName="4"/>
-                <circle fill="#C7C7C7" cx="6191.904" cy="2928.751" r="23.811" dataComponent="svg__seat" dataName="5"/>
-                <circle fill="#C7C7C7" cx="6191.904" cy="3022.398" r="23.811" dataComponent="svg__seat" dataName="6"/>
+            <g dataComponent="svg__row" dataName="За столиком свободная рассадка" dataElId="4">
+				<circle fill="#C7C7C7" cx="5944.374" cy="2835.104" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5944.374" cy="2928.751" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5944.374" cy="3022.398" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="6191.904" cy="2835.104" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="6191.904" cy="2928.751" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="6191.904" cy="3022.398" r="23.811" dataComponent="svg__seat" dataName=""/>
             </g>
-            <g dataComponent="svg__row" dataName="5" dataElId="5">
-				<circle fill="#C7C7C7" cx="5366.256" cy="3526.352" r="23.811" dataComponent="svg__seat" dataName="1"/>
-                <circle fill="#C7C7C7" cx="5366.256" cy="3619.999" r="23.811" dataComponent="svg__seat" dataName="2"/>
-                <circle fill="#C7C7C7" cx="5366.256" cy="3713.646" r="23.811" dataComponent="svg__seat" dataName="3"/>
-                <circle fill="#C7C7C7" cx="5613.786" cy="3526.352" r="23.811" dataComponent="svg__seat" dataName="4"/>
-                <circle fill="#C7C7C7" cx="5613.786" cy="3619.999" r="23.811" dataComponent="svg__seat" dataName="5"/>
-                <circle fill="#C7C7C7" cx="5613.786" cy="3713.646" r="23.811" dataComponent="svg__seat" dataName="6"/>
+            <g dataComponent="svg__row" dataName="За столиком свободная рассадка" dataElId="5">
+				<circle fill="#C7C7C7" cx="5366.256" cy="3526.352" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5366.256" cy="3619.999" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5366.256" cy="3713.646" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5613.786" cy="3526.352" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5613.786" cy="3619.999" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5613.786" cy="3713.646" r="23.811" dataComponent="svg__seat" dataName=""/>
             </g>
-            <g dataComponent="svg__row" dataName="6" dataElId="6">
-				<circle fill="#C7C7C7" cx="5575.904" cy="2835.104" r="23.811" dataComponent="svg__seat" dataName="1"/>
-                <circle fill="#C7C7C7" cx="5575.904" cy="2928.751" r="23.811" dataComponent="svg__seat" dataName="2"/>
-                <circle fill="#C7C7C7" cx="5575.904" cy="3022.398" r="23.811" dataComponent="svg__seat" dataName="3"/>
-                <circle fill="#C7C7C7" cx="5823.433" cy="2835.104" r="23.811" dataComponent="svg__seat" dataName="4"/>
-                <circle fill="#C7C7C7" cx="5823.433" cy="2928.751" r="23.811" dataComponent="svg__seat" dataName="5"/>
-                <circle fill="#C7C7C7" cx="5823.433" cy="3022.398" r="23.811" dataComponent="svg__seat" dataName="6"/>
+            <g dataComponent="svg__row" dataName="За столиком свободная рассадка" dataElId="6">
+				<circle fill="#C7C7C7" cx="5575.904" cy="2835.104" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5575.904" cy="2928.751" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5575.904" cy="3022.398" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5823.433" cy="2835.104" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5823.433" cy="2928.751" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5823.433" cy="3022.398" r="23.811" dataComponent="svg__seat" dataName=""/>
             </g>
-            <g dataComponent="svg__row" dataName="7" dataElId="7">
-				<circle fill="#C7C7C7" cx="4997.786" cy="3526.352" r="23.811" dataComponent="svg__seat" dataName="1"/>
-                <circle fill="#C7C7C7" cx="4997.786" cy="3619.999" r="23.811" dataComponent="svg__seat" dataName="2"/>
-                <circle fill="#C7C7C7" cx="4997.786" cy="3713.646" r="23.811" dataComponent="svg__seat" dataName="3"/>
-                <circle fill="#C7C7C7" cx="5245.315" cy="3526.352" r="23.811" dataComponent="svg__seat" dataName="4"/>
-                <circle fill="#C7C7C7" cx="5245.315" cy="3619.999" r="23.811" dataComponent="svg__seat" dataName="5"/>
-                <circle fill="#C7C7C7" cx="5245.315" cy="3713.646" r="23.811" dataComponent="svg__seat" dataName="6"/>
+            <g dataComponent="svg__row" dataName="За столиком свободная рассадка" dataElId="7">
+				<circle fill="#C7C7C7" cx="4997.786" cy="3526.352" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="4997.786" cy="3619.999" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="4997.786" cy="3713.646" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5245.315" cy="3526.352" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5245.315" cy="3619.999" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5245.315" cy="3713.646" r="23.811" dataComponent="svg__seat" dataName=""/>
             </g>
-            <g dataComponent="svg__row" dataName="8" dataElId="8">
-				<circle fill="#C7C7C7" cx="5207.433" cy="2835.104" r="23.811" dataComponent="svg__seat" dataName="1"/>
-                <circle fill="#C7C7C7" cx="5207.433" cy="2928.751" r="23.811" dataComponent="svg__seat" dataName="2"/>
-                <circle fill="#C7C7C7" cx="5207.433" cy="3022.398" r="23.811" dataComponent="svg__seat" dataName="3"/>
-                <circle fill="#C7C7C7" cx="5454.962" cy="2835.104" r="23.811" dataComponent="svg__seat" dataName="4"/>
-                <circle fill="#C7C7C7" cx="5454.962" cy="2928.751" r="23.811" dataComponent="svg__seat" dataName="5"/>
-                <circle fill="#C7C7C7" cx="5454.962" cy="3022.398" r="23.811" dataComponent="svg__seat" dataName="6"/>
+            <g dataComponent="svg__row" dataName="За столиком свободная рассадка" dataElId="8">
+				<circle fill="#C7C7C7" cx="5207.433" cy="2835.104" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5207.433" cy="2928.751" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5207.433" cy="3022.398" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5454.962" cy="2835.104" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5454.962" cy="2928.751" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5454.962" cy="3022.398" r="23.811" dataComponent="svg__seat" dataName=""/>
             </g>
-            <g dataComponent="svg__row" dataName="9" dataElId="9">
-				<circle fill="#C7C7C7" cx="4629.315" cy="3526.352" r="23.811" dataComponent="svg__seat" dataName="1"/>
-                <circle fill="#C7C7C7" cx="4629.315" cy="3619.999" r="23.811" dataComponent="svg__seat" dataName="2"/>
-                <circle fill="#C7C7C7" cx="4629.315" cy="3713.646" r="23.811" dataComponent="svg__seat" dataName="3"/>
-                <circle fill="#C7C7C7" cx="4876.845" cy="3526.352" r="23.811" dataComponent="svg__seat" dataName="4"/>
-                <circle fill="#C7C7C7" cx="4876.845" cy="3619.999" r="23.811" dataComponent="svg__seat" dataName="5"/>
-                <circle fill="#C7C7C7" cx="4876.845" cy="3713.646" r="23.811" dataComponent="svg__seat" dataName="6"/>
+            <g dataComponent="svg__row" dataName="За столиком свободная рассадка" dataElId="9">
+				<circle fill="#C7C7C7" cx="4629.315" cy="3526.352" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="4629.315" cy="3619.999" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="4629.315" cy="3713.646" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="4876.845" cy="3526.352" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="4876.845" cy="3619.999" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="4876.845" cy="3713.646" r="23.811" dataComponent="svg__seat" dataName=""/>
             </g>
-            <g dataComponent="svg__row" dataName="10" dataElId="10">
-				<circle fill="#C7C7C7" cx="4838.962" cy="2835.104" r="23.811" dataComponent="svg__seat" dataName="1"/>
-                <circle fill="#C7C7C7" cx="4838.962" cy="2928.751" r="23.811" dataComponent="svg__seat" dataName="2"/>
-                <circle fill="#C7C7C7" cx="4838.962" cy="3022.398" r="23.811" dataComponent="svg__seat" dataName="3"/>
-                <circle fill="#C7C7C7" cx="5086.492" cy="2835.104" r="23.811" dataComponent="svg__seat" dataName="4"/>
-                <circle fill="#C7C7C7" cx="5086.492" cy="2928.751" r="23.811" dataComponent="svg__seat" dataName="5"/>
-                <circle fill="#C7C7C7" cx="5086.492" cy="3022.398" r="23.811" dataComponent="svg__seat" dataName="6"/>
+            <g dataComponent="svg__row" dataName="За столиком свободная рассадка" dataElId="10">
+				<circle fill="#C7C7C7" cx="4838.962" cy="2835.104" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="4838.962" cy="2928.751" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="4838.962" cy="3022.398" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5086.492" cy="2835.104" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5086.492" cy="2928.751" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5086.492" cy="3022.398" r="23.811" dataComponent="svg__seat" dataName=""/>
             </g>
-            <g dataComponent="svg__row" dataName="11" dataElId="11">
-			    <circle fill="#C7C7C7" cx="4470.492" cy="2835.104" r="23.811" dataComponent="svg__seat" dataName="1"/>
-                <circle fill="#C7C7C7" cx="4470.492" cy="2928.751" r="23.811" dataComponent="svg__seat" dataName="2"/>
-                <circle fill="#C7C7C7" cx="4470.492" cy="3022.398" r="23.811" dataComponent="svg__seat" dataName="3"/>
-                <circle fill="#C7C7C7" cx="4718.021" cy="2835.104" r="23.811" dataComponent="svg__seat" dataName="4"/>
-                <circle fill="#C7C7C7" cx="4718.021" cy="2928.751" r="23.811" dataComponent="svg__seat" dataName="5"/>
-                <circle fill="#C7C7C7" cx="4718.021" cy="3022.398" r="23.811" dataComponent="svg__seat" dataName="6"/>
+            <g dataComponent="svg__row" dataName="За столиком свободная рассадка" dataElId="11">
+			    <circle fill="#C7C7C7" cx="4470.492" cy="2835.104" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="4470.492" cy="2928.751" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="4470.492" cy="3022.398" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="4718.021" cy="2835.104" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="4718.021" cy="2928.751" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="4718.021" cy="3022.398" r="23.811" dataComponent="svg__seat" dataName=""/>
             </g>
-            <g dataComponent="svg__row" dataName="12" dataElId="12">
-				<circle fill="#C7C7C7" cx="7550.355" cy="3185.572" r="23.811" dataComponent="svg__seat" dataName="1"/>
-                <circle fill="#C7C7C7" cx="7464.782" cy="3223.61" r="23.811" dataComponent="svg__seat" dataName="2"/>
-                <circle fill="#C7C7C7" cx="7650.898" cy="3411.762" r="23.811" dataComponent="svg__seat" dataName="3"/>
-                <circle fill="#C7C7C7" cx="7565.324" cy="3449.8" r="23.811" dataComponent="svg__seat" dataName="4"/>
+            <g dataComponent="svg__row" dataName="За столиком свободная рассадка" dataElId="12">
+				<circle fill="#C7C7C7" cx="7550.355" cy="3185.572" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="7464.782" cy="3223.61" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="7650.898" cy="3411.762" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="7565.324" cy="3449.8" r="23.811" dataComponent="svg__seat" dataName=""/>
             </g>
         </g>
         <g dataSectorId="2" dataComponent="svg__sector" dataElId="2">
-            <g dataComponent="svg__row" dataName="1" dataElId="1">
-				<circle fill="#C7C7C7" cx="5847.244" cy="4304.972" r="23.811" dataComponent="svg__seat" dataName="1"/>
-                <circle fill="#C7C7C7" cx="5847.244" cy="4398.619" r="23.811" dataComponent="svg__seat" dataName="2"/>
-                <circle fill="#C7C7C7" cx="6094.774" cy="4304.972" r="23.811" dataComponent="svg__seat" dataName="3"/>
-                <circle fill="#C7C7C7" cx="6094.774" cy="4398.619" r="23.811" dataComponent="svg__seat" dataName="4"/>
+            <g dataComponent="svg__row" dataName="За столиком свободная рассадка" dataElId="1">
+				<circle fill="#C7C7C7" cx="5847.244" cy="4304.972" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5847.244" cy="4398.619" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="6094.774" cy="4304.972" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="6094.774" cy="4398.619" r="23.811" dataComponent="svg__seat" dataName=""/>
             </g>
-            <g dataComponent="svg__row" dataName="2" dataElId="2">
-				<circle fill="#C7C7C7" cx="5478.774" cy="4304.972" r="23.811" dataComponent="svg__seat" dataName="1"/>
-                <circle fill="#C7C7C7" cx="5478.774" cy="4398.619" r="23.811" dataComponent="svg__seat" dataName="2"/>
-                <circle fill="#C7C7C7" cx="5726.303" cy="4304.972" r="23.811" dataComponent="svg__seat" dataName="3"/>
-                <circle fill="#C7C7C7" cx="5726.303" cy="4398.619" r="23.811" dataComponent="svg__seat" dataName="4"/>
+            <g dataComponent="svg__row" dataName="За столиком свободная рассадка" dataElId="2">
+				<circle fill="#C7C7C7" cx="5478.774" cy="4304.972" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5478.774" cy="4398.619" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5726.303" cy="4304.972" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5726.303" cy="4398.619" r="23.811" dataComponent="svg__seat" dataName=""/>
             </g>
-            <g dataComponent="svg__row" dataName="3" dataElId="3">
-				<circle fill="#C7C7C7" cx="5110.303" cy="4304.972" r="23.811" dataComponent="svg__seat" dataName="1"/>
-                <circle fill="#C7C7C7" cx="5110.303" cy="4398.619" r="23.811" dataComponent="svg__seat" dataName="2"/>
-                <circle fill="#C7C7C7" cx="5357.833" cy="4304.972" r="23.811" dataComponent="svg__seat" dataName="3"/>
-                <circle fill="#C7C7C7" cx="5357.833" cy="4398.619" r="23.811" dataComponent="svg__seat" dataName="4"/>
+            <g dataComponent="svg__row" dataName="За столиком свободная рассадка" dataElId="3">
+				<circle fill="#C7C7C7" cx="5110.303" cy="4304.972" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5110.303" cy="4398.619" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5357.833" cy="4304.972" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="5357.833" cy="4398.619" r="23.811" dataComponent="svg__seat" dataName=""/>
             </g>
-            <g dataComponent="svg__row" dataName="4" dataElId="4">
-				<circle fill="#C7C7C7" cx="4741.833" cy="4304.972" r="23.811" dataComponent="svg__seat" dataName="1"/>
-                <circle fill="#C7C7C7" cx="4741.833" cy="4398.619" r="23.811" dataComponent="svg__seat" dataName="2"/>
-                <circle fill="#C7C7C7" cx="4989.362" cy="4304.972" r="23.811" dataComponent="svg__seat" dataName="3"/>
-                <circle fill="#C7C7C7" cx="4989.362" cy="4398.619" r="23.811" dataComponent="svg__seat" dataName="4"/>
+            <g dataComponent="svg__row" dataName="За столиком свободная рассадка" dataElId="4">
+				<circle fill="#C7C7C7" cx="4741.833" cy="4304.972" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="4741.833" cy="4398.619" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="4989.362" cy="4304.972" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="4989.362" cy="4398.619" r="23.811" dataComponent="svg__seat" dataName=""/>
             </g>
-            <g dataComponent="svg__row" dataName="5" dataElId="5">
-				<circle fill="#C7C7C7" cx="4373.362" cy="4304.972" r="23.811" dataComponent="svg__seat" dataName="1"/>
-                <circle fill="#C7C7C7" cx="4373.362" cy="4398.619" r="23.811" dataComponent="svg__seat" dataName="2"/>
-                <circle fill="#C7C7C7" cx="4620.892" cy="4304.972" r="23.811" dataComponent="svg__seat" dataName="3"/>
-                <circle fill="#C7C7C7" cx="4620.892" cy="4398.619" r="23.811" dataComponent="svg__seat" dataName="4"/>
+            <g dataComponent="svg__row" dataName="За столиком свободная рассадка" dataElId="5">
+				<circle fill="#C7C7C7" cx="4373.362" cy="4304.972" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="4373.362" cy="4398.619" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="4620.892" cy="4304.972" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="4620.892" cy="4398.619" r="23.811" dataComponent="svg__seat" dataName=""/>
             </g>
-            <g dataComponent="svg__row" dataName="6" dataElId="6">
-				<circle fill="#C7C7C7" cx="4004.891" cy="4304.972" r="23.811" dataComponent="svg__seat" dataName="1"/>
-                <circle fill="#C7C7C7" cx="4004.891" cy="4398.619" r="23.811" dataComponent="svg__seat" dataName="2"/>
-                <circle fill="#C7C7C7" cx="4252.421" cy="4304.972" r="23.811" dataComponent="svg__seat" dataName="3"/>
-                <circle fill="#C7C7C7" cx="4252.421" cy="4398.619" r="23.811" dataComponent="svg__seat" dataName="4"/>
+            <g dataComponent="svg__row" dataName="За столиком свободная рассадка" dataElId="6">
+				<circle fill="#C7C7C7" cx="4004.891" cy="4304.972" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="4004.891" cy="4398.619" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="4252.421" cy="4304.972" r="23.811" dataComponent="svg__seat" dataName=""/>
+                <circle fill="#C7C7C7" cx="4252.421" cy="4398.619" r="23.811" dataComponent="svg__seat" dataName=""/>
             </g>
         </g>
     </g>
