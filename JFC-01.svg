@@ -136,7 +136,7 @@
 			<text transform="matrix(1 0 0 1 7023.8281 4056.564)" fill="#8A8A8A" font-family="'DINPro'" font-size="88.8423">4</text>
 		</g>
 		<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M7497.365,3896.283v528c0,33-27,60-60,60h-1652"/>
-		
+
 			<line fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" x1="5404.559" y1="4740.283" x2="3300.818" y2="4740.283"/>
 		<path fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M7781.049,5402.675c0,33-27,60-60,60H3134.566
 			c-33,0-60-27-60-60V2277.325c0-33,27-60,60-60h4586.482c33,0,60,27,60,60V5402.675z"/>

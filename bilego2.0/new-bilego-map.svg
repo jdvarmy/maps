@@ -49,14 +49,14 @@
 		<?xpacket end="w"?>
 	</metadata>
 	<g id="background">
-		<path data-name="Танцевальный партер" data-id="585801936e55b2054f789fb4" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M4315.907999999999,3859.228a960.395,960.395 0 1,0 1920.79,0a960.395,960.395 0 1,0 -1920.79,0"/>
-		<path data-name="Super-VIP" data-id="99" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M6870.496,6528.397
+		<path name="Танцевальный партер" id="585801936e55b2054f789fb4" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M4315.907999999999,3859.228a960.395,960.395 0 1,0 1920.79,0a960.395,960.395 0 1,0 -1920.79,0"/>
+		<path name="Super-VIP" id="99" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M6870.496,6528.397
 			c28.536-16.574,38.216-53.418,21.51-81.878l-758.091-1291.469c-16.706-28.459-53.91-38.513-82.676-22.342
 			c0,0-75.643,42.523-151.233,70.313c-81.204,29.854-169.696,53.387-260.16,70.49c-89.673,16.955-181.284,27.591-269.651,31.805
 			c-88.368,4.214-190.332-2.685-190.332-2.685c-32.925-2.228-59.863,22.95-59.863,55.95v1546.681c0,33,26.981,61.005,59.958,62.233
 			c0,0,43.93,1.636,96.345,1.636c277.225,0,545.978-36.275,801.771-104.336c168.256-44.77,330.905-103.292,486.67-174.292
 			C6688.517,6634.089,6870.496,6528.397,6870.496,6528.397z"/>
-		<path data-name="Super-VIP" data-id="585801936e55b2054f789fad" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M5276.303,1583.03
+		<path name="Super-VIP" id="585801936e55b2054f789fad" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M5276.303,1583.03
 			c-206.232,0.247-412.353,27.714-611.071,82.963c-48.424,13.464-96.399,28.544-143.818,45.208
 			c-5.479,1.926-67.914,18.859-37.935,109.085c33.065,99.517,62.933,200.067,94.399,300.101
 			c12.431,39.517,24.861,79.034,37.292,118.552c3.078,9.784,6.155,19.568,9.233,29.352c0.465,1.479,0.931,2.959,1.396,4.439
@@ -73,14 +73,14 @@
 			c89.605-10.689,210.155-1.529,210.155-1.529c32.905,2.5,59.828-22.454,59.828-55.454c0,0,0-54.125,0-111.187
 			c0-107.873,0-215.745,0-323.618c0-63.71,0-127.421,0-191.131c0-58.219,0-116.438,0-174.657c0-96.057,0-208.069,0-304.125
 			C5422.802,1580.885,5377.578,1582.909,5276.303,1583.03z"/>
-		<path data-name="Super-VIP" data-id="585801936e55b2054f789fad" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M6028.909,1441.616
+		<path name="Super-VIP" id="585801936e55b2054f789fad" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M6028.909,1441.616
 			c-31.18-10.807-65.531,5.863-76.335,37.044l-454.701,1312.277c-10.804,31.181,6.111,64.799,37.589,74.705
 			c0,0,220.726,69.465,336.587,151.589c147.5,104.55,266.33,246.883,342.388,412.899c52.433,114.447,82.672,313.17,82.672,313.17
 			c4.964,32.624,8.148,79.542,7.075,104.26c-1.073,24.719,25.024,43.779,57.993,42.355l1384.328-59.766
 			c32.969-1.423,59.944-27.216,59.944-57.318c0-30.102-2.722-81.592-6.049-114.424c0,0-25.183-248.514-60.706-395.727
 			c-57.938-240.105-150.066-466.877-270.945-674.873c-125.935-216.697-283.076-413.014-465.269-582.8
 			c-156.069-145.44-330.521-271.411-519.488-374.046C6323.125,1543.589,6028.909,1441.616,6028.909,1441.616z"/>
-		<path data-name="VIP" data-id="585801936e55b2054f789fac" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M6246.21,830.433
+		<path name="VIP" id="585801936e55b2054f789fac" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M6246.21,830.433
 			c-31.326-10.376-66.218,6.496-77.536,37.495l-153.782,421.157c-11.319,30.998,4.971,65.089,36.199,75.756
 			c0,0,276.517,94.461,430.621,174.703c154.104,80.242,299.207,175.39,433.399,283.532
 			c326.06,262.763,587.699,602.242,757.5,991.018c64.104,146.771,115.118,300.569,151.567,459.917
@@ -88,7 +88,7 @@
 			c32.977-1.258,57.374-29.164,54.219-62.013c0,0-25.922-269.785-60.757-429.602c-93.566-429.268-275.896-831.765-525.678-1183.161
 			c-228.951-322.091-514.573-601.248-840.453-818.734c-148.521-99.119-305.403-185.429-469.094-257.155
 			C6421.37,888.451,6246.21,830.433,6246.21,830.433z"/>
-		<path data-name="VIP" data-id="585801936e55b2054f789fac" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M3751.65,5226.061
+		<path name="VIP" id="585801936e55b2054f789fac" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M3751.65,5226.061
 			c203.86-162.931,16.346-405.574-9.82-450.792c-0.002-0.003-0.002-0.003-0.002-0.003c-0.002-0.003-12.432-23.975-27.622-53.271
 			c0,0-106.867-206.101-149.518-348.156c-48.928-162.961-75.219-335.715-75.219-514.611
 			c0-648.152,345.103-1215.698,861.583-1528.925c0.006-0.004,0.013-0.01,0.02-0.013c0.028-0.016,0.057-0.033,0.085-0.05
@@ -100,7 +100,7 @@
 			c48.705,159.251,112.675,311.835,190.204,456.047c42.615,79.268,107.316,179.518,107.316,179.518
 			c17.895,27.727,41.746,61.826,53.002,75.775s43.389,11.096,71.406-6.342l91.611-57.019c28.017-17.438,72.659-15.666,99.206,3.938
 			c0,0,19.752,14.586,108.251,24.21C3628.885,5283.488,3692.052,5273.693,3751.65,5226.061z"/>
-		<path data-name="VIP" data-id="585801936e55b2054f789fac" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M2786.746,4647.257
+		<path name="VIP" id="585801936e55b2054f789fac" fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" d="M2786.746,4647.257
 			c-11.178-31.049-27.204-82.562-35.614-114.472c0,0-29.902-113.458-45.981-201.632c-27.915-153.071-42.496-310.796-42.496-471.926
 			c0-441.33,109.385-857.11,302.523-1221.71c127.968-241.574,292.703-460.68,486.75-649.863
 			c85.764-83.614,177.253-161.382,273.825-232.662c74.672-55.115,181.873-121.739,181.873-121.739
@@ -344,9 +344,9 @@
 		<text transform="matrix(1 0 0 1 3246.0508 5119.8564)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9056">3 ярус,VIP</text>
 		<text transform="matrix(1 0 0 1 5110.0283 961.4368)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9056">Бар</text>
 		<text transform="matrix(0.8481 0.5298 -0.5298 0.8481 4353.3862 5040.1304)">
-				<tspan x="0" y="0" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9056">2 ярус,</tspan>
+			<tspan x="0" y="0" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9056">2 ярус,</tspan>
 			<tspan x="0" y="103.487" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9056">Super VIP</tspan>
-			</text>
+		</text>
 		<path fill="none" d="M7328.896,1644.109c0,0,391.234,355.287,652.485,883.485"/>
 		<text transform="matrix(1 0 0 1 2189.7241 4774.1357)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9056">4 ярус,VIP</text>
 		<text transform="matrix(0.997 -0.0776 0.0776 0.997 6950.937 3740.5007)" fill="#8A8A8A" font-family="'DINPro-Bold'" font-size="92.9056">1 ярус, Super VIP</text>
@@ -370,414 +370,218 @@
 		<circle fill="#C7C7C7" cx="7257.58" cy="3283.179" r="33.274"/>
 	</g>
 	<g id="seats">
-		<g data-sector-id="585801936e55b2054f789fb4" data-component="sector">
-			<g data-component="row">
-				<circle fill="#C7C7C7" cx="5276.303" cy="3859.228" r="40" data-component="seat" data-multy="true"/>
+		<g sector="585801936e55b2054f789fb4" component="sector">
+			<g component="row">
+				<circle fill="#C7C7C7" cx="5276.303" cy="3859.228" r="40" component="seat" multi="true"/>
 			</g>
 		</g>
-		<g data-sector-id="99" data-component="sector">
-			<g data-component="row" data-name="стол 1">
-				<circle fill="#C7C7C7" cx="5662.727" cy="5779.818" r="33.274" data-component="seat" data-name="1"/>
-				<circle fill="#C7C7C7" cx="5580.507" cy="5867.132" r="33.274" data-component="seat" data-name="2"/>
-				<circle fill="#C7C7C7" cx="5613.79" cy="5959.632" r="33.274" data-component="seat" data-name="3"/>
-				<circle fill="#C7C7C7" cx="5723.556" cy="5967.584" r="33.274" data-component="seat" data-name="4"/>
+		<g sector="99" component="sector">
+			<g component="row" rowName="стол 1">
+				<circle fill="#C7C7C7" cx="5662.727" cy="5779.818" r="33.274" component="seat" name="1"/>
+				<circle fill="#C7C7C7" cx="5580.507" cy="5867.132" r="33.274" component="seat" name="2"/>
+				<circle fill="#C7C7C7" cx="5613.79" cy="5959.632" r="33.274" component="seat" name="3"/>
+				<circle fill="#C7C7C7" cx="5723.556" cy="5967.584" r="33.274" component="seat" name="4"/>
 			</g>
-			<g data-component="row" data-name="стол 2">
-				<circle fill="#C7C7C7" cx="5848.717" cy="6165.105" r="33.274" data-component="seat" data-name="1"/>
-				<circle fill="#C7C7C7" cx="5766.498" cy="6252.419" r="33.274" data-component="seat" data-name="2"/>
-				<circle fill="#C7C7C7" cx="5799.781" cy="6344.919" r="33.274" data-component="seat" data-name="3"/>
-				<circle fill="#C7C7C7" cx="5909.547" cy="6352.871" r="33.274" data-component="seat" data-name="4"/>
+			<g component="row" rowName="стол 2">
+				<circle fill="#C7C7C7" cx="5848.717" cy="6165.105" r="33.274" component="seat" name="1"/>
+				<circle fill="#C7C7C7" cx="5766.498" cy="6252.419" r="33.274" component="seat" name="2"/>
+				<circle fill="#C7C7C7" cx="5799.781" cy="6344.919" r="33.274" component="seat" name="3"/>
+				<circle fill="#C7C7C7" cx="5909.547" cy="6352.871" r="33.274" component="seat" name="4"/>
 			</g>
-			<g data-component="row" data-name="стол 3">
-				<circle fill="#C7C7C7" cx="6200.284" cy="5652.516" r="33.274" data-component="seat" data-name="1"/>
-				<circle fill="#C7C7C7" cx="6126.092" cy="5687.438" r="33.274" data-component="seat" data-name="2"/>
-				<circle fill="#C7C7C7" cx="6051.899" cy="5722.359" r="33.274" data-component="seat" data-name="3"/>
-				<circle fill="#C7C7C7" cx="5898.525" cy="5563.5" r="33.274" data-component="seat" data-name="4"/>
-				<circle fill="#C7C7C7" cx="5933.287" cy="5637.768" r="33.274" data-component="seat" data-name="5"/>
-				<circle fill="#C7C7C7" cx="5968.049" cy="5712.035" r="33.274" data-component="seat" data-name="6"/>
+			<g component="row" rowName="стол 3">
+				<circle fill="#C7C7C7" cx="6200.284" cy="5652.516" r="33.274" component="seat" name="1"/>
+				<circle fill="#C7C7C7" cx="6126.092" cy="5687.438" r="33.274" component="seat" name="2"/>
+				<circle fill="#C7C7C7" cx="6051.899" cy="5722.359" r="33.274" component="seat" name="3"/>
+				<circle fill="#C7C7C7" cx="5898.525" cy="5563.5" r="33.274" component="seat" name="4"/>
+				<circle fill="#C7C7C7" cx="5933.287" cy="5637.768" r="33.274" component="seat" name="5"/>
+				<circle fill="#C7C7C7" cx="5968.049" cy="5712.035" r="33.274" component="seat" name="6"/>
 			</g>
-			<g data-component="row" data-name="стол 4">
-				<circle fill="#C7C7C7" cx="6351.163" cy="5995.999" r="33.274" data-component="seat" data-name="1"/>
-				<circle fill="#C7C7C7" cx="6276.971" cy="6030.92" r="33.274" data-component="seat" data-name="2"/>
-				<circle fill="#C7C7C7" cx="6202.779" cy="6065.842" r="33.274" data-component="seat" data-name="3"/>
-				<circle fill="#C7C7C7" cx="6049.405" cy="5906.983" r="33.274" data-component="seat" data-name="4"/>
-				<circle fill="#C7C7C7" cx="6084.166" cy="5981.25" r="33.274" data-component="seat" data-name="5"/>
-				<circle fill="#C7C7C7" cx="6118.928" cy="6055.518" r="33.274" data-component="seat" data-name="6"/>
-			</g>
-			<g data-component="row" data-name="стол 5">
-				<circle fill="#C7C7C7" cx="6502.042" cy="6339.481" r="33.274" data-component="seat" data-name="1"/>
-				<circle fill="#C7C7C7" cx="6427.851" cy="6374.403" r="33.274" data-component="seat" data-name="2"/>
-				<circle fill="#C7C7C7" cx="6353.658" cy="6409.325" r="33.274" data-component="seat" data-name="3"/>
-				<circle fill="#C7C7C7" cx="6200.284" cy="6250.466" r="33.274" data-component="seat" data-name="4"/>
-				<circle fill="#C7C7C7" cx="6235.045" cy="6324.733" r="33.274" data-component="seat" data-name="5"/>
-				<circle fill="#C7C7C7" cx="6269.807" cy="6399.001" r="33.274" data-component="seat" data-name="6"/>
-			</g>
-			<g data-component="row" data-name="стол 6">
-				<circle fill="#C7C7C7" cx="6072.563" cy="6690.513" r="33.274" data-component="seat" data-name="1"/>
-				<circle fill="#C7C7C7" cx="5978.563" cy="6714.513" r="33.274" data-component="seat" data-name="2"/>
-				<circle fill="#C7C7C7" cx="5879.432" cy="6733.063" r="33.274" data-component="seat" data-name="3"/>
-				<circle fill="#C7C7C7" cx="5786.969" cy="6747.789" r="33.274" data-component="seat" data-name="4"/>
-				<circle fill="#C7C7C7" cx="5691.172" cy="6761.846" r="33.274" data-component="seat" data-name="5"/>
-				<circle fill="#C7C7C7" cx="5595.375" cy="6773.18" r="33.274" data-component="seat" data-name="6"/>
-				<circle fill="#C7C7C7" cx="5499.578" cy="6784.513" r="33.274" data-component="seat" data-name="7"/>
-				<circle fill="#C7C7C7" cx="5480.435" cy="6690.499" r="33.274" data-component="seat" data-name="8"/>
-				<circle fill="#C7C7C7" cx="5464.492" cy="6594.918" r="33.274" data-component="seat" data-name="9"/>
+			<g component="row" rowName="стол 4">
+				<circle fill="#C7C7C7" cx="6351.163" cy="5995.999" r="33.274" component="seat" name="1"/>
+				<circle fill="#C7C7C7" cx="6276.971" cy="6030.92" r="33.274" component="seat" name="2"/>
+				<circle fill="#C7C7C7" cx="6202.779" cy="6065.842" r="33.274" component="seat" name="3"/>
+				<circle fill="#C7C7C7" cx="6049.405" cy="5906.983" r="33.274" component="seat" name="4"/>
+				<circle fill="#C7C7C7" cx="6084.166" cy="5981.25" r="33.274" component="seat" name="5"/>
+				<circle fill="#C7C7C7" cx="6118.928" cy="6055.518" r="33.274" component="seat" name="6"/>
 			</g>
 		</g>
-		<g data-sector-id="585801936e55b2054f789fad" data-component="sector">
-			<g data-component="row" data-name="ряд 1">
-				<circle fill="#C7C7C7" cx="4827.797" cy="5106.075" r="33.274" data-component="seat" data-name="1"/>
-				<circle fill="#C7C7C7" cx="4866.481" cy="5033.773" r="33.274" data-component="seat" data-name="2"/>
-				<circle fill="#C7C7C7" cx="4679.636" cy="5020.348" r="33.274" data-component="seat" data-name="3"/>
-				<circle fill="#C7C7C7" cx="4718.32" cy="4948.046" r="33.274" data-component="seat" data-name="4"/>
-				<circle fill="#C7C7C7" cx="4581.848" cy="4960.859" r="33.274" data-component="seat" data-name="5"/>
-				<circle fill="#C7C7C7" cx="4632.349" cy="4896.256" r="33.274" data-component="seat" data-name="6"/>
-				<circle fill="#C7C7C7" cx="4450.568" cy="4851.011" r="33.274" data-component="seat" data-name="7"/>
-				<circle fill="#C7C7C7" cx="4501.07" cy="4786.408" r="33.274" data-component="seat" data-name="8"/>
-				<circle fill="#C7C7C7" cx="4475.349" cy="4968.256" r="33.274" data-component="seat" data-name="9"/>
-				<circle fill="#C7C7C7" cx="4363.431" cy="4774.136" r="33.274" data-component="seat" data-name="10"/>
-				<circle fill="#C7C7C7" cx="4426.098" cy="4721.251" r="33.274" data-component="seat" data-name="11"/>
-				<circle fill="#C7C7C7" cx="4257.444" cy="4639.72" r="33.274" data-component="seat" data-name="12"/>
-				<circle fill="#C7C7C7" cx="4320.111" cy="4586.834" r="33.274" data-component="seat" data-name="13"/>
-				<circle fill="#C7C7C7" cx="4187.772" cy="4547.003" r="33.274" data-component="seat" data-name="14"/>
-				<circle fill="#C7C7C7" cx="4259.806" cy="4507.822" r="33.274" data-component="seat" data-name="15"/>
-				<circle fill="#C7C7C7" cx="4111.026" cy="4393.997" r="33.274" data-component="seat" data-name="16"/>
-				<circle fill="#C7C7C7" cx="4183.06" cy="4354.816" r="33.274" data-component="seat" data-name="17"/>
-				<circle fill="#C7C7C7" cx="4072.58" cy="4288.253" r="33.274" data-component="seat" data-name="18"/>
-				<circle fill="#C7C7C7" cx="4151.334" cy="4265.409" r="33.274" data-component="seat" data-name="19"/>
-				<circle fill="#C7C7C7" cx="4030.387" cy="4122.359" r="33.274" data-component="seat" data-name="20"/>
-				<circle fill="#C7C7C7" cx="4109.141" cy="4099.516" r="33.274" data-component="seat" data-name="21"/>
-				<circle fill="#C7C7C7" cx="4012.524" cy="4018.408" r="33.274" data-component="seat" data-name="22"/>
-				<circle fill="#C7C7C7" cx="4093.954" cy="4008.759" r="33.274" data-component="seat" data-name="23"/>
-				<circle fill="#C7C7C7" cx="3998.044" cy="3847.847" r="33.274" data-component="seat" data-name="24"/>
-				<circle fill="#C7C7C7" cx="4079.475" cy="3838.198" r="33.274" data-component="seat" data-name="25"/>
-				<circle fill="#C7C7C7" cx="3999.778" cy="3734.224" r="33.274" data-component="seat" data-name="26"/>
-				<circle fill="#C7C7C7" cx="4081.14" cy="3744.434" r="33.274" data-component="seat" data-name="27"/>
-				<circle fill="#C7C7C7" cx="4026.728" cy="3565.183" r="33.274" data-component="seat" data-name="28"/>
-				<circle fill="#C7C7C7" cx="4108.09" cy="3575.394" r="33.274" data-component="seat" data-name="29"/>
-				<circle fill="#C7C7C7" cx="4054.038" cy="3459.236" r="33.274" data-component="seat" data-name="30"/>
-				<circle fill="#C7C7C7" cx="4132.402" cy="3483.384" r="33.274" data-component="seat" data-name="31"/>
-				<circle fill="#C7C7C7" cx="4109.858" cy="3297.418" r="33.274" data-component="seat" data-name="32"/>
-				<circle fill="#C7C7C7" cx="4188.222" cy="3321.567" r="33.274" data-component="seat" data-name="33"/>
-				<circle fill="#C7C7C7" cx="4165.678" cy="3187.127" r="33.274" data-component="seat" data-name="34"/>
-				<circle fill="#C7C7C7" cx="4232.348" cy="3234.868" r="33.274" data-component="seat" data-name="35"/>
-				<circle fill="#C7C7C7" cx="4269.91" cy="3051.345" r="33.274" data-component="seat" data-name="36"/>
-				<circle fill="#C7C7C7" cx="4336.58" cy="3099.087" r="33.274" data-component="seat" data-name="37"/>
-				<circle fill="#C7C7C7" cx="4349.182" cy="2961.775" r="33.274" data-component="seat" data-name="38"/>
-				<circle fill="#C7C7C7" cx="4405.983" cy="3020.916" r="33.274" data-component="seat" data-name="39"/>
-				<circle fill="#C7C7C7" cx="4476.514" cy="2847.374" r="33.274" data-component="seat" data-name="40"/>
-				<circle fill="#C7C7C7" cx="4571.795" cy="2769.758" r="33.274" data-component="seat" data-name="41"/>
-				<circle fill="#C7C7C7" cx="4614.564" cy="2839.721" r="33.274" data-component="seat" data-name="42"/>
-				<circle fill="#C7C7C7" cx="4720.73" cy="2685.382" r="33.274" data-component="seat" data-name="43"/>
-				<circle fill="#C7C7C7" cx="4760.73" cy="2755.382" r="33.274" data-component="seat" data-name="44"/>
-				<circle fill="#C7C7C7" cx="4815.224" cy="2515.994" r="33.274" data-component="seat" data-name="45"/>
-				<circle fill="#C7C7C7" cx="4834.498" cy="2595.697" r="33.274" data-component="seat" data-name="46"/>
-				<circle fill="#C7C7C7" cx="4982.095" cy="2474.001" r="33.274" data-component="seat" data-name="47"/>
-				<circle fill="#C7C7C7" cx="5001.369" cy="2553.704" r="33.274" data-component="seat" data-name="48"/>
-				<circle fill="#C7C7C7" cx="5132.405" cy="2445.681" r="33.274" data-component="seat" data-name="49"/>
-				<circle fill="#C7C7C7" cx="5137.906" cy="2527.497" r="33.274" data-component="seat" data-name="50"/>
-				<circle fill="#C7C7C7" cx="5175.402" cy="2371.292" r="33.274" data-component="seat" data-name="51"/>
-				<circle fill="#C7C7C7" cx="5257.146" cy="2364.818" r="33.274" data-component="seat" data-name="52"/>
-				<circle fill="#C7C7C7" cx="5112.236" cy="2142.622" r="33.274" data-component="seat" data-name="53"/>
-				<circle fill="#C7C7C7" cx="5117.223" cy="2224.47" r="33.274" data-component="seat" data-name="54"/>
-				<circle fill="#C7C7C7" cx="5151.354" cy="2068.052" r="33.274" data-component="seat" data-name="55"/>
-				<circle fill="#C7C7C7" cx="5233.136" cy="2062.092" r="33.274" data-component="seat" data-name="56"/>
-				<circle fill="#C7C7C7" cx="5083.691" cy="1797.007" r="33.274" data-component="seat" data-name="57"/>
-				<circle fill="#C7C7C7" cx="5088.679" cy="1878.855" r="33.274" data-component="seat" data-name="58"/>
-				<circle fill="#C7C7C7" cx="5122.809" cy="1722.437" r="33.274" data-component="seat" data-name="59"/>
-				<circle fill="#C7C7C7" cx="5204.592" cy="1716.476" r="33.274" data-component="seat" data-name="60"/>
-				<circle fill="#C7C7C7" cx="4755.683" cy="2311.295" r="33.274" data-component="seat" data-name="61"/>
-				<circle fill="#C7C7C7" cx="4789.509" cy="2203.76" r="33.274" data-component="seat" data-name="62"/>
-				<circle fill="#C7C7C7" cx="4875.014" cy="2188.102" r="33.274" data-component="seat" data-name="63"/>
-				<circle fill="#C7C7C7" cx="4945.209" cy="2275.156" r="33.274" data-component="seat" data-name="64"/>
-				<circle fill="#C7C7C7" cx="4712.057" cy="2042.208" r="33.274" data-component="seat" data-name="65"/>
-				<circle fill="#C7C7C7" cx="4745.882" cy="1934.673" r="33.274" data-component="seat" data-name="66"/>
-				<circle fill="#C7C7C7" cx="4831.387" cy="1919.015" r="33.274" data-component="seat" data-name="67"/>
-				<circle fill="#C7C7C7" cx="4901.583" cy="2006.069" r="33.274" data-component="seat" data-name="68"/>
-				<circle fill="#C7C7C7" cx="4229.524" cy="4973.179" r="33.274" data-component="seat" data-name="69"/>
-				<circle fill="#C7C7C7" cx="4114.716" cy="4818.114" r="33.274" data-component="seat" data-name="70"/>
-				<circle fill="#C7C7C7" cx="4036.048" cy="4709.404" r="33.274" data-component="seat" data-name="71"/>
-				<circle fill="#C7C7C7" cx="3939.845" cy="4542.158" r="33.274" data-component="seat" data-name="72"/>
-				<circle fill="#C7C7C7" cx="3884.73" cy="4419.689" r="33.274" data-component="seat" data-name="73"/>
-				<circle fill="#C7C7C7" cx="3818.862" cy="4238.339" r="33.274" data-component="seat" data-name="74"/>
-				<circle fill="#C7C7C7" cx="3784.933" cy="4099.516" r="33.274" data-component="seat" data-name="75"/>
-				<circle fill="#C7C7C7" cx="3769.864" cy="3907.164" r="33.274" data-component="seat" data-name="76"/>
-				<circle fill="#C7C7C7" cx="3768.866" cy="3784.146" r="33.274" data-component="seat" data-name="77"/>
-				<circle fill="#C7C7C7" cx="3796.498" cy="3593.194" r="33.274" data-component="seat" data-name="78"/>
-				<circle fill="#C7C7C7" cx="3822.899" cy="3453.97" r="33.274" data-component="seat" data-name="79"/>
-				<circle fill="#C7C7C7" cx="3888.38" cy="3272.48" r="33.274" data-component="seat" data-name="80"/>
-				<circle fill="#C7C7C7" cx="3962.417" cy="3133.293" r="33.274" data-component="seat" data-name="81"/>
-				<circle fill="#C7C7C7" cx="4064.223" cy="2969.397" r="33.274" data-component="seat" data-name="82"/>
-				<circle fill="#C7C7C7" cx="4158.382" cy="2837.702" r="33.274" data-component="seat" data-name="83"/>
-				<circle fill="#C7C7C7" cx="4306.313" cy="2713.837" r="33.274" data-component="seat" data-name="84"/>
-				<circle fill="#C7C7C7" cx="4434.783" cy="2614.528" r="33.274" data-component="seat" data-name="85"/>
-				<circle fill="#C7C7C7" cx="4603.599" cy="2521.107" r="33.274" data-component="seat" data-name="86"/>
-				<circle fill="#C7C7C7" cx="6146.834" cy="1644.941" r="33.274" data-component="seat" data-name="87"/>
-				<circle fill="#C7C7C7" cx="6105.755" cy="1724.734" r="33.274" data-component="seat" data-name="88"/>
-				<circle fill="#C7C7C7" cx="6072.295" cy="1813.554" r="33.274" data-component="seat" data-name="89"/>
-				<circle fill="#C7C7C7" cx="6226.762" cy="1681.52" r="33.274" data-component="seat" data-name="90"/>
-				<circle fill="#C7C7C7" cx="6308.845" cy="1722.707" r="33.274" data-component="seat" data-name="91"/>
-				<circle fill="#C7C7C7" cx="6389.194" cy="1765.863" r="33.274" data-component="seat" data-name="92"/>
-				<circle fill="#C7C7C7" cx="6050.77" cy="1954.205" r="33.274" data-component="seat" data-name="93"/>
-				<circle fill="#C7C7C7" cx="5951.439" cy="2011.385" r="33.274" data-component="seat" data-name="94"/>
-				<circle fill="#C7C7C7" cx="5959.178" cy="2126.962" r="33.274" data-component="seat" data-name="95"/>
-				<circle fill="#C7C7C7" cx="6123.172" cy="1992.699" r="33.274" data-component="seat" data-name="96"/>
-				<circle fill="#C7C7C7" cx="6195.575" cy="2031.194" r="33.274" data-component="seat" data-name="97"/>
-				<circle fill="#C7C7C7" cx="5877.774" cy="2261.345" r="33.274" data-component="seat" data-name="98"/>
-				<circle fill="#C7C7C7" cx="5843.569" cy="2335.87" r="33.274" data-component="seat" data-name="99"/>
-				<circle fill="#C7C7C7" cx="5809.364" cy="2410.396" r="33.274" data-component="seat" data-name="100"/>
-				<circle fill="#C7C7C7" cx="5991.427" cy="2246.542" r="33.274" data-component="seat" data-name="101"/>
-				<circle fill="#C7C7C7" cx="6055.39" cy="2343.116" r="33.274" data-component="seat" data-name="102"/>
-				<circle fill="#C7C7C7" cx="5741.537" cy="2570.397" r="33.274" data-component="seat" data-name="103"/>
-				<circle fill="#C7C7C7" cx="5707.333" cy="2644.923" r="33.274" data-component="seat" data-name="104"/>
-				<circle fill="#C7C7C7" cx="5673.128" cy="2719.448" r="33.274" data-component="seat" data-name="105"/>
-				<circle fill="#C7C7C7" cx="5855.19" cy="2555.594" r="33.274" data-component="seat" data-name="106"/>
-				<circle fill="#C7C7C7" cx="6654.443" cy="1898.46" r="33.274" data-component="seat" data-name="107"/>
-				<circle fill="#C7C7C7" cx="6595.914" cy="1966.495" r="33.274" data-component="seat" data-name="108"/>
-				<circle fill="#C7C7C7" cx="6542.692" cy="2045.082" r="33.274" data-component="seat" data-name="109"/>
-				<circle fill="#C7C7C7" cx="6723.657" cy="1952.644" r="33.274" data-component="seat" data-name="110"/>
-				<circle fill="#C7C7C7" cx="6793.894" cy="2011.812" r="33.274" data-component="seat" data-name="111"/>
-				<circle fill="#C7C7C7" cx="6861.986" cy="2072.491" r="33.274" data-component="seat" data-name="112"/>
-				<circle fill="#C7C7C7" cx="6489.008" cy="2176.855" r="33.274" data-component="seat" data-name="113"/>
-				<circle fill="#C7C7C7" cx="6379.094" cy="2209.335" r="33.274" data-component="seat" data-name="114"/>
-				<circle fill="#C7C7C7" cx="6359.708" cy="2323.537" r="33.274" data-component="seat" data-name="115"/>
-				<circle fill="#C7C7C7" cx="6550.458" cy="2231.151" r="33.274" data-component="seat" data-name="116"/>
-				<circle fill="#C7C7C7" cx="6611.907" cy="2285.446" r="33.274" data-component="seat" data-name="117"/>
-				<circle fill="#C7C7C7" cx="6249.251" cy="2435.271" r="33.274" data-component="seat" data-name="118"/>
-				<circle fill="#C7C7C7" cx="6198.634" cy="2499.784" r="33.274" data-component="seat" data-name="119"/>
-				<circle fill="#C7C7C7" cx="6148.016" cy="2564.296" r="33.274" data-component="seat" data-name="120"/>
-				<circle fill="#C7C7C7" cx="6363.228" cy="2447.339" r="33.274" data-component="seat" data-name="121"/>
-				<circle fill="#C7C7C7" cx="6402.945" cy="2556.153" r="33.274" data-component="seat" data-name="122"/>
-				<circle fill="#C7C7C7" cx="6044.797" cy="2704.107" r="33.274" data-component="seat" data-name="123"/>
-				<circle fill="#C7C7C7" cx="5994.18" cy="2768.62" r="33.274" data-component="seat" data-name="124"/>
-				<circle fill="#C7C7C7" cx="5943.563" cy="2833.132" r="33.274" data-component="seat" data-name="125"/>
-				<circle fill="#C7C7C7" cx="6158.773" cy="2716.175" r="33.274" data-component="seat" data-name="126"/>
-				<circle fill="#C7C7C7" cx="7041.64" cy="2236.937" r="33.274" data-component="seat" data-name="127"/>
-				<circle fill="#C7C7C7" cx="6970.485" cy="2291.63" r="33.274" data-component="seat" data-name="128"/>
-				<circle fill="#C7C7C7" cx="6902.378" cy="2357.736" r="33.274" data-component="seat" data-name="129"/>
-				<circle fill="#C7C7C7" cx="7098.372" cy="2304.078" r="33.274" data-component="seat" data-name="130"/>
-				<circle fill="#C7C7C7" cx="7155.092" cy="2376.306" r="33.274" data-component="seat" data-name="131"/>
-				<circle fill="#C7C7C7" cx="7209.404" cy="2449.577" r="33.274" data-component="seat" data-name="132"/>
-				<circle fill="#C7C7C7" cx="6766.844" cy="2482.852" r="33.274" data-component="seat" data-name="133"/>
-				<circle fill="#C7C7C7" cx="6704.152" cy="2535.708" r="33.274" data-component="seat" data-name="134"/>
-				<circle fill="#C7C7C7" cx="6641.461" cy="2588.564" r="33.274" data-component="seat" data-name="135"/>
-				<circle fill="#C7C7C7" cx="6875.977" cy="2517.872" r="33.274" data-component="seat" data-name="136"/>
-				<circle fill="#C7C7C7" cx="6892.709" cy="2632.492" r="33.274" data-component="seat" data-name="137"/>
-				<circle fill="#C7C7C7" cx="6511.741" cy="2695.628" r="33.274" data-component="seat" data-name="138"/>
-				<circle fill="#C7C7C7" cx="6449.049" cy="2748.484" r="33.274" data-component="seat" data-name="139"/>
-				<circle fill="#C7C7C7" cx="6386.357" cy="2801.34" r="33.274" data-component="seat" data-name="140"/>
-				<circle fill="#C7C7C7" cx="6620.873" cy="2730.648" r="33.274" data-component="seat" data-name="141"/>
-				<circle fill="#C7C7C7" cx="6637.605" cy="2845.269" r="33.274" data-component="seat" data-name="142"/>
-				<circle fill="#C7C7C7" cx="6256.836" cy="2917.208" r="33.274" data-component="seat" data-name="143"/>
-				<circle fill="#C7C7C7" cx="6194.145" cy="2970.064" r="33.274" data-component="seat" data-name="144"/>
-				<circle fill="#C7C7C7" cx="6131.453" cy="3022.92" r="33.274" data-component="seat" data-name="145"/>
-				<circle fill="#C7C7C7" cx="6365.968" cy="2952.228" r="33.274" data-component="seat" data-name="146"/>
-				<circle fill="#C7C7C7" cx="7345.95" cy="2661.765" r="33.274" data-component="seat" data-name="147"/>
-				<circle fill="#C7C7C7" cx="7265.648" cy="2701.84" r="33.274" data-component="seat" data-name="148"/>
-				<circle fill="#C7C7C7" cx="7186.154" cy="2753.698" r="33.274" data-component="seat" data-name="149"/>
-				<circle fill="#C7C7C7" cx="7388.793" cy="2738.518" r="33.274" data-component="seat" data-name="150"/>
-				<circle fill="#C7C7C7" cx="7430.65" cy="2820.261" r="33.274" data-component="seat" data-name="151"/>
-				<circle fill="#C7C7C7" cx="7469.945" cy="2902.568" r="33.274" data-component="seat" data-name="152"/>
-				<circle fill="#C7C7C7" cx="7392.293" cy="2965.986" r="33.274" data-component="seat" data-name="153"/>
-				<circle fill="#C7C7C7" cx="7056.499" cy="2822.026" r="33.274" data-component="seat" data-name="154"/>
-				<circle fill="#C7C7C7" cx="6976.197" cy="2862.1" r="33.274" data-component="seat" data-name="155"/>
-				<circle fill="#C7C7C7" cx="6896.703" cy="2913.959" r="33.274" data-component="seat" data-name="156"/>
-				<circle fill="#C7C7C7" cx="7099.342" cy="2898.778" r="33.274" data-component="seat" data-name="157"/>
-				<circle fill="#C7C7C7" cx="7141.199" cy="2980.522" r="33.274" data-component="seat" data-name="158"/>
-				<circle fill="#C7C7C7" cx="7180.495" cy="3062.829" r="33.274" data-component="seat" data-name="159"/>
-				<circle fill="#C7C7C7" cx="7102.842" cy="3126.247" r="33.274" data-component="seat" data-name="160"/>
-				<circle fill="#C7C7C7" cx="6738.101" cy="3010.635" r="33.274" data-component="seat" data-name="161"/>
-				<circle fill="#C7C7C7" cx="6666.457" cy="3050.524" r="33.274" data-component="seat" data-name="162"/>
-				<circle fill="#C7C7C7" cx="6594.813" cy="3090.413" r="33.274" data-component="seat" data-name="163"/>
-				<circle fill="#C7C7C7" cx="6838.52" cy="3065.881" r="33.274" data-component="seat" data-name="164"/>
-				<circle fill="#C7C7C7" cx="6833.02" cy="3181.586" r="33.274" data-component="seat" data-name="165"/>
-				<circle fill="#C7C7C7" cx="6445.521" cy="3179.368" r="33.274" data-component="seat" data-name="166"/>
-				<circle fill="#C7C7C7" cx="6373.876" cy="3219.257" r="33.274" data-component="seat" data-name="167"/>
-				<circle fill="#C7C7C7" cx="6302.232" cy="3259.146" r="33.274" data-component="seat" data-name="168"/>
-				<circle fill="#C7C7C7" cx="6545.939" cy="3234.615" r="33.274" data-component="seat" data-name="169"/>
-				<circle fill="#C7C7C7" cx="7575.18" cy="3200.782" r="33.274" data-component="seat" data-name="170"/>
-				<circle fill="#C7C7C7" cx="7595.728" cy="3280.166" r="33.274" data-component="seat" data-name="171"/>
-				<circle fill="#C7C7C7" cx="7616.275" cy="3359.55" r="33.274" data-component="seat" data-name="172"/>
-				<circle fill="#C7C7C7" cx="7385.433" cy="3249.896" r="33.274" data-component="seat" data-name="173"/>
-				<circle fill="#C7C7C7" cx="7405.981" cy="3329.28" r="33.274" data-component="seat" data-name="174"/>
-				<circle fill="#C7C7C7" cx="7426.528" cy="3408.664" r="33.274" data-component="seat" data-name="175"/>
-			</g>
-		</g>
-		<g data-sector-id="585801936e55b2054f789fac" data-component="sector">
-			<g data-component="row" data-name="ряд 1">
-				<circle fill="#C7C7C7" cx="2410.955" cy="4506.298" r="33.274" data-component="seat" data-name="1"/>
-				<circle fill="#C7C7C7" cx="2491.33" cy="4490.055" r="33.274" data-component="seat" data-name="2"/>
-				<circle fill="#C7C7C7" cx="2571.705" cy="4473.813" r="33.274" data-component="seat" data-name="3"/>
-				<circle fill="#C7C7C7" cx="2372.13" cy="4314.182" r="33.274" data-component="seat" data-name="4"/>
-				<circle fill="#C7C7C7" cx="2452.505" cy="4297.939" r="33.274" data-component="seat" data-name="5"/>
-				<circle fill="#C7C7C7" cx="2532.88" cy="4281.696" r="33.274" data-component="seat" data-name="6"/>
-				<circle fill="#C7C7C7" cx="2345.808" cy="4052.832" r="33.274" data-component="seat" data-name="7"/>
-				<circle fill="#C7C7C7" cx="2427.781" cy="4050.715" r="33.274" data-component="seat" data-name="8"/>
-				<circle fill="#C7C7C7" cx="2509.754" cy="4048.598" r="33.274" data-component="seat" data-name="9"/>
-				<circle fill="#C7C7C7" cx="2340.748" cy="3856.897" r="33.274" data-component="seat" data-name="10"/>
-				<circle fill="#C7C7C7" cx="2422.721" cy="3854.78" r="33.274" data-component="seat" data-name="11"/>
-				<circle fill="#C7C7C7" cx="2504.694" cy="3852.663" r="33.274" data-component="seat" data-name="12"/>
-				<circle fill="#C7C7C7" cx="2356.658" cy="3646.928" r="33.274" data-component="seat" data-name="13"/>
-				<circle fill="#C7C7C7" cx="2438.644" cy="3648.493" r="33.274" data-component="seat" data-name="14"/>
-				<circle fill="#C7C7C7" cx="2520.629" cy="3650.058" r="33.274" data-component="seat" data-name="15"/>
-				<circle fill="#C7C7C7" cx="2360.399" cy="3450.963" r="33.274" data-component="seat" data-name="16"/>
-				<circle fill="#C7C7C7" cx="2442.384" cy="3452.528" r="33.274" data-component="seat" data-name="17"/>
-				<circle fill="#C7C7C7" cx="2524.369" cy="3454.093" r="33.274" data-component="seat" data-name="18"/>
-				<circle fill="#C7C7C7" cx="2413.434" cy="3237.979" r="33.274" data-component="seat" data-name="19"/>
-				<circle fill="#C7C7C7" cx="2493.524" cy="3255.574" r="33.274" data-component="seat" data-name="20"/>
-				<circle fill="#C7C7C7" cx="2573.614" cy="3273.169" r="33.274" data-component="seat" data-name="21"/>
-				<circle fill="#C7C7C7" cx="2455.49" cy="3046.544" r="33.274" data-component="seat" data-name="22"/>
-				<circle fill="#C7C7C7" cx="2535.58" cy="3064.139" r="33.274" data-component="seat" data-name="23"/>
-				<circle fill="#C7C7C7" cx="2615.67" cy="3081.734" r="33.274" data-component="seat" data-name="24"/>
-				<circle fill="#C7C7C7" cx="2519.664" cy="2846.496" r="33.274" data-component="seat" data-name="25"/>
-				<circle fill="#C7C7C7" cx="2595.585" cy="2877.479" r="33.274" data-component="seat" data-name="26"/>
-				<circle fill="#C7C7C7" cx="2671.506" cy="2908.462" r="33.274" data-component="seat" data-name="27"/>
-				<circle fill="#C7C7C7" cx="2593.721" cy="2665.025" r="33.274" data-component="seat" data-name="28"/>
-				<circle fill="#C7C7C7" cx="2669.642" cy="2696.008" r="33.274" data-component="seat" data-name="29"/>
-				<circle fill="#C7C7C7" cx="2745.563" cy="2726.992" r="33.274" data-component="seat" data-name="30"/>
-				<circle fill="#C7C7C7" cx="2716.669" cy="2433.48" r="33.274" data-component="seat" data-name="31"/>
-				<circle fill="#C7C7C7" cx="2789.823" cy="2470.526" r="33.274" data-component="seat" data-name="32"/>
-				<circle fill="#C7C7C7" cx="2862.978" cy="2507.571" r="33.274" data-component="seat" data-name="33"/>
-				<circle fill="#C7C7C7" cx="2805.216" cy="2258.622" r="33.274" data-component="seat" data-name="34"/>
-				<circle fill="#C7C7C7" cx="2878.371" cy="2295.668" r="33.274" data-component="seat" data-name="35"/>
-				<circle fill="#C7C7C7" cx="2951.526" cy="2332.713" r="33.274" data-component="seat" data-name="36"/>
-				<circle fill="#C7C7C7" cx="2984.8" cy="2024.437" r="33.274" data-component="seat" data-name="37"/>
-				<circle fill="#C7C7C7" cx="3043.958" cy="2081.221" r="33.274" data-component="seat" data-name="38"/>
-				<circle fill="#C7C7C7" cx="3103.115" cy="2138.004" r="33.274" data-component="seat" data-name="39"/>
-				<circle fill="#C7C7C7" cx="3120.527" cy="1883.036" r="33.274" data-component="seat" data-name="40"/>
-				<circle fill="#C7C7C7" cx="3179.685" cy="1939.82" r="33.274" data-component="seat" data-name="41"/>
-				<circle fill="#C7C7C7" cx="3238.842" cy="1996.603" r="33.274" data-component="seat" data-name="42"/>
-				<circle fill="#C7C7C7" cx="3283.407" cy="1711.554" r="33.274" data-component="seat" data-name="43"/>
-				<circle fill="#C7C7C7" cx="3337.958" cy="1772.777" r="33.274" data-component="seat" data-name="44"/>
-				<circle fill="#C7C7C7" cx="3392.508" cy="1834" r="33.274" data-component="seat" data-name="45"/>
-				<circle fill="#C7C7C7" cx="3429.745" cy="1581.165" r="33.274" data-component="seat" data-name="46"/>
-				<circle fill="#C7C7C7" cx="3484.295" cy="1642.388" r="33.274" data-component="seat" data-name="47"/>
-				<circle fill="#C7C7C7" cx="3538.846" cy="1703.611" r="33.274" data-component="seat" data-name="48"/>
-				<circle fill="#C7C7C7" cx="2220.455" cy="4554.629" r="33.274" data-component="seat" data-name="49"/>
-				<circle fill="#C7C7C7" cx="2103.455" cy="4485.129" r="33.274" data-component="seat" data-name="50"/>
-				<circle fill="#C7C7C7" cx="2176.015" cy="4362.324" r="33.274" data-component="seat" data-name="51"/>
-				<circle fill="#C7C7C7" cx="2148.234" cy="4061.968" r="33.274" data-component="seat" data-name="52"/>
-				<circle fill="#C7C7C7" cx="2044.94" cy="3973.37" r="33.274" data-component="seat" data-name="53"/>
-				<circle fill="#C7C7C7" cx="2137.551" cy="3864.884" r="33.274" data-component="seat" data-name="54"/>
-				<circle fill="#C7C7C7" cx="2156.448" cy="3618.531" r="33.274" data-component="seat" data-name="55"/>
-				<circle fill="#C7C7C7" cx="2062.356" cy="3520.216" r="33.274" data-component="seat" data-name="56"/>
-				<circle fill="#C7C7C7" cx="2165.177" cy="3421.352" r="33.274" data-component="seat" data-name="57"/>
-				<circle fill="#C7C7C7" cx="2219.449" cy="3183.636" r="33.274" data-component="seat" data-name="58"/>
-				<circle fill="#C7C7C7" cx="2144.687" cy="3069.927" r="33.274" data-component="seat" data-name="59"/>
-				<circle fill="#C7C7C7" cx="2263.69" cy="2991.286" r="33.274" data-component="seat" data-name="60"/>
-				<circle fill="#C7C7C7" cx="2334.725" cy="2779.93" r="33.274" data-component="seat" data-name="61"/>
-				<circle fill="#C7C7C7" cx="2271.78" cy="2659.277" r="33.274" data-component="seat" data-name="62"/>
-				<circle fill="#C7C7C7" cx="2398.09" cy="2593.004" r="33.274" data-component="seat" data-name="63"/>
-				<circle fill="#C7C7C7" cx="2517.49" cy="2356.548" r="33.274" data-component="seat" data-name="64"/>
-				<circle fill="#C7C7C7" cx="2483.877" cy="2224.679" r="33.274" data-component="seat" data-name="65"/>
-				<circle fill="#C7C7C7" cx="2622.015" cy="2189.125" r="33.274" data-component="seat" data-name="66"/>
-				<circle fill="#C7C7C7" cx="2803.552" cy="1932.428" r="33.274" data-component="seat" data-name="67"/>
-				<circle fill="#C7C7C7" cx="2789.485" cy="1797.071" r="33.274" data-component="seat" data-name="68"/>
-				<circle fill="#C7C7C7" cx="2931.326" cy="1781.996" r="33.274" data-component="seat" data-name="69"/>
-				<circle fill="#C7C7C7" cx="3155.815" cy="1541.829" r="33.274" data-component="seat" data-name="70"/>
-				<circle fill="#C7C7C7" cx="3163.69" cy="1405.971" r="33.274" data-component="seat" data-name="71"/>
-				<circle fill="#C7C7C7" cx="3306.11" cy="1413.893" r="33.274" data-component="seat" data-name="72"/>
-				<circle fill="#C7C7C7" cx="3547.244" cy="4909.188" r="33.274" data-component="seat" data-name="73"/>
-				<circle fill="#C7C7C7" cx="3617.341" cy="4866.638" r="33.274" data-component="seat" data-name="74"/>
-				<circle fill="#C7C7C7" cx="3447.31" cy="4911.354" r="33.274" data-component="seat" data-name="75"/>
-				<circle fill="#C7C7C7" cx="3403.31" cy="4834.871" r="33.274" data-component="seat" data-name="76"/>
-				<circle fill="#C7C7C7" cx="3443.771" cy="4738.307" r="33.274" data-component="seat" data-name="77"/>
-				<circle fill="#C7C7C7" cx="3513.868" cy="4695.757" r="33.274" data-component="seat" data-name="78"/>
-				<circle fill="#C7C7C7" cx="3369.251" cy="4602.753" r="33.274" data-component="seat" data-name="79"/>
-				<circle fill="#C7C7C7" cx="3447.02" cy="4576.753" r="33.274" data-component="seat" data-name="80"/>
-				<circle fill="#C7C7C7" cx="3306.116" cy="4413.225" r="33.274" data-component="seat" data-name="81"/>
-				<circle fill="#C7C7C7" cx="3383.885" cy="4387.225" r="33.274" data-component="seat" data-name="82"/>
-				<circle fill="#C7C7C7" cx="3233.829" cy="4130.576" r="33.274" data-component="seat" data-name="83"/>
-				<circle fill="#C7C7C7" cx="3315.718" cy="4126.32" r="33.274" data-component="seat" data-name="84"/>
-				<circle fill="#C7C7C7" cx="3223.678" cy="3931.066" r="33.274" data-component="seat" data-name="85"/>
-				<circle fill="#C7C7C7" cx="3305.568" cy="3926.811" r="33.274" data-component="seat" data-name="86"/>
-				<circle fill="#C7C7C7" cx="3224.661" cy="3774.659" r="33.274" data-component="seat" data-name="87"/>
-				<circle fill="#C7C7C7" cx="3306.11" cy="3784.146" r="33.274" data-component="seat" data-name="88"/>
-				<circle fill="#C7C7C7" cx="3247.987" cy="3576.258" r="33.274" data-component="seat" data-name="89"/>
-				<circle fill="#C7C7C7" cx="3329.437" cy="3585.744" r="33.274" data-component="seat" data-name="90"/>
-				<circle fill="#C7C7C7" cx="3275.265" cy="3422.981" r="33.274" data-component="seat" data-name="91"/>
-				<circle fill="#C7C7C7" cx="3354.638" cy="3443.57" r="33.274" data-component="seat" data-name="92"/>
-				<circle fill="#C7C7C7" cx="3325.634" cy="3229.667" r="33.274" data-component="seat" data-name="93"/>
-				<circle fill="#C7C7C7" cx="3405.007" cy="3250.256" r="33.274" data-component="seat" data-name="94"/>
-				<circle fill="#C7C7C7" cx="3379.905" cy="3063.582" r="33.274" data-component="seat" data-name="95"/>
-				<circle fill="#C7C7C7" cx="3453.847" cy="3099.031" r="33.274" data-component="seat" data-name="96"/>
-				<circle fill="#C7C7C7" cx="3466.461" cy="2883.54" r="33.274" data-component="seat" data-name="97"/>
-				<circle fill="#C7C7C7" cx="3540.403" cy="2918.989" r="33.274" data-component="seat" data-name="98"/>
-				<circle fill="#C7C7C7" cx="3540.399" cy="2752.279" r="33.274" data-component="seat" data-name="99"/>
-				<circle fill="#C7C7C7" cx="3609.878" cy="2795.83" r="33.274" data-component="seat" data-name="100"/>
-				<circle fill="#C7C7C7" cx="3749.436" cy="2454.839" r="33.274" data-component="seat" data-name="101"/>
-				<circle fill="#C7C7C7" cx="3803.401" cy="2516.578" r="33.274" data-component="seat" data-name="102"/>
-				<circle fill="#C7C7C7" cx="3899.988" cy="2323.532" r="33.274" data-component="seat" data-name="103"/>
-				<circle fill="#C7C7C7" cx="3953.953" cy="2385.271" r="33.274" data-component="seat" data-name="104"/>
-				<circle fill="#C7C7C7" cx="4015.691" cy="2221.849" r="33.274" data-component="seat" data-name="105"/>
-				<circle fill="#C7C7C7" cx="4059.562" cy="2291.126" r="33.274" data-component="seat" data-name="106"/>
-				<circle fill="#C7C7C7" cx="4184.58" cy="2115.155" r="33.274" data-component="seat" data-name="107"/>
-				<circle fill="#C7C7C7" cx="4228.451" cy="2184.433" r="33.274" data-component="seat" data-name="108"/>
-				<circle fill="#C7C7C7" cx="4019.683" cy="2124.131" r="33.274" data-component="seat" data-name="109"/>
-				<circle fill="#C7C7C7" cx="4095.683" cy="2075.131" r="33.274" data-component="seat" data-name="110"/>
-				<circle fill="#C7C7C7" cx="3176.729" cy="4948.176" r="33.274" data-component="seat" data-name="111"/>
-				<circle fill="#C7C7C7" cx="3136.448" cy="4873.969" r="33.274" data-component="seat" data-name="112"/>
-				<circle fill="#C7C7C7" cx="3075.809" cy="4761.586" r="33.274" data-component="seat" data-name="113"/>
-				<circle fill="#C7C7C7" cx="3046.07" cy="4682.562" r="33.274" data-component="seat" data-name="114"/>
-				<circle fill="#C7C7C7" cx="2998.104" cy="4572.482" r="33.274" data-component="seat" data-name="115"/>
-				<circle fill="#C7C7C7" cx="2977.26" cy="4490.661" r="33.274" data-component="seat" data-name="116"/>
-				<circle fill="#C7C7C7" cx="2940.995" cy="4363.433" r="33.274" data-component="seat" data-name="117"/>
-				<circle fill="#C7C7C7" cx="2928.572" cy="4279.917" r="33.274" data-component="seat" data-name="118"/>
-				<circle fill="#C7C7C7" cx="2899.274" cy="4143.535" r="33.274" data-component="seat" data-name="119"/>
-				<circle fill="#C7C7C7" cx="2893.424" cy="4059.302" r="33.274" data-component="seat" data-name="120"/>
-				<circle fill="#C7C7C7" cx="2882.712" cy="3928.134" r="33.274" data-component="seat" data-name="121"/>
-				<circle fill="#C7C7C7" cx="2885.374" cy="3843.741" r="33.274" data-component="seat" data-name="122"/>
-				<circle fill="#C7C7C7" cx="2881.4" cy="3713.317" r="33.274" data-component="seat" data-name="123"/>
-				<circle fill="#C7C7C7" cx="2888.723" cy="3629.2" r="33.274" data-component="seat" data-name="124"/>
-				<circle fill="#C7C7C7" cx="2904.384" cy="3497.525" r="33.274" data-component="seat" data-name="125"/>
-				<circle fill="#C7C7C7" cx="2922.24" cy="3415" r="33.274" data-component="seat" data-name="126"/>
-				<circle fill="#C7C7C7" cx="3036.747" cy="3030.683" r="33.274" data-component="seat" data-name="127"/>
-				<circle fill="#C7C7C7" cx="3070.551" cy="2953.31" r="33.274" data-component="seat" data-name="128"/>
-				<circle fill="#C7C7C7" cx="3112.953" cy="2840.97" r="33.274" data-component="seat" data-name="129"/>
-				<circle fill="#C7C7C7" cx="3155.083" cy="2767.797" r="33.274" data-component="seat" data-name="130"/>
-				<circle fill="#C7C7C7" cx="3217.831" cy="2651.33" r="33.274" data-component="seat" data-name="131"/>
-				<circle fill="#C7C7C7" cx="3267.177" cy="2582.815" r="33.274" data-component="seat" data-name="132"/>
-				<circle fill="#C7C7C7" cx="3341.303" cy="2464.646" r="33.274" data-component="seat" data-name="133"/>
-				<circle fill="#C7C7C7" cx="3395.86" cy="2400.203" r="33.274" data-component="seat" data-name="134"/>
-				<circle fill="#C7C7C7" cx="3479.668" cy="2298.734" r="33.274" data-component="seat" data-name="135"/>
-				<circle fill="#C7C7C7" cx="3540.437" cy="2240.112" r="33.274" data-component="seat" data-name="136"/>
-				<circle fill="#C7C7C7" cx="3628.554" cy="2143.876" r="33.274" data-component="seat" data-name="137"/>
-				<circle fill="#C7C7C7" cx="3692.47" cy="2088.703" r="33.274" data-component="seat" data-name="138"/>
-				<circle fill="#C7C7C7" cx="3795.531" cy="2005.265" r="33.274" data-component="seat" data-name="139"/>
-				<circle fill="#C7C7C7" cx="3865.885" cy="1958.579" r="33.274" data-component="seat" data-name="140"/>
-				<circle fill="#C7C7C7" cx="6181.681" cy="1236.518" r="33.274" data-component="seat" data-name="141"/>
-				<circle fill="#C7C7C7" cx="6226.538" cy="1151.706" r="33.274" data-component="seat" data-name="142"/>
-				<circle fill="#C7C7C7" cx="6315.26" cy="1189.572" r="33.274" data-component="seat" data-name="143"/>
-				<circle fill="#C7C7C7" cx="6403.982" cy="1227.438" r="33.274" data-component="seat" data-name="144"/>
-				<circle fill="#C7C7C7" cx="6491.938" cy="1267.917" r="33.274" data-component="seat" data-name="145"/>
-				<circle fill="#C7C7C7" cx="6576.506" cy="1308.098" r="33.274" data-component="seat" data-name="146"/>
-				<circle fill="#C7C7C7" cx="6693.445" cy="1492.246" r="33.274" data-component="seat" data-name="147"/>
-				<circle fill="#C7C7C7" cx="6745.519" cy="1405.089" r="33.274" data-component="seat" data-name="148"/>
-				<circle fill="#C7C7C7" cx="6834.001" cy="1455.178" r="33.274" data-component="seat" data-name="149"/>
-				<circle fill="#C7C7C7" cx="6912.483" cy="1511.267" r="33.274" data-component="seat" data-name="150"/>
-				<circle fill="#C7C7C7" cx="6989.653" cy="1569.743" r="33.274" data-component="seat" data-name="151"/>
-				<circle fill="#C7C7C7" cx="7063.581" cy="1627.198" r="33.274" data-component="seat" data-name="152"/>
-				<circle fill="#C7C7C7" cx="7141.506" cy="1691.217" r="33.274" data-component="seat" data-name="153"/>
-				<circle fill="#C7C7C7" cx="7218.95" cy="1759.996" r="33.274" data-component="seat" data-name="154"/>
-				<circle fill="#C7C7C7" cx="7288.95" cy="1829.996" r="33.274" data-component="seat" data-name="155"/>
-				<circle fill="#C7C7C7" cx="7328.896" cy="1996.431" r="33.274" data-component="seat" data-name="156"/>
-				<circle fill="#C7C7C7" cx="7406.566" cy="1940.106" r="33.274" data-component="seat" data-name="157"/>
-				<circle fill="#C7C7C7" cx="7469.485" cy="2013.227" r="33.274" data-component="seat" data-name="158"/>
-				<circle fill="#C7C7C7" cx="7532.404" cy="2086.347" r="33.274" data-component="seat" data-name="159"/>
-				<circle fill="#C7C7C7" cx="7651.293" cy="2416.61" r="33.274" data-component="seat" data-name="160"/>
-				<circle fill="#C7C7C7" cx="7739.116" cy="2377.981" r="33.274" data-component="seat" data-name="161"/>
-				<circle fill="#C7C7C7" cx="7785.152" cy="2462.752" r="33.274" data-component="seat" data-name="162"/>
-				<circle fill="#C7C7C7" cx="7831.188" cy="2547.524" r="33.274" data-component="seat" data-name="163"/>
-				<circle fill="#C7C7C7" cx="7874.999" cy="2633.867" r="33.274" data-component="seat" data-name="164"/>
-				<circle fill="#C7C7C7" cx="7916.341" cy="2717.874" r="33.274" data-component="seat" data-name="165"/>
-				<circle fill="#C7C7C7" cx="7920.581" cy="2972.68" r="33.274" data-component="seat" data-name="166"/>
-				<circle fill="#C7C7C7" cx="8014.664" cy="2953.876" r="33.274" data-component="seat" data-name="167"/>
-				<circle fill="#C7C7C7" cx="8041.358" cy="3046.575" r="33.274" data-component="seat" data-name="168"/>
-				<circle fill="#C7C7C7" cx="8068.052" cy="3139.272" r="33.274" data-component="seat" data-name="169"/>
-				<circle fill="#C7C7C7" cx="8092.235" cy="3233.026" r="33.274" data-component="seat" data-name="170"/>
-				<circle fill="#C7C7C7" cx="8114.51" cy="3323.967" r="33.274" data-component="seat" data-name="171"/>
-				<circle fill="#C7C7C7" cx="8135.843" cy="3422.536" r="33.274" data-component="seat" data-name="172"/>
-				<circle fill="#C7C7C7" cx="8153.843" cy="3524.536" r="33.274" data-component="seat" data-name="173"/>
+		<g sector="585801936e55b2054f789fad" component="sector">
+			<g component="row" rowName="ряд 1">
+				<circle fill="#C7C7C7" cx="4827.797" cy="5106.075" r="33.274" component="seat" name="1"/>
+				<circle fill="#C7C7C7" cx="4866.481" cy="5033.773" r="33.274" component="seat" name="2"/>
+				<circle fill="#C7C7C7" cx="4679.636" cy="5020.348" r="33.274" component="seat" name="3"/>
+				<circle fill="#C7C7C7" cx="4718.32" cy="4948.046" r="33.274" component="seat" name="4"/>
+				<circle fill="#C7C7C7" cx="4581.848" cy="4960.859" r="33.274" component="seat" name="5"/>
+				<circle fill="#C7C7C7" cx="4632.349" cy="4896.256" r="33.274" component="seat" name="6"/>
+				<circle fill="#C7C7C7" cx="4450.568" cy="4851.011" r="33.274" component="seat" name="7"/>
+				<circle fill="#C7C7C7" cx="4501.07" cy="4786.408" r="33.274" component="seat" name="8"/>
+				<circle fill="#C7C7C7" cx="4475.349" cy="4968.256" r="33.274" component="seat" name="9"/>
+				<circle fill="#C7C7C7" cx="4363.431" cy="4774.136" r="33.274" component="seat" name="10"/>
+				<circle fill="#C7C7C7" cx="4426.098" cy="4721.251" r="33.274" component="seat" name="11"/>
+				<circle fill="#C7C7C7" cx="4257.444" cy="4639.72" r="33.274" component="seat" name="12"/>
+				<circle fill="#C7C7C7" cx="4320.111" cy="4586.834" r="33.274" component="seat" name="13"/>
+				<circle fill="#C7C7C7" cx="4187.772" cy="4547.003" r="33.274" component="seat" name="14"/>
+				<circle fill="#C7C7C7" cx="4259.806" cy="4507.822" r="33.274" component="seat" name="15"/>
+				<circle fill="#C7C7C7" cx="4111.026" cy="4393.997" r="33.274" component="seat" name="16"/>
+				<circle fill="#C7C7C7" cx="4183.06" cy="4354.816" r="33.274" component="seat" name="17"/>
+				<circle fill="#C7C7C7" cx="4072.58" cy="4288.253" r="33.274" component="seat" name="18"/>
+				<circle fill="#C7C7C7" cx="4151.334" cy="4265.409" r="33.274" component="seat" name="19"/>
+				<circle fill="#C7C7C7" cx="4030.387" cy="4122.359" r="33.274" component="seat" name="20"/>
+				<circle fill="#C7C7C7" cx="4109.141" cy="4099.516" r="33.274" component="seat" name="21"/>
+				<circle fill="#C7C7C7" cx="4012.524" cy="4018.408" r="33.274" component="seat" name="22"/>
+				<circle fill="#C7C7C7" cx="4093.954" cy="4008.759" r="33.274" component="seat" name="23"/>
+				<circle fill="#C7C7C7" cx="3998.044" cy="3847.847" r="33.274" component="seat" name="24"/>
+				<circle fill="#C7C7C7" cx="4079.475" cy="3838.198" r="33.274" component="seat" name="25"/>
+				<circle fill="#C7C7C7" cx="3999.778" cy="3734.224" r="33.274" component="seat" name="26"/>
+				<circle fill="#C7C7C7" cx="4081.14" cy="3744.434" r="33.274" component="seat" name="27"/>
+				<circle fill="#C7C7C7" cx="4026.728" cy="3565.183" r="33.274" component="seat" name="28"/>
+				<circle fill="#C7C7C7" cx="4108.09" cy="3575.394" r="33.274" component="seat" name="29"/>
+				<circle fill="#C7C7C7" cx="4054.038" cy="3459.236" r="33.274" component="seat" name="30"/>
+				<circle fill="#C7C7C7" cx="4132.402" cy="3483.384" r="33.274" component="seat" name="31"/>
+				<circle fill="#C7C7C7" cx="4109.858" cy="3297.418" r="33.274" component="seat" name="32"/>
+				<circle fill="#C7C7C7" cx="4188.222" cy="3321.567" r="33.274" component="seat" name="33"/>
+				<circle fill="#C7C7C7" cx="4165.678" cy="3187.127" r="33.274" component="seat" name="34"/>
+				<circle fill="#C7C7C7" cx="4232.348" cy="3234.868" r="33.274" component="seat" name="35"/>
+				<circle fill="#C7C7C7" cx="4269.91" cy="3051.345" r="33.274" component="seat" name="36"/>
+				<circle fill="#C7C7C7" cx="4336.58" cy="3099.087" r="33.274" component="seat" name="37"/>
+				<circle fill="#C7C7C7" cx="4349.182" cy="2961.775" r="33.274" component="seat" name="38"/>
+				<circle fill="#C7C7C7" cx="4405.983" cy="3020.916" r="33.274" component="seat" name="39"/>
+				<circle fill="#C7C7C7" cx="4476.514" cy="2847.374" r="33.274" component="seat" name="40"/>
+				<circle fill="#C7C7C7" cx="4571.795" cy="2769.758" r="33.274" component="seat" name="41"/>
+				<circle fill="#C7C7C7" cx="4614.564" cy="2839.721" r="33.274" component="seat" name="42"/>
+				<circle fill="#C7C7C7" cx="4720.73" cy="2685.382" r="33.274" component="seat" name="43"/>
+				<circle fill="#C7C7C7" cx="4760.73" cy="2755.382" r="33.274" component="seat" name="44"/>
+				<circle fill="#C7C7C7" cx="4815.224" cy="2515.994" r="33.274" component="seat" name="45"/>
+				<circle fill="#C7C7C7" cx="4834.498" cy="2595.697" r="33.274" component="seat" name="46"/>
+				<circle fill="#C7C7C7" cx="4982.095" cy="2474.001" r="33.274" component="seat" name="47"/>
+				<circle fill="#C7C7C7" cx="5001.369" cy="2553.704" r="33.274" component="seat" name="48"/>
+				<circle fill="#C7C7C7" cx="5132.405" cy="2445.681" r="33.274" component="seat" name="49"/>
+				<circle fill="#C7C7C7" cx="5137.906" cy="2527.497" r="33.274" component="seat" name="50"/>
+				<circle fill="#C7C7C7" cx="5175.402" cy="2371.292" r="33.274" component="seat" name="51"/>
+				<circle fill="#C7C7C7" cx="5257.146" cy="2364.818" r="33.274" component="seat" name="52"/>
+				<circle fill="#C7C7C7" cx="5112.236" cy="2142.622" r="33.274" component="seat" name="53"/>
+				<circle fill="#C7C7C7" cx="5117.223" cy="2224.47" r="33.274" component="seat" name="54"/>
+				<circle fill="#C7C7C7" cx="5151.354" cy="2068.052" r="33.274" component="seat" name="55"/>
+				<circle fill="#C7C7C7" cx="5233.136" cy="2062.092" r="33.274" component="seat" name="56"/>
+				<circle fill="#C7C7C7" cx="5083.691" cy="1797.007" r="33.274" component="seat" name="57"/>
+				<circle fill="#C7C7C7" cx="5088.679" cy="1878.855" r="33.274" component="seat" name="58"/>
+				<circle fill="#C7C7C7" cx="5122.809" cy="1722.437" r="33.274" component="seat" name="59"/>
+				<circle fill="#C7C7C7" cx="5204.592" cy="1716.476" r="33.274" component="seat" name="60"/>
+				<circle fill="#C7C7C7" cx="4755.683" cy="2311.295" r="33.274" component="seat" name="61"/>
+				<circle fill="#C7C7C7" cx="4789.509" cy="2203.76" r="33.274" component="seat" name="62"/>
+				<circle fill="#C7C7C7" cx="4875.014" cy="2188.102" r="33.274" component="seat" name="63"/>
+				<circle fill="#C7C7C7" cx="4945.209" cy="2275.156" r="33.274" component="seat" name="64"/>
+				<circle fill="#C7C7C7" cx="4712.057" cy="2042.208" r="33.274" component="seat" name="65"/>
+				<circle fill="#C7C7C7" cx="4745.882" cy="1934.673" r="33.274" component="seat" name="66"/>
+				<circle fill="#C7C7C7" cx="4831.387" cy="1919.015" r="33.274" component="seat" name="67"/>
+				<circle fill="#C7C7C7" cx="4901.583" cy="2006.069" r="33.274" component="seat" name="68"/>
+				<circle fill="#C7C7C7" cx="4229.524" cy="4973.179" r="33.274" component="seat" name="69"/>
+				<circle fill="#C7C7C7" cx="4114.716" cy="4818.114" r="33.274" component="seat" name="70"/>
+				<circle fill="#C7C7C7" cx="4036.048" cy="4709.404" r="33.274" component="seat" name="71"/>
+				<circle fill="#C7C7C7" cx="3939.845" cy="4542.158" r="33.274" component="seat" name="72"/>
+				<circle fill="#C7C7C7" cx="3884.73" cy="4419.689" r="33.274" component="seat" name="73"/>
+				<circle fill="#C7C7C7" cx="3818.862" cy="4238.339" r="33.274" component="seat" name="74"/>
+				<circle fill="#C7C7C7" cx="3784.933" cy="4099.516" r="33.274" component="seat" name="75"/>
+				<circle fill="#C7C7C7" cx="3769.864" cy="3907.164" r="33.274" component="seat" name="76"/>
+				<circle fill="#C7C7C7" cx="3768.866" cy="3784.146" r="33.274" component="seat" name="77"/>
+				<circle fill="#C7C7C7" cx="3796.498" cy="3593.194" r="33.274" component="seat" name="78"/>
+				<circle fill="#C7C7C7" cx="3822.899" cy="3453.97" r="33.274" component="seat" name="79"/>
+				<circle fill="#C7C7C7" cx="3888.38" cy="3272.48" r="33.274" component="seat" name="80"/>
+				<circle fill="#C7C7C7" cx="3962.417" cy="3133.293" r="33.274" component="seat" name="81"/>
+				<circle fill="#C7C7C7" cx="4064.223" cy="2969.397" r="33.274" component="seat" name="82"/>
+				<circle fill="#C7C7C7" cx="4158.382" cy="2837.702" r="33.274" component="seat" name="83"/>
+				<circle fill="#C7C7C7" cx="4306.313" cy="2713.837" r="33.274" component="seat" name="84"/>
+				<circle fill="#C7C7C7" cx="4434.783" cy="2614.528" r="33.274" component="seat" name="85"/>
+				<circle fill="#C7C7C7" cx="4603.599" cy="2521.107" r="33.274" component="seat" name="86"/>
+				<circle fill="#C7C7C7" cx="6146.834" cy="1644.941" r="33.274" component="seat" name="87"/>
+				<circle fill="#C7C7C7" cx="6105.755" cy="1724.734" r="33.274" component="seat" name="88"/>
+				<circle fill="#C7C7C7" cx="6072.295" cy="1813.554" r="33.274" component="seat" name="89"/>
+				<circle fill="#C7C7C7" cx="6226.762" cy="1681.52" r="33.274" component="seat" name="90"/>
+				<circle fill="#C7C7C7" cx="6308.845" cy="1722.707" r="33.274" component="seat" name="91"/>
+				<circle fill="#C7C7C7" cx="6389.194" cy="1765.863" r="33.274" component="seat" name="92"/>
+				<circle fill="#C7C7C7" cx="6050.77" cy="1954.205" r="33.274" component="seat" name="93"/>
+				<circle fill="#C7C7C7" cx="5951.439" cy="2011.385" r="33.274" component="seat" name="94"/>
+				<circle fill="#C7C7C7" cx="5959.178" cy="2126.962" r="33.274" component="seat" name="95"/>
+				<circle fill="#C7C7C7" cx="6123.172" cy="1992.699" r="33.274" component="seat" name="96"/>
+				<circle fill="#C7C7C7" cx="6195.575" cy="2031.194" r="33.274" component="seat" name="97"/>
+				<circle fill="#C7C7C7" cx="5877.774" cy="2261.345" r="33.274" component="seat" name="98"/>
+				<circle fill="#C7C7C7" cx="5843.569" cy="2335.87" r="33.274" component="seat" name="99"/>
+				<circle fill="#C7C7C7" cx="5809.364" cy="2410.396" r="33.274" component="seat" name="100"/>
+				<circle fill="#C7C7C7" cx="5991.427" cy="2246.542" r="33.274" component="seat" name="101"/>
+				<circle fill="#C7C7C7" cx="6055.39" cy="2343.116" r="33.274" component="seat" name="102"/>
+				<circle fill="#C7C7C7" cx="5741.537" cy="2570.397" r="33.274" component="seat" name="103"/>
+				<circle fill="#C7C7C7" cx="5707.333" cy="2644.923" r="33.274" component="seat" name="104"/>
+				<circle fill="#C7C7C7" cx="5673.128" cy="2719.448" r="33.274" component="seat" name="105"/>
+				<circle fill="#C7C7C7" cx="5855.19" cy="2555.594" r="33.274" component="seat" name="106"/>
+				<circle fill="#C7C7C7" cx="6654.443" cy="1898.46" r="33.274" component="seat" name="107"/>
+				<circle fill="#C7C7C7" cx="6595.914" cy="1966.495" r="33.274" component="seat" name="108"/>
+				<circle fill="#C7C7C7" cx="6542.692" cy="2045.082" r="33.274" component="seat" name="109"/>
+				<circle fill="#C7C7C7" cx="6723.657" cy="1952.644" r="33.274" component="seat" name="110"/>
+				<circle fill="#C7C7C7" cx="6793.894" cy="2011.812" r="33.274" component="seat" name="111"/>
+				<circle fill="#C7C7C7" cx="6861.986" cy="2072.491" r="33.274" component="seat" name="112"/>
+				<circle fill="#C7C7C7" cx="6489.008" cy="2176.855" r="33.274" component="seat" name="113"/>
+				<circle fill="#C7C7C7" cx="6379.094" cy="2209.335" r="33.274" component="seat" name="114"/>
+				<circle fill="#C7C7C7" cx="6359.708" cy="2323.537" r="33.274" component="seat" name="115"/>
+				<circle fill="#C7C7C7" cx="6550.458" cy="2231.151" r="33.274" component="seat" name="116"/>
+				<circle fill="#C7C7C7" cx="6611.907" cy="2285.446" r="33.274" component="seat" name="117"/>
+				<circle fill="#C7C7C7" cx="6249.251" cy="2435.271" r="33.274" component="seat" name="118"/>
+				<circle fill="#C7C7C7" cx="6198.634" cy="2499.784" r="33.274" component="seat" name="119"/>
+				<circle fill="#C7C7C7" cx="6148.016" cy="2564.296" r="33.274" component="seat" name="120"/>
+				<circle fill="#C7C7C7" cx="6363.228" cy="2447.339" r="33.274" component="seat" name="121"/>
+				<circle fill="#C7C7C7" cx="6402.945" cy="2556.153" r="33.274" component="seat" name="122"/>
+				<circle fill="#C7C7C7" cx="6044.797" cy="2704.107" r="33.274" component="seat" name="123"/>
+				<circle fill="#C7C7C7" cx="5994.18" cy="2768.62" r="33.274" component="seat" name="124"/>
+				<circle fill="#C7C7C7" cx="5943.563" cy="2833.132" r="33.274" component="seat" name="125"/>
+				<circle fill="#C7C7C7" cx="6158.773" cy="2716.175" r="33.274" component="seat" name="126"/>
+				<circle fill="#C7C7C7" cx="7041.64" cy="2236.937" r="33.274" component="seat" name="127"/>
+				<circle fill="#C7C7C7" cx="6970.485" cy="2291.63" r="33.274" component="seat" name="128"/>
+				<circle fill="#C7C7C7" cx="6902.378" cy="2357.736" r="33.274" component="seat" name="129"/>
+				<circle fill="#C7C7C7" cx="7098.372" cy="2304.078" r="33.274" component="seat" name="130"/>
+				<circle fill="#C7C7C7" cx="7155.092" cy="2376.306" r="33.274" component="seat" name="131"/>
+				<circle fill="#C7C7C7" cx="7209.404" cy="2449.577" r="33.274" component="seat" name="132"/>
+				<circle fill="#C7C7C7" cx="6766.844" cy="2482.852" r="33.274" component="seat" name="133"/>
+				<circle fill="#C7C7C7" cx="6704.152" cy="2535.708" r="33.274" component="seat" name="134"/>
+				<circle fill="#C7C7C7" cx="6641.461" cy="2588.564" r="33.274" component="seat" name="135"/>
+				<circle fill="#C7C7C7" cx="6875.977" cy="2517.872" r="33.274" component="seat" name="136"/>
+				<circle fill="#C7C7C7" cx="6892.709" cy="2632.492" r="33.274" component="seat" name="137"/>
+				<circle fill="#C7C7C7" cx="6511.741" cy="2695.628" r="33.274" component="seat" name="138"/>
+				<circle fill="#C7C7C7" cx="6449.049" cy="2748.484" r="33.274" component="seat" name="139"/>
+				<circle fill="#C7C7C7" cx="6386.357" cy="2801.34" r="33.274" component="seat" name="140"/>
+				<circle fill="#C7C7C7" cx="6620.873" cy="2730.648" r="33.274" component="seat" name="141"/>
+				<circle fill="#C7C7C7" cx="6637.605" cy="2845.269" r="33.274" component="seat" name="142"/>
+				<circle fill="#C7C7C7" cx="6256.836" cy="2917.208" r="33.274" component="seat" name="143"/>
+				<circle fill="#C7C7C7" cx="6194.145" cy="2970.064" r="33.274" component="seat" name="144"/>
+				<circle fill="#C7C7C7" cx="6131.453" cy="3022.92" r="33.274" component="seat" name="145"/>
+				<circle fill="#C7C7C7" cx="6365.968" cy="2952.228" r="33.274" component="seat" name="146"/>
+				<circle fill="#C7C7C7" cx="7345.95" cy="2661.765" r="33.274" component="seat" name="147"/>
+				<circle fill="#C7C7C7" cx="7265.648" cy="2701.84" r="33.274" component="seat" name="148"/>
+				<circle fill="#C7C7C7" cx="7186.154" cy="2753.698" r="33.274" component="seat" name="149"/>
+				<circle fill="#C7C7C7" cx="7388.793" cy="2738.518" r="33.274" component="seat" name="150"/>
+				<circle fill="#C7C7C7" cx="7430.65" cy="2820.261" r="33.274" component="seat" name="151"/>
+				<circle fill="#C7C7C7" cx="7469.945" cy="2902.568" r="33.274" component="seat" name="152"/>
+				<circle fill="#C7C7C7" cx="7392.293" cy="2965.986" r="33.274" component="seat" name="153"/>
+				<circle fill="#C7C7C7" cx="7056.499" cy="2822.026" r="33.274" component="seat" name="154"/>
+				<circle fill="#C7C7C7" cx="6976.197" cy="2862.1" r="33.274" component="seat" name="155"/>
+				<circle fill="#C7C7C7" cx="6896.703" cy="2913.959" r="33.274" component="seat" name="156"/>
+				<circle fill="#C7C7C7" cx="7099.342" cy="2898.778" r="33.274" component="seat" name="157"/>
+				<circle fill="#C7C7C7" cx="7141.199" cy="2980.522" r="33.274" component="seat" name="158"/>
+				<circle fill="#C7C7C7" cx="7180.495" cy="3062.829" r="33.274" component="seat" name="159"/>
+				<circle fill="#C7C7C7" cx="7102.842" cy="3126.247" r="33.274" component="seat" name="160"/>
+				<circle fill="#C7C7C7" cx="6738.101" cy="3010.635" r="33.274" component="seat" name="161"/>
+				<circle fill="#C7C7C7" cx="6666.457" cy="3050.524" r="33.274" component="seat" name="162"/>
+				<circle fill="#C7C7C7" cx="6594.813" cy="3090.413" r="33.274" component="seat" name="163"/>
+				<circle fill="#C7C7C7" cx="6838.52" cy="3065.881" r="33.274" component="seat" name="164"/>
+				<circle fill="#C7C7C7" cx="6833.02" cy="3181.586" r="33.274" component="seat" name="165"/>
+				<circle fill="#C7C7C7" cx="6445.521" cy="3179.368" r="33.274" component="seat" name="166"/>
+				<circle fill="#C7C7C7" cx="6373.876" cy="3219.257" r="33.274" component="seat" name="167"/>
+				<circle fill="#C7C7C7" cx="6302.232" cy="3259.146" r="33.274" component="seat" name="168"/>
+				<circle fill="#C7C7C7" cx="6545.939" cy="3234.615" r="33.274" component="seat" name="169"/>
+				<circle fill="#C7C7C7" cx="7575.18" cy="3200.782" r="33.274" component="seat" name="170"/>
+				<circle fill="#C7C7C7" cx="7595.728" cy="3280.166" r="33.274" component="seat" name="171"/>
+				<circle fill="#C7C7C7" cx="7616.275" cy="3359.55" r="33.274" component="seat" name="172"/>
+				<circle fill="#C7C7C7" cx="7385.433" cy="3249.896" r="33.274" component="seat" name="173"/>
+				<circle fill="#C7C7C7" cx="7405.981" cy="3329.28" r="33.274" component="seat" name="174"/>
+				<circle fill="#C7C7C7" cx="7426.528" cy="3408.664" r="33.274" component="seat" name="175"/>
 			</g>
 		</g>
 	</g>
