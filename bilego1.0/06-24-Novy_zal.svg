@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="map-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="768" height="1024" viewBox="0 0 7680 10240" xml:space="preserve">
+	<metadata>
+		<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+		<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c014 79.151739, 2013/04/03-12:12:15">
+			<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				<rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/" xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/" xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#" xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">
+					<xmpTPg:MaxPageSize rdf:parseType="Resource">
+						<stDim:w>10240.000397</stDim:w>
+						<stDim:h>7680.000000</stDim:h>
+						<stDim:unit>Points</stDim:unit>
+					</xmpTPg:MaxPageSize>
+					<xmpTPg:NPages>1</xmpTPg:NPages>
+					<xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+					<xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+					<xmpTPg:Fonts>
+						<rdf:Bag>
+							<rdf:li rdf:parseType="Resource">
+								<stFnt:fontName>DINPro</stFnt:fontName>
+								<stFnt:fontFamily>DIN Pro</stFnt:fontFamily>
+								<stFnt:fontFace>Regular</stFnt:fontFace>
+								<stFnt:fontType>TrueType</stFnt:fontType>
+								<stFnt:versionString>Version 7.504; 2005; Build 1021</stFnt:versionString>
+								<stFnt:composite>False</stFnt:composite>
+								<stFnt:fontFileName>DINPro.ttf</stFnt:fontFileName>
+							</rdf:li>
+						</rdf:Bag>
+					</xmpTPg:Fonts>
+					<xmpTPg:PlateNames>
+						<rdf:Seq>
+							<rdf:li>Cyan</rdf:li>
+							<rdf:li>Magenta</rdf:li>
+							<rdf:li>Yellow</rdf:li>
+							<rdf:li>Black</rdf:li>
+						</rdf:Seq>
+					</xmpTPg:PlateNames>
+					<xmpTPg:SwatchGroups>
+						<rdf:Seq>
+							<rdf:li rdf:parseType="Resource">
+								<xmpG:groupName>Default Swatch Group</xmpG:groupName>
+								<xmpG:groupType>0</xmpG:groupType>
+							</rdf:li>
+						</rdf:Seq>
+					</xmpTPg:SwatchGroups>
+					<dc:format>image/svg+xml</dc:format>
+				</rdf:Description>
+			</rdf:RDF>
+		</x:xmpmeta>
+		<?xpacket end="w"?>
+	</metadata>
+	<g id="background">
+		<path id="1"/>
+		<g id="details">
+			<path fill="#F5F5F5" d="M2104.7,2818.8v122.9c0,22.8,10.5,44.4,28.5,58.4c133.2,103.6,726.2,520.5,1637.4,520.5
+				c911.2,0,1513.2-417,1648.6-520.5c18.3-14,29-35.7,29-58.8v-122.5c0-40.9-33.1-74-74-74H2178.7
+				C2137.8,2744.8,2104.7,2777.9,2104.7,2818.8z"/>
+			<text transform="matrix(1 0 0 1 4989.6079 3761.1079)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">1</text>
+			<text transform="matrix(1 0 0 1 5013.6079 3961.5078)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">2</text>
+			<text transform="matrix(1 0 0 1 5037.6079 4161.9077)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">3</text>
+			<text transform="matrix(1 0 0 1 5061.6079 4362.3076)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">4</text>
+			<text transform="matrix(1 0 0 1 5040.7573 4985.9502)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">5</text>
+			<text transform="matrix(1 0 0 1 5052.4575 5218.6001)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">6</text>
+			<text transform="matrix(1 0 0 1 5055.1572 5451.25)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">7</text>
+			<text transform="matrix(1 0 0 1 5061.6074 5693.8003)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">8</text>
+			<text transform="matrix(1 0 0 1 5065.9575 5924.3496)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">9</text>
+			<text transform="matrix(1 0 0 1 5286.7573 6115.1494)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">10</text>
+			<text transform="matrix(1 0 0 1 5293.7246 6341.9346)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">11</text>
+			<text transform="matrix(1 0 0 1 5300.6919 6579.5195)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">12</text>
+			<text transform="matrix(1 0 0 1 5306.459 6812.2002)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">13</text>
+			<text transform="matrix(1 0 0 1 5069.8262 7084.6001)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">14</text>
+			<text transform="matrix(1 0 0 1 2504.5488 3761.1079)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">1</text>
+			<text transform="matrix(1 0 0 1 3504.9873 3160.1604)" fill="#8A8A8A" font-family="DINPro-Bold, Helvetica, sans-serif" font-size="187.017px">Сцена</text>
+			<text transform="matrix(1 0 0 1 2486.5488 3961.5078)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">2</text>
+			<text transform="matrix(1 0 0 1 2468.3235 4161.9077)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">3</text>
+			<text transform="matrix(1 0 0 1 2450.5488 4362.3076)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">4</text>
+			<text transform="matrix(1 0 0 1 2468.3237 4985.9502)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">5</text>
+			<text transform="matrix(1 0 0 1 2464.1985 5218.6001)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">6</text>
+			<text transform="matrix(1 0 0 1 2450.5486 5451.25)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">7</text>
+			<text transform="matrix(1 0 0 1 2450.5486 5693.8003)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">8</text>
+			<text transform="matrix(1 0 0 1 2437.7 5924.3496)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">9</text>
+			<text transform="matrix(1 0 0 1 2152.7986 6115.1494)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">10</text>
+			<text transform="matrix(1 0 0 1 2146.3582 6341.9346)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">11</text>
+			<text transform="matrix(1 0 0 1 2141.3931 6579.5195)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">12</text>
+			<text transform="matrix(1 0 0 1 2139.2 6812.2002)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">13</text>
+			<text transform="matrix(1 0 0 1 2368.7671 7084.6001)" fill="#8A8A8A" font-family="DINPro, Helvetica, sans-serif" font-size="113.9019px">14</text>
+		</g>
+	</g>
+	<g id="labels">
+		<text dataSectorId="1">Сектор #1</text>
+	</g>
+	<g id="seats">
+		<g dataSectorId="1" dataComponent="svg__sector" dataElId="1">
+			<g dataComponent="svg__row" dataName="1" dataElId="1">
+				<circle fill="#C7C7C7" cx="4902.2" cy="3740.2" r="34.8" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="4788.2" cy="3764.2" r="34.8" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="4674.2" cy="3788.2" r="34.8" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="4560.2" cy="3812.2" r="34.8" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="4446.2" cy="3836.2" r="34.8" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="4332.2" cy="3860.2" r="34.8" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="4218.2" cy="3884.2" r="34.8" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="4104.2" cy="3908.2" r="34.8" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="3990.2" cy="3932.2" r="34.8" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="2649.8" cy="3740.2" r="34.8" dataComponent="svg__seat" dataName="18"/>
+				<circle fill="#C7C7C7" cx="2763.8" cy="3764.2" r="34.8" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="2877.8" cy="3788.2" r="34.8" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="2991.8" cy="3812.2" r="34.8" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="3105.8" cy="3836.2" r="34.8" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="3219.8" cy="3860.2" r="34.8" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="3333.8" cy="3884.2" r="34.8" dataComponent="svg__seat" dataName="12"/>
+				<circle fill="#C7C7C7" cx="3447.8" cy="3908.2" r="34.8" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="3561.8" cy="3932.2" r="34.8" dataComponent="svg__seat" dataName="10"/>
+			</g>
+			<g dataComponent="svg__row" dataName="2" dataElId="2">
+				<circle fill="#C7C7C7" cx="4919" cy="3943" r="34.8" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="4805" cy="3967" r="34.8" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="4691" cy="3991" r="34.8" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="4577" cy="4015" r="34.8" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="4463" cy="4039" r="34.8" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="4349" cy="4063" r="34.8" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="4235" cy="4087" r="34.8" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="4121" cy="4111" r="34.8" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="4007" cy="4135" r="34.8" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="2633" cy="3943" r="34.8" dataComponent="svg__seat" dataName="18"/>
+				<circle fill="#C7C7C7" cx="2747" cy="3967" r="34.8" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="2861" cy="3991" r="34.8" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="2975" cy="4015" r="34.8" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="3089" cy="4039" r="34.8" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="3203" cy="4063" r="34.8" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="3317" cy="4087" r="34.8" dataComponent="svg__seat" dataName="12"/>
+				<circle fill="#C7C7C7" cx="3431" cy="4111" r="34.8" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="3545" cy="4135" r="34.8" dataComponent="svg__seat" dataName="10"/>
+			</g>
+			<g dataComponent="svg__row" dataName="3" dataElId="3">
+				<circle fill="#C7C7C7" cx="4935.8" cy="4145.8" r="34.8" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="4821.8" cy="4169.8" r="34.8" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="4707.8" cy="4193.8" r="34.8" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="4593.8" cy="4217.8" r="34.8" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="4479.8" cy="4241.8" r="34.8" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="4365.8" cy="4265.8" r="34.8" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="4251.8" cy="4289.8" r="34.8" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="4137.8" cy="4313.8" r="34.8" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="4023.8" cy="4337.8" r="34.8" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="2616.2" cy="4145.8" r="34.8" dataComponent="svg__seat" dataName="18"/>
+				<circle fill="#C7C7C7" cx="2730.2" cy="4169.8" r="34.8" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="2844.2" cy="4193.8" r="34.8" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="2958.2" cy="4217.8" r="34.8" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="3072.2" cy="4241.8" r="34.8" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="3186.2" cy="4265.8" r="34.8" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="3300.2" cy="4289.8" r="34.8" dataComponent="svg__seat" dataName="12"/>
+				<circle fill="#C7C7C7" cx="3414.2" cy="4313.8" r="34.8" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="3528.2" cy="4337.8" r="34.8" dataComponent="svg__seat" dataName="10"/>
+			</g>
+			<g dataComponent="svg__row" dataName="4" dataElId="4">
+				<circle fill="#C7C7C7" cx="4952.6" cy="4348.6" r="34.8" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="4838.6" cy="4372.6" r="34.8" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="4724.6" cy="4396.6" r="34.8" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="4610.6" cy="4420.6" r="34.8" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="4496.6" cy="4444.6" r="34.8" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="4382.6" cy="4468.6" r="34.8" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="4268.6" cy="4492.6" r="34.8" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="4154.6" cy="4516.6" r="34.8" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="4040.6" cy="4540.6" r="34.8" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="2599.4" cy="4348.6" r="34.8" dataComponent="svg__seat" dataName="18"/>
+				<circle fill="#C7C7C7" cx="2713.4" cy="4372.6" r="34.8" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="2827.4" cy="4396.6" r="34.8" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="2941.4" cy="4420.6" r="34.8" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="3055.4" cy="4444.6" r="34.8" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="3169.4" cy="4468.6" r="34.8" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="3283.4" cy="4492.6" r="34.8" dataComponent="svg__seat" dataName="12"/>
+				<circle fill="#C7C7C7" cx="3397.4" cy="4516.6" r="34.8" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="3511.4" cy="4540.6" r="34.8" dataComponent="svg__seat" dataName="10"/>
+			</g>
+			<g dataComponent="svg__row" dataName="5" dataElId="5">
+				<circle fill="#C7C7C7" cx="4943" cy="4957" r="34.8" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="4829" cy="4981" r="34.8" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="4715" cy="5005" r="34.8" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="4601" cy="5029" r="34.8" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="4487" cy="5053" r="34.8" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="4373" cy="5077" r="34.8" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="4259" cy="5101" r="34.8" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="4145" cy="5125" r="34.8" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="4031" cy="5149" r="34.8" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="2609" cy="4957" r="34.8" dataComponent="svg__seat" dataName="18"/>
+				<circle fill="#C7C7C7" cx="2723" cy="4981" r="34.8" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="2837" cy="5005" r="34.8" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="2951" cy="5029" r="34.8" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="3065" cy="5053" r="34.8" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="3179" cy="5077" r="34.8" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="3293" cy="5101" r="34.8" dataComponent="svg__seat" dataName="12"/>
+				<circle fill="#C7C7C7" cx="3407" cy="5125" r="34.8" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="3521" cy="5149" r="34.8" dataComponent="svg__seat" dataName="10"/>
+			</g>
+			<g dataComponent="svg__row" dataName="6" dataElId="6">
+				<circle fill="#C7C7C7" cx="4947.5" cy="5194.6" r="34.8" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="4833.5" cy="5218.6" r="34.8" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="4719.5" cy="5242.6" r="34.8" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="4605.5" cy="5266.6" r="34.8" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="4491.5" cy="5290.6" r="34.8" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="4377.5" cy="5314.6" r="34.8" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="4263.5" cy="5338.6" r="34.8" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="4149.5" cy="5362.6" r="34.8" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="4035.5" cy="5386.6" r="34.8" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="2604.5" cy="5194.6" r="34.8" dataComponent="svg__seat" dataName="18"/>
+				<circle fill="#C7C7C7" cx="2718.5" cy="5218.6" r="34.8" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="2832.5" cy="5242.6" r="34.8" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="2946.5" cy="5266.6" r="34.8" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="3060.5" cy="5290.6" r="34.8" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="3174.5" cy="5314.6" r="34.8" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="3288.5" cy="5338.6" r="34.8" dataComponent="svg__seat" dataName="12"/>
+				<circle fill="#C7C7C7" cx="3402.5" cy="5362.6" r="34.8" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="3516.5" cy="5386.6" r="34.8" dataComponent="svg__seat" dataName="10"/>
+			</g>
+			<g dataComponent="svg__row" dataName="7" dataElId="7">
+				<circle fill="#C7C7C7" cx="4952" cy="5432.2" r="34.8" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="4838" cy="5456.2" r="34.8" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="4724" cy="5480.2" r="34.8" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="4610" cy="5504.2" r="34.8" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="4496" cy="5528.2" r="34.8" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="4382" cy="5552.2" r="34.8" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="4268" cy="5576.2" r="34.8" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="4154" cy="5600.2" r="34.8" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="4040" cy="5624.2" r="34.8" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="2600" cy="5432.2" r="34.8" dataComponent="svg__seat" dataName="18"/>
+				<circle fill="#C7C7C7" cx="2714" cy="5456.2" r="34.8" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="2828" cy="5480.2" r="34.8" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="2942" cy="5504.2" r="34.8" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="3056" cy="5528.2" r="34.8" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="3170" cy="5552.2" r="34.8" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="3284" cy="5576.2" r="34.8" dataComponent="svg__seat" dataName="12"/>
+				<circle fill="#C7C7C7" cx="3398" cy="5600.2" r="34.8" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="3512" cy="5624.2" r="34.8" dataComponent="svg__seat" dataName="10"/>
+			</g>
+			<g dataComponent="svg__row" dataName="8" dataElId="8">
+				<circle fill="#C7C7C7" cx="4956.5" cy="5669.8" r="34.8" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="4842.5" cy="5693.8" r="34.8" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="4728.5" cy="5717.8" r="34.8" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="4614.5" cy="5741.8" r="34.8" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="4500.5" cy="5765.8" r="34.8" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="4386.5" cy="5789.8" r="34.8" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="4272.5" cy="5813.8" r="34.8" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="4158.5" cy="5837.8" r="34.8" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="4044.5" cy="5861.8" r="34.8" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="2595.5" cy="5669.8" r="34.8" dataComponent="svg__seat" dataName="18"/>
+				<circle fill="#C7C7C7" cx="2709.5" cy="5693.8" r="34.8" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="2823.5" cy="5717.8" r="34.8" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="2937.5" cy="5741.8" r="34.8" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="3051.5" cy="5765.8" r="34.8" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="3165.5" cy="5789.8" r="34.8" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="3279.5" cy="5813.8" r="34.8" dataComponent="svg__seat" dataName="12"/>
+				<circle fill="#C7C7C7" cx="3393.5" cy="5837.8" r="34.8" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="3507.5" cy="5861.8" r="34.8" dataComponent="svg__seat" dataName="10"/>
+			</g>
+			<g dataComponent="svg__row" dataName="9" dataElId="9">
+				<circle fill="#C7C7C7" cx="4961" cy="5907.4" r="34.8" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="4847" cy="5931.4" r="34.8" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="4733" cy="5955.4" r="34.8" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="4619" cy="5979.4" r="34.8" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="4505" cy="6003.4" r="34.8" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="4391" cy="6027.4" r="34.8" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="4277" cy="6051.4" r="34.8" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="4163" cy="6075.4" r="34.8" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="4049" cy="6099.4" r="34.8" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="2591" cy="5907.4" r="34.8" dataComponent="svg__seat" dataName="18"/>
+				<circle fill="#C7C7C7" cx="2705" cy="5931.4" r="34.8" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="2819" cy="5955.4" r="34.8" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="2933" cy="5979.4" r="34.8" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="3047" cy="6003.4" r="34.8" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="3161" cy="6027.4" r="34.8" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="3275" cy="6051.4" r="34.8" dataComponent="svg__seat" dataName="12"/>
+				<circle fill="#C7C7C7" cx="3389" cy="6075.4" r="34.8" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="3503" cy="6099.4" r="34.8" dataComponent="svg__seat" dataName="10"/>
+			</g>
+			<g dataComponent="svg__row" dataName="10" dataElId="10">
+				<circle fill="#C7C7C7" cx="5193.5" cy="6086.2" r="34.8" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="5079.5" cy="6110.2" r="34.8" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="4965.5" cy="6134.2" r="34.8" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="4851.5" cy="6158.2" r="34.8" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="4737.5" cy="6182.2" r="34.8" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="4623.5" cy="6206.2" r="34.8" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="4509.5" cy="6230.2" r="34.8" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="4395.5" cy="6254.2" r="34.8" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="4281.5" cy="6278.2" r="34.8" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="4167.5" cy="6302.2" r="34.8" dataComponent="svg__seat" dataName="10"/>
+				<circle fill="#C7C7C7" cx="4053.5" cy="6326.2" r="34.8" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="2358.5" cy="6086.2" r="34.8" dataComponent="svg__seat" dataName="22"/>
+				<circle fill="#C7C7C7" cx="2472.5" cy="6110.2" r="34.8" dataComponent="svg__seat" dataName="21"/>
+				<circle fill="#C7C7C7" cx="2586.5" cy="6134.2" r="34.8" dataComponent="svg__seat" dataName="20"/>
+				<circle fill="#C7C7C7" cx="2700.5" cy="6158.2" r="34.8" dataComponent="svg__seat" dataName="19"/>
+				<circle fill="#C7C7C7" cx="2814.5" cy="6182.2" r="34.8" dataComponent="svg__seat" dataName="18"/>
+				<circle fill="#C7C7C7" cx="2928.5" cy="6206.2" r="34.8" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="3042.5" cy="6230.2" r="34.8" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="3156.5" cy="6254.2" r="34.8" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="3270.5" cy="6278.2" r="34.8" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="3384.5" cy="6302.2" r="34.8" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="3498.5" cy="6326.2" r="34.8" dataComponent="svg__seat" dataName="12"/>
+			</g>
+			<g dataComponent="svg__row" dataName="11" dataElId="11">
+				<circle fill="#C7C7C7" cx="5193.5" cy="6323.8" r="34.8" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="5079.5" cy="6347.8" r="34.8" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="4965.5" cy="6371.8" r="34.8" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="4851.5" cy="6395.8" r="34.8" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="4737.5" cy="6419.8" r="34.8" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="4623.5" cy="6443.8" r="34.8" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="4509.5" cy="6467.8" r="34.8" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="4395.5" cy="6491.8" r="34.8" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="4281.5" cy="6515.8" r="34.8" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="4167.5" cy="6539.8" r="34.8" dataComponent="svg__seat" dataName="10"/>
+				<circle fill="#C7C7C7" cx="4053.5" cy="6563.8" r="34.8" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="2358.5" cy="6323.8" r="34.8" dataComponent="svg__seat" dataName="22"/>
+				<circle fill="#C7C7C7" cx="2472.5" cy="6347.8" r="34.8" dataComponent="svg__seat" dataName="21"/>
+				<circle fill="#C7C7C7" cx="2586.5" cy="6371.8" r="34.8" dataComponent="svg__seat" dataName="20"/>
+				<circle fill="#C7C7C7" cx="2700.5" cy="6395.8" r="34.8" dataComponent="svg__seat" dataName="19"/>
+				<circle fill="#C7C7C7" cx="2814.5" cy="6419.8" r="34.8" dataComponent="svg__seat" dataName="18"/>
+				<circle fill="#C7C7C7" cx="2928.5" cy="6443.8" r="34.8" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="3042.5" cy="6467.8" r="34.8" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="3156.5" cy="6491.8" r="34.8" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="3270.5" cy="6515.8" r="34.8" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="3384.5" cy="6539.8" r="34.8" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="3498.5" cy="6563.8" r="34.8" dataComponent="svg__seat" dataName="12"/>
+			</g>
+			<g dataComponent="svg__row" dataName="12" dataElId="12">
+				<circle fill="#C7C7C7" cx="5193.5" cy="6561.4" r="34.8" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="5079.5" cy="6585.4" r="34.8" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="4965.5" cy="6609.4" r="34.8" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="4851.5" cy="6633.4" r="34.8" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="4737.5" cy="6657.4" r="34.8" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="4623.5" cy="6681.4" r="34.8" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="4509.5" cy="6705.4" r="34.8" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="4395.5" cy="6729.4" r="34.8" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="4281.5" cy="6753.4" r="34.8" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="4167.5" cy="6777.4" r="34.8" dataComponent="svg__seat" dataName="10"/>
+				<circle fill="#C7C7C7" cx="4053.5" cy="6801.4" r="34.8" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="2358.5" cy="6561.4" r="34.8" dataComponent="svg__seat" dataName="22"/>
+				<circle fill="#C7C7C7" cx="2472.5" cy="6585.4" r="34.8" dataComponent="svg__seat" dataName="21"/>
+				<circle fill="#C7C7C7" cx="2586.5" cy="6609.4" r="34.8" dataComponent="svg__seat" dataName="20"/>
+				<circle fill="#C7C7C7" cx="2700.5" cy="6633.4" r="34.8" dataComponent="svg__seat" dataName="19"/>
+				<circle fill="#C7C7C7" cx="2814.5" cy="6657.4" r="34.8" dataComponent="svg__seat" dataName="18"/>
+				<circle fill="#C7C7C7" cx="2928.5" cy="6681.4" r="34.8" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="3042.5" cy="6705.4" r="34.8" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="3156.5" cy="6729.4" r="34.8" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="3270.5" cy="6753.4" r="34.8" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="3384.5" cy="6777.4" r="34.8" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="3498.5" cy="6801.4" r="34.8" dataComponent="svg__seat" dataName="12"/>
+			</g>
+			<g dataComponent="svg__row" dataName="13" dataElId="13">
+				<circle fill="#C7C7C7" cx="5193.5" cy="6799" r="34.8" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="5079.5" cy="6823" r="34.8" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="4965.5" cy="6847" r="34.8" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="4851.5" cy="6871" r="34.8" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="4737.5" cy="6895" r="34.8" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="4623.5" cy="6919" r="34.8" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="4509.5" cy="6943" r="34.8" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="4395.5" cy="6967" r="34.8" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="4281.5" cy="6991" r="34.8" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="4167.5" cy="7015" r="34.8" dataComponent="svg__seat" dataName="10"/>
+				<circle fill="#C7C7C7" cx="4053.5" cy="7039" r="34.8" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="2358.5" cy="6799" r="34.8" dataComponent="svg__seat" dataName="22"/>
+				<circle fill="#C7C7C7" cx="2472.5" cy="6823" r="34.8" dataComponent="svg__seat" dataName="21"/>
+				<circle fill="#C7C7C7" cx="2586.5" cy="6847" r="34.8" dataComponent="svg__seat" dataName="20"/>
+				<circle fill="#C7C7C7" cx="2700.5" cy="6871" r="34.8" dataComponent="svg__seat" dataName="19"/>
+				<circle fill="#C7C7C7" cx="2814.5" cy="6895" r="34.8" dataComponent="svg__seat" dataName="18"/>
+				<circle fill="#C7C7C7" cx="2928.5" cy="6919" r="34.8" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="3042.5" cy="6943" r="34.8" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="3156.5" cy="6967" r="34.8" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="3270.5" cy="6991" r="34.8" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="3384.5" cy="7015" r="34.8" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="3498.5" cy="7039" r="34.8" dataComponent="svg__seat" dataName="12"/>
+			</g>
+			<g dataComponent="svg__row" dataName="14" dataElId="14">
+				<circle fill="#C7C7C7" cx="4965.5" cy="7084.6" r="34.8" dataComponent="svg__seat" dataName="1"/>
+				<circle fill="#C7C7C7" cx="4851.5" cy="7108.6" r="34.8" dataComponent="svg__seat" dataName="2"/>
+				<circle fill="#C7C7C7" cx="4737.5" cy="7132.6" r="34.8" dataComponent="svg__seat" dataName="3"/>
+				<circle fill="#C7C7C7" cx="4623.5" cy="7156.6" r="34.8" dataComponent="svg__seat" dataName="4"/>
+				<circle fill="#C7C7C7" cx="4509.5" cy="7180.6" r="34.8" dataComponent="svg__seat" dataName="5"/>
+				<circle fill="#C7C7C7" cx="4395.5" cy="7204.6" r="34.8" dataComponent="svg__seat" dataName="6"/>
+				<circle fill="#C7C7C7" cx="4281.5" cy="7228.6" r="34.8" dataComponent="svg__seat" dataName="7"/>
+				<circle fill="#C7C7C7" cx="4167.5" cy="7252.6" r="34.8" dataComponent="svg__seat" dataName="8"/>
+				<circle fill="#C7C7C7" cx="4053.5" cy="7276.6" r="34.8" dataComponent="svg__seat" dataName="9"/>
+				<circle fill="#C7C7C7" cx="2586.5" cy="7084.6" r="34.8" dataComponent="svg__seat" dataName="18"/>
+				<circle fill="#C7C7C7" cx="2700.5" cy="7108.6" r="34.8" dataComponent="svg__seat" dataName="17"/>
+				<circle fill="#C7C7C7" cx="2814.5" cy="7132.6" r="34.8" dataComponent="svg__seat" dataName="16"/>
+				<circle fill="#C7C7C7" cx="2928.5" cy="7156.6" r="34.8" dataComponent="svg__seat" dataName="15"/>
+				<circle fill="#C7C7C7" cx="3042.5" cy="7180.6" r="34.8" dataComponent="svg__seat" dataName="14"/>
+				<circle fill="#C7C7C7" cx="3156.5" cy="7204.6" r="34.8" dataComponent="svg__seat" dataName="13"/>
+				<circle fill="#C7C7C7" cx="3270.5" cy="7228.6" r="34.8" dataComponent="svg__seat" dataName="12"/>
+				<circle fill="#C7C7C7" cx="3384.5" cy="7252.6" r="34.8" dataComponent="svg__seat" dataName="11"/>
+				<circle fill="#C7C7C7" cx="3498.5" cy="7276.6" r="34.8" dataComponent="svg__seat" dataName="10"/>
+			</g>
+		</g>
+	</g>
+</svg>
