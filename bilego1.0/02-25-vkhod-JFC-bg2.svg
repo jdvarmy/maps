@@ -109,6 +109,14 @@
 			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="7300.101" cy="4014.025" r="56.944"/>
 			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="6800.101" cy="4014.025" r="56.944"/>
 			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="4143.12" cy="2983.375" r="56.944"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="3797.498" cy="4322.473" r="95"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="5185.498" cy="4322.473" r="95"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="6189.498" cy="4024.672" r="95"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="7047.016" cy="4024.672" r="95"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="3714.454" cy="3554.518" r="95"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="4729.944" cy="3554.518" r="95"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="6093.8" cy="2742.518" r="95"/>
+			<circle fill="none" stroke="#B5B5B5" stroke-width="5" stroke-miterlimit="10" cx="6766.249" cy="2742.518" r="95"/>
 			<text transform="matrix(1 0 0 1 3423.1543 2774.4097)" fill="#8A8A8A" font-family="'DINPro'" font-size="88.8423">0</text>
 			<text transform="matrix(1 0 0 1 3774.3108 4354.3647)" fill="#8A8A8A" font-family="'DINPro'" font-size="88.8423">1</text>
 			<text transform="matrix(1 0 0 1 5162.3105 4354.3647)" fill="#8A8A8A" font-family="'DINPro'" font-size="88.8423">2</text>
